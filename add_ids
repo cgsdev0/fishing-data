@@ -1,0 +1,26 @@
+#!/bin/bash
+
+declare -A ids
+pushd fish-by-rarity2
+
+for file in *; do
+  echo "Loading $file..."
+  while IFS= read -r line; do
+    id="${line%% *}"
+    rest="${line#* }"
+    ids["$rest"]="$id"
+  done < "$file"
+done
+
+popd
+
+cd badcop_
+
+
+for file in *; do
+  echo "$file"
+  while IFS= read -r line; do
+    id="${ids["$line"]}"
+    echo "$id $line"
+  done < "$file" | sponge "$file"
+done
