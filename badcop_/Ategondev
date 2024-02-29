@@ -1,9 +1,9 @@
-5001 Black bass
-5002 Crawfish
-5007 Salmon
+4 Perch
+7 Bass
+28 Anchovy
 17 Spot Fish
 14 Sardine
-5005 Loach
+16 Trout
 43 Clownfish
 17 Spot Fish
 5013 Sakhalin sturgeon
@@ -11,7 +11,7 @@
 74 Mola Mola Fish
 100 Jellyfish
 45 Clownfish
-5003 Frog
+11 Sardine
 62 Barracuda
 43 Clownfish
 94 Lobster
@@ -29,7 +29,7 @@
 5 Perch
 77 Turtle
 29 Herring
-5007 Salmon
+28 Anchovy
 5012 Red Handfish
 47 Eel
 19 Trout

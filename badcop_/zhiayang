@@ -1,4 +1,4 @@
-5008 Sea bass
+32 Cod
 19 Trout
 3 Tilpia
 43 Clownfish
@@ -9,7 +9,7 @@
 62 Barracuda
 47 Eel
 31 Cod
-5004 Horse mackerel
+13 Sardine
 77 Turtle
 43 Clownfish
 57 Spearfish
@@ -17,11 +17,11 @@
 5049 Axolotl
 5013 Sakhalin sturgeon
 47 Eel
-5001 Black bass
+4 Perch
 50 Damsel Fish
 98 Jellyfish
 38 Snapper
-5004 Horse mackerel
+13 Sardine
 90 Seahorse
 40 Anglerfish
 31 Cod
@@ -39,34 +39,34 @@
 46 Eel
 14 Sardine
 81 Starfish
-5004 Horse mackerel
+13 Sardine
 62 Barracuda
 75 Mola Mola Fish
 38 Snapper
 93 Blue Lobster
 84 Crab
-5000 Bitterling
+1 Tilapia
 29 Herring
-5004 Horse mackerel
-5004 Horse mackerel
+13 Sardine
+13 Sardine
 47 Eel
 63 Barracuda
 81 Starfish
-5002 Crawfish
+7 Bass
 65 Piranha
-5009 Halibut
+37 Snapper
 81 Starfish
 14 Sardine
 47 Eel
 5067 Pop-eyed goldfish
-5004 Horse mackerel
+13 Sardine
 3 Tilpia
-5003 Frog
+11 Sardine
 79 Turtle
 19 Trout
 3 Tilpia
 56 Spearfish
-5003 Frog
+11 Sardine
 41 Anglerfish
 5027 Cutthroat Trout
 71 Angel Fish
@@ -78,13 +78,13 @@
 38 Snapper
 46 Eel
 74 Mola Mola Fish
-5004 Horse mackerel
+13 Sardine
 5010 Blahaj
 33 Cod
 59 Salmon
 60 Green Salmon
-5009 Halibut
-5001 Black bass
+37 Snapper
+4 Perch
 14 Sardine
 17 Spot Fish
 59 Salmon
@@ -94,7 +94,7 @@
 63 Barracuda
 38 Snapper
 69 Grouper
-5001 Black bass
+4 Perch
 19 Trout
 24 Pufferfish
 71 Angel Fish
@@ -102,7 +102,7 @@
 41 Anglerfish
 34 Triple Tail
 10 Sardine
-5004 Horse mackerel
+13 Sardine
 26 Catfish
 5013 Sakhalin sturgeon
 79 Turtle
@@ -113,7 +113,7 @@
 53 Bluegill
 53 Bluegill
 40 Anglerfish
-5002 Crawfish
+7 Bass
 27 Catfish
 74 Mola Mola Fish
 69 Grouper

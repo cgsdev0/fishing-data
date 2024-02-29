@@ -1,5 +1,5 @@
 17 Spot Fish
-5004 Horse mackerel
+13 Sardine
 14 Sardine
 29 Herring
 62 Barracuda
@@ -7,14 +7,14 @@
 5029 {NULL}fish
 44 Clownfish
 44 Clownfish
-5006 Pond smelt
+23 Pufferfish
 40 Anglerfish
 44 Clownfish
 24 Pufferfish
 5031 Boot
-5005 Loach
+16 Trout
 38 Snapper
-5005 Loach
+16 Trout
 5059 Great white shark
 55 Spearfish
 98 Jellyfish
@@ -33,8 +33,8 @@
 26 Catfish
 34 Triple Tail
 14 Sardine
-5002 Crawfish
-5000 Bitterling
+7 Bass
+1 Tilapia
 5 Perch
 79 Turtle
 30 Herring
@@ -52,8 +52,8 @@
 74 Mola Mola Fish
 77 Turtle
 65 Piranha
-5004 Horse mackerel
-5007 Salmon
+13 Sardine
+28 Anchovy
 94 Lobster
 59 Salmon
 46 Eel
@@ -62,8 +62,8 @@
 14 Sardine
 45 Clownfish
 10 Sardine
-5009 Halibut
-5001 Black bass
+37 Snapper
+4 Perch
 5 Perch
 19 Trout
-5009 Halibut
+37 Snapper

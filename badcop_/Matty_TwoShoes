@@ -1,4 +1,4 @@
-5000 Bitterling
+1 Tilapia
 5029 {NULL}fish
 5029 {NULL}fish
 5029 {NULL}fish
@@ -9,12 +9,12 @@
 5029 {NULL}fish
 5029 {NULL}fish
 5029 {NULL}fish
-5002 Crawfish
+7 Bass
 74 Mola Mola Fish
 77 Turtle
-5009 Halibut
+37 Snapper
 72 Angelfish
-5003 Frog
+11 Sardine
 56 Spearfish
 34 Triple Tail
 19 Trout
@@ -28,7 +28,7 @@
 74 Mola Mola Fish
 21 Trout
 19 Trout
-5001 Black bass
+4 Perch
 14 Sardine
 94 Lobster
 31 Cod
@@ -36,8 +36,8 @@
 31 Cod
 62 Barracuda
 25 Catfish
-5005 Loach
+16 Trout
 55 Spearfish
-5007 Salmon
+28 Anchovy
 65 Piranha
 79 Turtle

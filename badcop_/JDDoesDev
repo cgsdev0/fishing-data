@@ -1,15 +1,15 @@
-5003 Frog
-5008 Sea bass
+11 Sardine
+32 Cod
 17 Spot Fish
-5001 Black bass
-5002 Crawfish
-5007 Salmon
-5006 Pond smelt
+4 Perch
+7 Bass
+28 Anchovy
+23 Pufferfish
 38 Snapper
 47 Eel
 55 Spearfish
 5012 Red Handfish
-5001 Black bass
+4 Perch
 79 Turtle
 75 Mola Mola Fish
 51 Damsel Fish
@@ -25,7 +25,7 @@
 54 Redgill
 46 Eel
 89 Seahorse
-5008 Sea bass
+32 Cod
 82 Starfish
 82 Starfish
 3 Tilpia

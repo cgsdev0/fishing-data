@@ -1,10 +1,10 @@
-5005 Loach
-5001 Black bass
+16 Trout
+4 Perch
 74 Mola Mola Fish
 89 Seahorse
 53 Bluegill
 3 Tilpia
-5008 Sea bass
+32 Cod
 50 Damsel Fish
 89 Seahorse
 20 Trout
@@ -30,7 +30,7 @@
 57 Spearfish
 44 Clownfish
 5031 Boot
-5006 Pond smelt
+23 Pufferfish
 62 Barracuda
 53 Bluegill
 12 Sardine
@@ -38,7 +38,7 @@
 69 Grouper
 81 Starfish
 77 Turtle
-5003 Frog
+11 Sardine
 76 Mola Mola Fish
 81 Starfish
 43 Clownfish
@@ -48,7 +48,7 @@
 10 Sardine
 19 Trout
 8 Bass
-5008 Sea bass
+32 Cod
 44 Clownfish
 46 Eel
 50 Damsel Fish
@@ -64,24 +64,24 @@
 65 Piranha
 53 Bluegill
 8 Bass
-5007 Salmon
+28 Anchovy
 60 Green Salmon
 29 Herring
-5008 Sea bass
+32 Cod
 45 Clownfish
 5013 Sakhalin sturgeon
-5007 Salmon
+28 Anchovy
 45 Clownfish
-5005 Loach
+16 Trout
 14 Sardine
 65 Piranha
 62 Barracuda
 55 Spearfish
 59 Salmon
-5002 Crawfish
+7 Bass
 81 Starfish
 19 Trout
-5000 Bitterling
-5008 Sea bass
+1 Tilapia
+32 Cod
 77 Turtle
 62 Barracuda

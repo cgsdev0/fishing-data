@@ -1,4 +1,4 @@
-5000 Bitterling
+1 Tilapia
 25 Catfish
 59 Salmon
 17 Spot Fish
@@ -6,149 +6,149 @@
 17 Spot Fish
 65 Piranha
 22 Pufferfish
-5006 Pond smelt
-5006 Pond smelt
+23 Pufferfish
+23 Pufferfish
 75 Mola Mola Fish
 39 Snapperfish
 15 Spotfish
 55 Spearfish
-5006 Pond smelt
+23 Pufferfish
 19 Trout
 17 Spot Fish
 17 Spot Fish
 43 Clownfish
 17 Spot Fish
 34 Triple Tail
-5003 Frog
-5008 Sea bass
+11 Sardine
+32 Cod
 65 Piranha
 3 Tilpia
-5006 Pond smelt
-5004 Horse mackerel
-5003 Frog
-5005 Loach
-5007 Salmon
+23 Pufferfish
+13 Sardine
+11 Sardine
+16 Trout
+28 Anchovy
 5067 Pop-eyed goldfish
 17 Spot Fish
 38 Snapper
-5006 Pond smelt
+23 Pufferfish
 12 Sardine
 5031 Boot
 34 Triple Tail
 38 Snapper
 38 Snapper
 14 Sardine
-5005 Loach
+16 Trout
 77 Turtle
 30 Herring
-5004 Horse mackerel
+13 Sardine
 14 Sardine
 5 Perch
 71 Angel Fish
 53 Bluegill
 51 Damsel Fish
-5005 Loach
+16 Trout
 34 Triple Tail
-5000 Bitterling
+1 Tilapia
 22 Pufferfish
-5006 Pond smelt
+23 Pufferfish
 39 Snapperfish
 30 Herring
-5004 Horse mackerel
+13 Sardine
 5029 {NULL}fish
-5003 Frog
-5007 Salmon
+11 Sardine
+28 Anchovy
 31 Cod
-5005 Loach
+16 Trout
 56 Spearfish
 75 Mola Mola Fish
-5008 Sea bass
+32 Cod
 22 Pufferfish
-5008 Sea bass
-5005 Loach
+32 Cod
+16 Trout
 5029 {NULL}fish
-5003 Frog
-5002 Crawfish
+11 Sardine
+7 Bass
 31 Cod
-5009 Halibut
-5001 Black bass
-5007 Salmon
+37 Snapper
+4 Perch
+28 Anchovy
 65 Piranha
 41 Anglerfish
-5008 Sea bass
+32 Cod
 5059 Great white shark
-5002 Crawfish
-5002 Crawfish
-5001 Black bass
+7 Bass
+7 Bass
+4 Perch
 19 Trout
 68 Grouper
 43 Clownfish
 47 Eel
-5007 Salmon
-5009 Halibut
+28 Anchovy
+37 Snapper
 89 Seahorse
 43 Clownfish
-5000 Bitterling
+1 Tilapia
 53 Bluegill
 59 Salmon
 5029 {NULL}fish
 5027 Cutthroat Trout
 36 Triple Tail
 6 Perch
-5004 Horse mackerel
-5001 Black bass
+13 Sardine
+4 Perch
 34 Triple Tail
-5002 Crawfish
+7 Bass
 31 Cod
-5008 Sea bass
+32 Cod
 17 Spot Fish
-5001 Black bass
-5009 Halibut
-5002 Crawfish
-5001 Black bass
+4 Perch
+37 Snapper
+7 Bass
+4 Perch
 5 Perch
 53 Bluegill
 94 Lobster
-5004 Horse mackerel
+13 Sardine
 44 Clownfish
-5005 Loach
-5001 Black bass
-5007 Salmon
+16 Trout
+4 Perch
+28 Anchovy
 46 Eel
-5007 Salmon
-5006 Pond smelt
+28 Anchovy
+23 Pufferfish
 69 Grouper
 30 Herring
 44 Clownfish
 36 Triple Tail
-5009 Halibut
-5002 Crawfish
-5006 Pond smelt
-5007 Salmon
-5002 Crawfish
+37 Snapper
+7 Bass
+23 Pufferfish
+28 Anchovy
+7 Bass
 46 Eel
-5004 Horse mackerel
-5008 Sea bass
+13 Sardine
+32 Cod
 34 Triple Tail
-5004 Horse mackerel
-5000 Bitterling
+13 Sardine
+1 Tilapia
 40 Anglerfish
-5005 Loach
+16 Trout
 19 Trout
 54 Redgill
-5007 Salmon
-5001 Black bass
+28 Anchovy
+4 Perch
 43 Clownfish
 55 Spearfish
 5 Perch
 46 Eel
 98 Jellyfish
-5003 Frog
-5002 Crawfish
-5009 Halibut
-5005 Loach
+11 Sardine
+7 Bass
+37 Snapper
+16 Trout
 30 Herring
-5004 Horse mackerel
+13 Sardine
 39 Snapperfish
 10 Sardine
 14 Sardine
@@ -157,18 +157,18 @@
 17 Spot Fish
 34 Triple Tail
 62 Barracuda
-5002 Crawfish
+7 Bass
 71 Angel Fish
 81 Starfish
-5005 Loach
-5002 Crawfish
+16 Trout
+7 Bass
 69 Grouper
 40 Anglerfish
 38 Snapper
 48 Electric Eel
 46 Eel
-5008 Sea bass
-5009 Halibut
+32 Cod
+37 Snapper
 39 Snapperfish
 65 Piranha
 46 Eel

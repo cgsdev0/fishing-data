@@ -1,4 +1,4 @@
-5005 Loach
+16 Trout
 41 Anglerfish
 8 Bass
 30 Herring
@@ -12,11 +12,11 @@
 89 Seahorse
 59 Salmon
 63 Barracuda
-5003 Frog
+11 Sardine
 79 Turtle
 43 Clownfish
 25 Catfish
-5001 Black bass
+4 Perch
 44 Clownfish
 90 Seahorse
 47 Eel
@@ -26,12 +26,12 @@
 14 Sardine
 17 Spot Fish
 5031 Boot
-5002 Crawfish
-5003 Frog
+7 Bass
+11 Sardine
 5 Perch
 10 Sardine
 5 Perch
-5002 Crawfish
+7 Bass
 50 Damsel Fish
 20 Trout
 47 Eel
@@ -39,4 +39,4 @@
 59 Salmon
 72 Angelfish
 84 Crab
-5008 Sea bass
+32 Cod

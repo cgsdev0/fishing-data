@@ -5,7 +5,7 @@
 30 Herring
 69 Grouper
 47 Eel
-5000 Bitterling
+1 Tilapia
 5029 {NULL}fish
 8 Bass
 33 Cod
@@ -22,14 +22,14 @@
 10 Sardine
 69 Grouper
 72 Angelfish
-5006 Pond smelt
+23 Pufferfish
 5010 Blahaj
 50 Damsel Fish
 50 Damsel Fish
 5031 Boot
 29 Herring
 5026 GamerPieJess fish
-5003 Frog
+11 Sardine
 44 Clownfish
 77 Turtle
 48 Electric Eel
@@ -42,6 +42,6 @@
 55 Spearfish
 89 Seahorse
 69 Grouper
-5008 Sea bass
-5007 Salmon
-5009 Halibut
+32 Cod
+28 Anchovy
+37 Snapper

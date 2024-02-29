@@ -1,9 +1,9 @@
-5006 Pond smelt
+23 Pufferfish
 25 Catfish
 38 Snapper
 10 Sardine
 5049 Axolotl
-5007 Salmon
+28 Anchovy
 43 Clownfish
 31 Cod
 33 Cod
@@ -17,8 +17,8 @@
 5031 Boot
 41 Anglerfish
 10 Sardine
-5009 Halibut
-5009 Halibut
+37 Snapper
+37 Snapper
 19 Trout
 9 Bass
 54 Redgill
@@ -40,37 +40,37 @@
 40 Anglerfish
 55 Spearfish
 17 Spot Fish
-5002 Crawfish
+7 Bass
 65 Piranha
 69 Grouper
-5006 Pond smelt
+23 Pufferfish
 82 Starfish
-5005 Loach
-5003 Frog
-5005 Loach
-5006 Pond smelt
+16 Trout
+11 Sardine
+16 Trout
+23 Pufferfish
 48 Electric Eel
 51 Damsel Fish
 14 Sardine
 20 Trout
 76 Mola Mola Fish
-5005 Loach
+16 Trout
 5029 {NULL}fish
 47 Eel
-5008 Sea bass
-5000 Bitterling
+32 Cod
+1 Tilapia
 36 Triple Tail
-5002 Crawfish
-5005 Loach
+7 Bass
+16 Trout
 33 Cod
-5006 Pond smelt
+23 Pufferfish
 47 Eel
-5005 Loach
-5002 Crawfish
+16 Trout
+7 Bass
 5031 Boot
 41 Anglerfish
 24 Pufferfish
-5002 Crawfish
+7 Bass
 20 Trout
 75 Mola Mola Fish
 93 Blue Lobster
