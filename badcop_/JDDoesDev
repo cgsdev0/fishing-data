@@ -1,33 +1,33 @@
-Frog
-Sea bass
-Carp
-Black bass
-Crawfish
-Salmon
-Pond smelt
-Cherry salmon
-Butterfly fish
-King salmon
-Red Handfish
-Black bass
-Stringfish
-Betta
-Dorado
-{NULL}fish
-Giant snakehead
-Great white shark
-Snapping Turtle
-Snapping Turtle
-Neon tetra
-Freshwater goby
-Soft-shelled turtle
-Red snapper
-Giant snakehead
-Crucian carp
-Mitten crab
-Sea bass
-Koi
-Koi
-Football fish
-Cutthroat Trout
-Tuna
+5003 Frog
+5008 Sea bass
+5002 Carp
+5001 Black bass
+5002 Crawfish
+5007 Salmon
+5006 Pond smelt
+5004 Cherry salmon
+5004 Butterfly fish
+5009 King salmon
+5002 Red Handfish
+5001 Black bass
+5001 Stringfish
+5001 Betta
+5005 Dorado
+5000 {NULL}fish
+5007 Giant snakehead
+5009 Great white shark
+5022 Snapping Turtle
+5022 Snapping Turtle
+5013 Neon tetra
+5007 Freshwater goby
+5014 Soft-shelled turtle
+5012 Red snapper
+5007 Giant snakehead
+5005 Crucian carp
+5010 Mitten crab
+5008 Sea bass
+5011 Koi
+5011 Koi
+5006 Football fish
+5012 Cutthroat Trout
+5026 Tuna

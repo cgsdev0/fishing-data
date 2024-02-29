@@ -1,27 +1,27 @@
-Crawfish
-Dab
-Pop-eyed goldfish
-Freshwater goby
-Bitterling
-Halibut
-Blahaj
-Killifish
-Barred knifejaw
-Dab
-Sweetfish
-Guppy
-Sweetfish
-Dab
-Mahi-mahi
-Blowfish
-Pond smelt
-Ranchu goldfish
-Catfish
-Coelacanth
-Great white shark
-Piranha
-Red snapper
-{NULL}fish
-Puffer fish
-Bitterling
-Olive flounder
+5002 Crawfish
+5006 Dab
+5017 Pop-eyed goldfish
+5007 Freshwater goby
+5000 Bitterling
+5009 Halibut
+5000 Blahaj
+5008 Killifish
+5002 Barred knifejaw
+5006 Dab
+5012 Sweetfish
+5010 Guppy
+5012 Sweetfish
+5006 Dab
+5004 Mahi-mahi
+5003 Blowfish
+5006 Pond smelt
+5019 Ranchu goldfish
+5003 Catfish
+5004 Coelacanth
+5009 Great white shark
+5016 Piranha
+5012 Red snapper
+5000 {NULL}fish
+5009 Puffer fish
+5000 Bitterling
+5011 Olive flounder

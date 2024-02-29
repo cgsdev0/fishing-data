@@ -1,47 +1,47 @@
-{NULL}fish
-Halibut
-Loach
-Tadpole
-Crawfish
-Bluegill
-Squid
-Blowfish
-Koi
-Crawfish
-Golden trout
-Piranha
-Sturgeon
-Red snapper
-Bitterling
-Barred knifejaw
-Catfish
-Horse mackerel
-Blue marlin
-Blahaj
-Black bass
-Moray eel
-Butterfly fish
-Piranha
-Anchovy
-Pike
-Crucian carp
-Butterfly fish
-Football fish
-Crawfish
-Olive flounder
-Squid
-Pale chub
-Oarfish
-Bitterling
-Crawfish
-Butterfly fish
-Mitten crab
-Killifish
-Pale chub
-Puffer fish
-Anchovy
-Football fish
-Yellow perch
-Football fish
-Guppy
-Soft-shelled turtle
+5000 {NULL}fish
+5009 Halibut
+5005 Loach
+5013 Tadpole
+5002 Crawfish
+5000 Bluegill
+5011 Squid
+5003 Blowfish
+5011 Koi
+5002 Crawfish
+5002 Golden trout
+5016 Piranha
+5023 Sturgeon
+5012 Red snapper
+5000 Bitterling
+5002 Barred knifejaw
+5003 Catfish
+5004 Horse mackerel
+5002 Blue marlin
+5000 Blahaj
+5001 Black bass
+5012 Moray eel
+5004 Butterfly fish
+5016 Piranha
+5000 Anchovy
+5015 Pike
+5005 Crucian carp
+5004 Butterfly fish
+5006 Football fish
+5002 Crawfish
+5011 Olive flounder
+5011 Squid
+5008 Pale chub
+5006 Oarfish
+5000 Bitterling
+5002 Crawfish
+5004 Butterfly fish
+5010 Mitten crab
+5008 Killifish
+5008 Pale chub
+5009 Puffer fish
+5000 Anchovy
+5006 Football fish
+5015 Yellow perch
+5006 Football fish
+5010 Guppy
+5014 Soft-shelled turtle

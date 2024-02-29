@@ -1,26 +1,26 @@
-Mitten crab
-Black bass
-Dorado
-Squid
-Sea bass
-Freshwater goby
-Catfish
-{NULL}fish
-Zebra turkeyfish
-Sea butterfly
-Crawfish
-Zebra turkeyfish
-Boot
-Sea bass
-Frog
-Killifish
-Football fish
-Squid
-Cherry salmon
-Zebra turkeyfish
-Pond smelt
-Cherry salmon
-Soft-shelled turtle
-{NULL}fish
-Bitterling
-Dace
+5010 Mitten crab
+5001 Black bass
+5005 Dorado
+5011 Squid
+5008 Sea bass
+5007 Freshwater goby
+5003 Catfish
+5000 {NULL}fish
+5016 Zebra turkeyfish
+5010 Sea butterfly
+5002 Crawfish
+5016 Zebra turkeyfish
+5001 Boot
+5008 Sea bass
+5003 Frog
+5008 Killifish
+5006 Football fish
+5011 Squid
+5004 Cherry salmon
+5016 Zebra turkeyfish
+5006 Pond smelt
+5004 Cherry salmon
+5014 Soft-shelled turtle
+5000 {NULL}fish
+5000 Bitterling
+5007 Dace
