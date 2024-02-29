@@ -14,13 +14,13 @@
 5077 Anchovy
 5001 Black bass
 5088 Olive flounder
-5072 Snapping Turtle
+87 Shrimp
 5026 GamerPieJess fish
 5090 Sea horse
 5007 Salmon
-5055 Dorado
+51 Damsel Fish
 5034 Cherry salmon
-5054 Coelacanth
+100 Jellyfish
 5091 Soft-shelled turtle
 5001 Black bass
 5091 Soft-shelled turtle
@@ -28,7 +28,7 @@
 5087 Mitten crab
 5037 Dace
 5003 Frog
-5074 Suckerfish
+60 Green Salmon
 5006 Pond smelt
 5043 Tadpole
 5030 Bluegill
@@ -38,16 +38,16 @@
 5080 Blowfish
 5034 Cherry salmon
 5002 Crawfish
-5069 Ranchu goldfish
+39 Snapperfish
 5007 Salmon
-5069 Ranchu goldfish
+39 Snapperfish
 5085 Killifish
-5070 Ray
-5062 Moray eel
-5058 Goldfish
+41 Anglerfish
+68 Grouper
+15 Spotfish
 5033 Catfish
 5081 Butterfly fish
-5075 Surgeonfish
+33 Cod
 5078 Angelfish
 5009 Halibut
 5036 Dab
@@ -62,12 +62,12 @@
 5082 Clown fish
 5078 Angelfish
 5032 Carp
-5053 Char
+48 Electric Eel
 5035 Crucian carp
 21 Trout
 5031 Boot
 5079 Barred knifejaw
-5076 Tuna
+63 Barracuda
 5000 Bitterling
 5080 Blowfish
 5080 Blowfish
@@ -93,8 +93,8 @@
 76 Mola Mola Fish
 5037 Dace
 5030 Bluegill
-5063 Neon tetra
-5069 Ranchu goldfish
+84 Crab
+39 Snapperfish
 5040 Sea butterfly
 36 Triple Tail
 5027 Cutthroat Trout
@@ -120,7 +120,7 @@
 5002 Crawfish
 5079 Barred knifejaw
 5004 Horse mackerel
-5052 Blue marlin
+35 Triple Tail
 5081 Butterfly fish
 5035 Crucian carp
 5090 Sea horse
@@ -128,7 +128,7 @@
 5009 Halibut
 5089 Red snapper
 5083 Football fish
-5053 Char
+48 Electric Eel
 5036 Dab
 5077 Anchovy
 5008 Sea bass
@@ -155,12 +155,12 @@
 5008 Sea bass
 5040 Sea butterfly
 5037 Dace
-5072 Snapping Turtle
+87 Shrimp
 5090 Sea horse
-5050 Arowana
+78 Turtle
 5087 Mitten crab
-5058 Goldfish
-5058 Goldfish
+15 Spotfish
+15 Spotfish
 5090 Sea horse
 5035 Crucian carp
 5002 Crawfish
@@ -175,7 +175,7 @@
 5090 Sea horse
 5030 Bluegill
 5091 Soft-shelled turtle
-5076 Tuna
+63 Barracuda
 5032 Carp
 5009 Halibut
 5087 Mitten crab
@@ -209,16 +209,16 @@
 97 Golden Takoyaki
 5046 Zebra turkeyfish
 5002 Crawfish
-5075 Surgeonfish
+33 Cod
 76 Mola Mola Fish
-5057 Giant snakehead
+54 Redgill
 57 Spearfish
 5040 Sea butterfly
-5060 Guppy
+45 Clownfish
 5091 Soft-shelled turtle
 5035 Crucian carp
 5033 Catfish
-5058 Goldfish
+15 Spotfish
 5079 Barred knifejaw
 5087 Mitten crab
 5002 Crawfish
@@ -232,13 +232,13 @@
 5003 Frog
 21 Trout
 5091 Soft-shelled turtle
-5058 Goldfish
+15 Spotfish
 5088 Olive flounder
 76 Mola Mola Fish
 5077 Anchovy
 5085 Killifish
 5079 Barred knifejaw
 5026 GamerPieJess fish
-5058 Goldfish
+15 Spotfish
 5033 Catfish
 5091 Soft-shelled turtle

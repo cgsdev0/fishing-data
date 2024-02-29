@@ -1,9 +1,9 @@
 5035 Crucian carp
 5030 Bluegill
-5074 Suckerfish
+60 Green Salmon
 5045 Yellow perch
 5079 Barred knifejaw
-5058 Goldfish
+15 Spotfish
 5086 King salmon
 36 Triple Tail
 5077 Anchovy
@@ -11,7 +11,7 @@
 5087 Mitten crab
 5007 Salmon
 5079 Barred knifejaw
-5058 Goldfish
+15 Spotfish
 5084 Freshwater goby
 5002 Crawfish
 5046 Zebra turkeyfish
@@ -24,7 +24,7 @@
 5033 Catfish
 5086 King salmon
 5009 Halibut
-5062 Moray eel
+68 Grouper
 5085 Killifish
 5007 Salmon
 5084 Freshwater goby
@@ -33,9 +33,9 @@
 5081 Butterfly fish
 5005 Loach
 5037 Dace
-5060 Guppy
+45 Clownfish
 5082 Clown fish
-5071 Ribbon eel
+26 Catfish
 5044 Tilapia
 5005 Loach
 5003 Frog
@@ -50,11 +50,11 @@
 5035 Crucian carp
 5082 Clown fish
 5032 Carp
-5055 Dorado
-5066 Piranha
-5066 Piranha
+51 Damsel Fish
+24 Pufferfish
+24 Pufferfish
 5004 Horse mackerel
-5060 Guppy
+45 Clownfish
 5080 Blowfish
 5000 Bitterling
 5035 Crucian carp
@@ -64,7 +64,7 @@
 5036 Dab
 5044 Tilapia
 5006 Pond smelt
-5068 Rainbowfish
+72 Angelfish
 5009 Halibut
 9 Bass
 5008 Sea bass
@@ -75,7 +75,7 @@
 5029 {NULL}fish
 5006 Pond smelt
 5085 Killifish
-5070 Ray
+41 Anglerfish
 5045 Yellow perch
 5032 Carp
 5045 Yellow perch

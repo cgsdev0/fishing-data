@@ -8,17 +8,17 @@
 5002 Crawfish
 5004 Horse mackerel
 5006 Pond smelt
-5066 Piranha
+24 Pufferfish
 5008 Sea bass
 5046 Zebra turkeyfish
 5003 Frog
 5034 Cherry salmon
-5074 Suckerfish
+60 Green Salmon
 5030 Bluegill
 5077 Anchovy
 5077 Anchovy
 5007 Salmon
-5066 Piranha
+24 Pufferfish
 5039 Puffer fish
 5036 Dab
 76 Mola Mola Fish
@@ -27,7 +27,7 @@
 5046 Zebra turkeyfish
 5081 Butterfly fish
 5040 Sea butterfly
-5055 Dorado
+51 Damsel Fish
 5003 Frog
 5006 Pond smelt
 5005 Loach
@@ -37,7 +37,7 @@
 57 Spearfish
 32 Cod
 7 Bass
-5054 Coelacanth
+100 Jellyfish
 2 Tilapia
 5005 Loach
 14 Sardine
@@ -54,3 +54,4 @@
 7 Bass
 5089 Red snapper
 5037 Dace
+5007 Salmon

@@ -9,30 +9,30 @@
 5009 Halibut
 5031 Boot
 5000 Bitterling
-5050 Arowana
-5062 Moray eel
+78 Turtle
+68 Grouper
 5009 Halibut
 5088 Olive flounder
 5008 Sea bass
 5007 Salmon
-5065 Pike
+20 Trout
 5000 Bitterling
 5043 Tadpole
-5071 Ribbon eel
+26 Catfish
 5000 Bitterling
 5005 Loach
 5079 Barred knifejaw
 76 Mola Mola Fish
-5055 Dorado
+51 Damsel Fish
 5038 Pale chub
 5006 Pond smelt
 12 Sardine
 5042 Sweetfish
 5000 Bitterling
-5075 Surgeonfish
-5062 Moray eel
+33 Cod
+68 Grouper
 5078 Angelfish
-5066 Piranha
+24 Pufferfish
 79 Turtle
 5027 Cutthroat Trout
 5049 Axolotl
@@ -46,7 +46,7 @@
 5001 Black bass
 27 Catfish
 5086 King salmon
-5062 Moray eel
+68 Grouper
 27 Catfish
 5037 Dace
 5035 Crucian carp

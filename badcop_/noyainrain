@@ -12,12 +12,12 @@
 5004 Horse mackerel
 5088 Olive flounder
 5035 Crucian carp
-5068 Rainbowfish
+72 Angelfish
 5000 Bitterling
 5091 Soft-shelled turtle
 5046 Zebra turkeyfish
 5001 Black bass
-5055 Dorado
+51 Damsel Fish
 5005 Loach
 5000 Bitterling
 5085 Killifish
@@ -25,7 +25,7 @@
 5001 Black bass
 5006 Pond smelt
 5005 Loach
-5062 Moray eel
+68 Grouper
 5008 Sea bass
 5001 Black bass
 5001 Black bass
@@ -36,7 +36,7 @@
 5006 Pond smelt
 5009 Halibut
 5036 Dab
-5068 Rainbowfish
+72 Angelfish
 5005 Loach
 5009 Halibut
 5005 Loach
@@ -44,7 +44,7 @@
 5002 Crawfish
 5087 Mitten crab
 5009 Halibut
-5053 Char
+48 Electric Eel
 5091 Soft-shelled turtle
 5086 King salmon
 5008 Sea bass

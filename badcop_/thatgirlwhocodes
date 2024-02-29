@@ -7,24 +7,24 @@
 5008 Sea bass
 5077 Anchovy
 5087 Mitten crab
-5065 Pike
+20 Trout
 5081 Butterfly fish
 18 Trout
 5078 Angelfish
-5051 Betta
+75 Mola Mola Fish
 5084 Freshwater goby
 5086 King salmon
-5075 Surgeonfish
+33 Cod
 5034 Cherry salmon
 5038 Pale chub
-5069 Ranchu goldfish
+39 Snapperfish
 5040 Sea butterfly
-5066 Piranha
+24 Pufferfish
 5027 Cutthroat Trout
-5065 Pike
+20 Trout
 76 Mola Mola Fish
 5079 Barred knifejaw
-5053 Char
+48 Electric Eel
 5079 Barred knifejaw
 5082 Clown fish
 57 Spearfish
@@ -44,7 +44,7 @@
 5045 Yellow perch
 5079 Barred knifejaw
 5085 Killifish
-5075 Surgeonfish
+33 Cod
 5078 Angelfish
 5085 Killifish
 5084 Freshwater goby
@@ -60,18 +60,18 @@
 5081 Butterfly fish
 5036 Dab
 5086 King salmon
-5069 Ranchu goldfish
+39 Snapperfish
 5038 Pale chub
 5036 Dab
 5084 Freshwater goby
 5007 Salmon
-5074 Suckerfish
+60 Green Salmon
 5033 Catfish
 5008 Sea bass
-5060 Guppy
+45 Clownfish
 5013 Sakhalin sturgeon
 5007 Salmon
-5060 Guppy
+45 Clownfish
 5005 Loach
 5030 Bluegill
 5038 Pale chub

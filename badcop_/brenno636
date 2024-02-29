@@ -8,8 +8,8 @@
 5030 Bluegill
 5028 404 Fish
 5036 Dab
-5068 Rainbowfish
-5072 Snapping Turtle
+72 Angelfish
+87 Shrimp
 5080 Blowfish
 5078 Angelfish
 5091 Soft-shelled turtle
@@ -17,19 +17,19 @@
 5086 King salmon
 5036 Dab
 5049 Axolotl
-5065 Pike
+20 Trout
 5085 Killifish
 5078 Angelfish
 5044 Tilapia
 6 Perch
-5052 Blue marlin
+35 Triple Tail
 79 Turtle
 5090 Sea horse
 5083 Football fish
 5088 Olive flounder
-5066 Piranha
+24 Pufferfish
 5083 Football fish
-5074 Suckerfish
+60 Green Salmon
 5086 King salmon
 36 Triple Tail
 5084 Freshwater goby
@@ -41,7 +41,7 @@
 5036 Dab
 5031 Boot
 5006 Pond smelt
-5069 Ranchu goldfish
+39 Snapperfish
 5006 Pond smelt
 5003 Frog
 5006 Pond smelt
@@ -61,7 +61,7 @@
 5008 Sea bass
 5032 Carp
 5031 Boot
-5064 Nibble fish
+90 Seahorse
 5045 Yellow perch
 21 Trout
 5009 Halibut
@@ -70,7 +70,7 @@
 5002 Crawfish
 5078 Angelfish
 5045 Yellow perch
-5063 Neon tetra
+84 Crab
 5003 Frog
 5045 Yellow perch
 5045 Yellow perch
@@ -120,7 +120,7 @@
 5006 Pond smelt
 5007 Salmon
 5003 Frog
-5075 Surgeonfish
+33 Cod
 5006 Pond smelt
 5045 Yellow perch
 5035 Crucian carp
@@ -152,14 +152,14 @@
 5006 Pond smelt
 5084 Freshwater goby
 5037 Dace
-5052 Blue marlin
+35 Triple Tail
 5039 Puffer fish
 5006 Pond smelt
 5031 Boot
 5044 Tilapia
 36 Triple Tail
-5057 Giant snakehead
-5050 Arowana
+54 Redgill
+78 Turtle
 5026 GamerPieJess fish
 5085 Killifish
 5032 Carp
@@ -182,41 +182,41 @@
 5033 Catfish
 5030 Bluegill
 5002 Crawfish
-5051 Betta
-5056 Gar
+75 Mola Mola Fish
+56 Spearfish
 5038 Pale chub
 5035 Crucian carp
 5002 Crawfish
 5044 Tilapia
 5002 Crawfish
 5040 Sea butterfly
-5062 Moray eel
+68 Grouper
 5078 Angelfish
 5083 Football fish
-5058 Goldfish
-5075 Surgeonfish
-5076 Tuna
+15 Spotfish
+33 Cod
+63 Barracuda
 76 Mola Mola Fish
-5071 Ribbon eel
+26 Catfish
 5008 Sea bass
 5079 Barred knifejaw
 5081 Butterfly fish
 5090 Sea horse
-5063 Neon tetra
+84 Crab
 5084 Freshwater goby
 5031 Boot
 9 Bass
-5066 Piranha
+24 Pufferfish
 5089 Red snapper
 97 Golden Takoyaki
-5070 Ray
+41 Anglerfish
 5036 Dab
 5081 Butterfly fish
 5080 Blowfish
 5078 Angelfish
 5032 Carp
-5070 Ray
-5073 Sturgeon
+41 Anglerfish
+93 Blue Lobster
 5091 Soft-shelled turtle
 5088 Olive flounder
 5046 Zebra turkeyfish
@@ -234,34 +234,34 @@
 5008 Sea bass
 5000 Bitterling
 5005 Loach
-5062 Moray eel
+68 Grouper
 5043 Tadpole
 5087 Mitten crab
 5079 Barred knifejaw
-5076 Tuna
+63 Barracuda
 5037 Dace
 95 Octopus
 5039 Puffer fish
 5044 Tilapia
-5076 Tuna
+63 Barracuda
 5044 Tilapia
 98 Jellyfish
 5081 Butterfly fish
 5086 King salmon
 5044 Tilapia
-5070 Ray
+41 Anglerfish
 5083 Football fish
 97 Golden Takoyaki
 5084 Freshwater goby
-5076 Tuna
-5072 Snapping Turtle
+63 Barracuda
+87 Shrimp
 12 Sardine
 5039 Puffer fish
-5074 Suckerfish
+60 Green Salmon
 5091 Soft-shelled turtle
 5031 Boot
 5081 Butterfly fish
-5054 Coelacanth
+100 Jellyfish
 5042 Sweetfish
 94 Lobster
 5007 Salmon

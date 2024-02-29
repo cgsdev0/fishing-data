@@ -3,22 +3,22 @@
 5005 Loach
 5042 Sweetfish
 5004 Horse mackerel
-5070 Ray
+41 Anglerfish
 5078 Angelfish
 27 Catfish
 5046 Zebra turkeyfish
-5075 Surgeonfish
+33 Cod
 5049 Axolotl
 5008 Sea bass
 5043 Tadpole
-5051 Betta
-5055 Dorado
+75 Mola Mola Fish
+51 Damsel Fish
 5045 Yellow perch
 5003 Frog
 5001 Black bass
 5084 Freshwater goby
-5058 Goldfish
-5060 Guppy
+15 Spotfish
+45 Clownfish
 5032 Carp
 5004 Horse mackerel
 5008 Sea bass
@@ -33,12 +33,12 @@
 5007 Salmon
 5001 Black bass
 5045 Yellow perch
-5056 Gar
+56 Spearfish
 18 Trout
 5088 Olive flounder
-5050 Arowana
+78 Turtle
 5042 Sweetfish
-5056 Gar
+56 Spearfish
 5085 Killifish
 5089 Red snapper
 5079 Barred knifejaw

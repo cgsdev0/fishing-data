@@ -1,13 +1,13 @@
 5002 Crawfish
 5030 Bluegill
-5051 Betta
+75 Mola Mola Fish
 5000 Bitterling
 5045 Yellow perch
 5032 Carp
-5050 Arowana
+78 Turtle
 5031 Boot
 5030 Bluegill
-5064 Nibble fish
+90 Seahorse
 5033 Catfish
 5039 Puffer fish
 5067 Pop-eyed goldfish
@@ -17,13 +17,13 @@
 5005 Loach
 5001 Black bass
 5036 Dab
-5056 Gar
+56 Spearfish
 5030 Bluegill
-5073 Sturgeon
+93 Blue Lobster
 5006 Pond smelt
 5008 Sea bass
 5002 Crawfish
-5065 Pike
+20 Trout
 5084 Freshwater goby
 5084 Freshwater goby
 5003 Frog
@@ -33,7 +33,7 @@
 5031 Boot
 5043 Tadpole
 5008 Sea bass
-5076 Tuna
+63 Barracuda
 5005 Loach
 5043 Tadpole
-5057 Giant snakehead
+54 Redgill

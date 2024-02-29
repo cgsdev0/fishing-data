@@ -1,5 +1,5 @@
 5033 Catfish
-5058 Goldfish
+15 Spotfish
 5086 King salmon
 5035 Crucian carp
 5033 Catfish
@@ -24,7 +24,7 @@
 5087 Mitten crab
 5000 Bitterling
 5036 Dab
-5070 Ray
+41 Anglerfish
 5029 {NULL}fish
 5040 Sea butterfly
 5031 Boot
@@ -36,35 +36,35 @@
 5031 Boot
 5030 Bluegill
 5041 Squid
-5068 Rainbowfish
+72 Angelfish
 95 Octopus
 5009 Halibut
 5084 Freshwater goby
 5049 Axolotl
-5065 Pike
+20 Trout
 5084 Freshwater goby
-5057 Giant snakehead
+54 Redgill
 5040 Sea butterfly
-5073 Sturgeon
+93 Blue Lobster
 5004 Horse mackerel
 5085 Killifish
 5032 Carp
 5087 Mitten crab
 5082 Clown fish
-5057 Giant snakehead
+54 Redgill
 5090 Sea horse
 5086 King salmon
 5013 Sakhalin sturgeon
-5051 Betta
+75 Mola Mola Fish
 79 Turtle
-5053 Char
+48 Electric Eel
 5079 Barred knifejaw
 5082 Clown fish
 5004 Horse mackerel
 5041 Squid
-5053 Char
+48 Electric Eel
 5088 Olive flounder
-5055 Dorado
+51 Damsel Fish
 5089 Red snapper
 5044 Tilapia
 5049 Axolotl
@@ -74,12 +74,12 @@
 5042 Sweetfish
 5042 Sweetfish
 5084 Freshwater goby
-5063 Neon tetra
+84 Crab
 5091 Soft-shelled turtle
-5066 Piranha
+24 Pufferfish
 5059 Great white shark
 5080 Blowfish
-5052 Blue marlin
+35 Triple Tail
 5043 Tadpole
 5007 Salmon
 9 Bass

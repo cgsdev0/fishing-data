@@ -1,4 +1,4 @@
-5050 Arowana
+78 Turtle
 5008 Sea bass
 5002 Crawfish
 5084 Freshwater goby
@@ -18,7 +18,7 @@
 5005 Loach
 5009 Halibut
 5006 Pond smelt
-5050 Arowana
+78 Turtle
 5004 Horse mackerel
 5007 Salmon
 57 Spearfish
@@ -37,9 +37,9 @@
 5088 Olive flounder
 5005 Loach
 5038 Pale chub
-5071 Ribbon eel
+26 Catfish
 5005 Loach
-5076 Tuna
+63 Barracuda
 5007 Salmon
 5009 Halibut
 5029 {NULL}fish
@@ -49,11 +49,11 @@
 5005 Loach
 5005 Loach
 5008 Sea bass
-5057 Giant snakehead
+54 Redgill
 5007 Salmon
 5040 Sea butterfly
-5076 Tuna
-5073 Sturgeon
+63 Barracuda
+93 Blue Lobster
 5040 Sea butterfly
 5079 Barred knifejaw
 5087 Mitten crab
@@ -79,7 +79,7 @@
 5077 Anchovy
 5081 Butterfly fish
 5004 Horse mackerel
-5069 Ranchu goldfish
+39 Snapperfish
 5040 Sea butterfly
 5085 Killifish
 5004 Horse mackerel
@@ -102,54 +102,54 @@
 5003 Frog
 5030 Bluegill
 5029 {NULL}fish
-5071 Ribbon eel
+26 Catfish
 5046 Zebra turkeyfish
 5008 Sea bass
 5003 Frog
 12 Sardine
-5063 Neon tetra
+84 Crab
 94 Lobster
 6 Perch
 5045 Yellow perch
-5051 Betta
+75 Mola Mola Fish
 5091 Soft-shelled turtle
 5031 Boot
 5039 Puffer fish
 5049 Axolotl
 5037 Dace
-5064 Nibble fish
+90 Seahorse
 5005 Loach
 5079 Barred knifejaw
 5045 Yellow perch
 5084 Freshwater goby
 57 Spearfish
 95 Octopus
-5051 Betta
-5072 Snapping Turtle
+75 Mola Mola Fish
+87 Shrimp
 5037 Dace
 18 Trout
 79 Turtle
 5038 Pale chub
 5034 Cherry salmon
 5005 Loach
-5072 Snapping Turtle
+87 Shrimp
 5002 Crawfish
 5040 Sea butterfly
 5039 Puffer fish
 5087 Mitten crab
 5002 Crawfish
-5076 Tuna
+63 Barracuda
 5034 Cherry salmon
 5004 Horse mackerel
 5035 Crucian carp
-5063 Neon tetra
+84 Crab
 5089 Red snapper
 5003 Frog
-5060 Guppy
+45 Clownfish
 5030 Bluegill
 5077 Anchovy
 5077 Anchovy
-5065 Pike
+20 Trout
 5043 Tadpole
 5027 Cutthroat Trout
 5049 Axolotl
@@ -157,7 +157,7 @@
 5002 Crawfish
 76 Mola Mola Fish
 5080 Blowfish
-5056 Gar
+56 Spearfish
 5003 Frog
 5037 Dace
 5035 Crucian carp
@@ -174,36 +174,36 @@
 5001 Black bass
 5037 Dace
 5088 Olive flounder
-5076 Tuna
+63 Barracuda
 5005 Loach
 5030 Bluegill
 5044 Tilapia
 5030 Bluegill
 5045 Yellow perch
-5061 Koi
+82 Starfish
 5036 Dab
 5005 Loach
 5038 Pale chub
 5082 Clown fish
 5001 Black bass
-5068 Rainbowfish
+72 Angelfish
 5085 Killifish
-5072 Snapping Turtle
+87 Shrimp
 5077 Anchovy
-5056 Gar
+56 Spearfish
 5078 Angelfish
 5091 Soft-shelled turtle
-5075 Surgeonfish
+33 Cod
 5079 Barred knifejaw
 5089 Red snapper
 5084 Freshwater goby
-5075 Surgeonfish
+33 Cod
 5078 Angelfish
 76 Mola Mola Fish
 5004 Horse mackerel
 5091 Soft-shelled turtle
-5052 Blue marlin
-5057 Giant snakehead
+35 Triple Tail
+54 Redgill
 79 Turtle
 5033 Catfish
 5004 Horse mackerel
@@ -214,3 +214,4 @@
 5043 Tadpole
 5009 Halibut
 100 Jellyfish
+84 Crab

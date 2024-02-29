@@ -11,7 +11,7 @@
 5006 Pond smelt
 5001 Black bass
 5001 Black bass
-5061 Koi
+82 Starfish
 5003 Frog
 5082 Clown fish
 5008 Sea bass
@@ -36,14 +36,14 @@
 5003 Frog
 5043 Tadpole
 5034 Cherry salmon
-5053 Char
+48 Electric Eel
 5000 Bitterling
-5075 Surgeonfish
+33 Cod
 5083 Football fish
-5063 Neon tetra
+84 Crab
 5039 Puffer fish
-5070 Ray
-5061 Koi
+41 Anglerfish
+82 Starfish
 95 Octopus
 5042 Sweetfish
 5030 Bluegill
@@ -52,14 +52,14 @@
 5042 Sweetfish
 5002 Crawfish
 5000 Bitterling
-5065 Pike
+20 Trout
 5077 Anchovy
 5041 Squid
 5004 Horse mackerel
 5003 Frog
 5007 Salmon
 5086 King salmon
-5071 Ribbon eel
+26 Catfish
 21 Trout
 5079 Barred knifejaw
 5007 Salmon
@@ -112,10 +112,10 @@
 5030 Bluegill
 5083 Football fish
 5078 Angelfish
-5072 Snapping Turtle
+87 Shrimp
 5002 Crawfish
-5074 Suckerfish
-5052 Blue marlin
+60 Green Salmon
+35 Triple Tail
 5080 Blowfish
 5009 Halibut
 5085 Killifish
@@ -124,7 +124,7 @@
 5043 Tadpole
 5005 Loach
 5087 Mitten crab
-5056 Gar
+56 Spearfish
 5081 Butterfly fish
 5090 Sea horse
 5086 King salmon
@@ -155,14 +155,14 @@
 5088 Olive flounder
 5036 Dab
 5003 Frog
-5074 Suckerfish
+60 Green Salmon
 5006 Pond smelt
 5044 Tilapia
 5006 Pond smelt
 5007 Salmon
 5004 Horse mackerel
 5045 Yellow perch
-5074 Suckerfish
+60 Green Salmon
 5033 Catfish
 5030 Bluegill
 5032 Carp
@@ -181,7 +181,7 @@
 5039 Puffer fish
 5003 Frog
 5032 Carp
-5065 Pike
+20 Trout
 5086 King salmon
 5008 Sea bass
 5001 Black bass
@@ -193,7 +193,7 @@
 5087 Mitten crab
 5086 King salmon
 5001 Black bass
-5050 Arowana
+78 Turtle
 5009 Halibut
 5004 Horse mackerel
 5004 Horse mackerel
@@ -206,7 +206,7 @@
 5081 Butterfly fish
 5007 Salmon
 5008 Sea bass
-5071 Ribbon eel
+26 Catfish
 98 Jellyfish
 5002 Crawfish
 5086 King salmon
@@ -218,7 +218,7 @@
 5044 Tilapia
 5087 Mitten crab
 5001 Black bass
-5066 Piranha
+24 Pufferfish
 5039 Puffer fish
 5077 Anchovy
 5005 Loach
@@ -265,12 +265,12 @@
 5004 Horse mackerel
 5004 Horse mackerel
 5000 Bitterling
-5057 Giant snakehead
+54 Redgill
 5042 Sweetfish
 5085 Killifish
 5009 Halibut
 5008 Sea bass
-5052 Blue marlin
+35 Triple Tail
 5032 Carp
 5006 Pond smelt
 5006 Pond smelt
@@ -289,7 +289,7 @@
 5006 Pond smelt
 5006 Pond smelt
 5000 Bitterling
-5066 Piranha
+24 Pufferfish
 5009 Halibut
 5005 Loach
 5006 Pond smelt

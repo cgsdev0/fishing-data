@@ -3,9 +3,9 @@
 5043 Tadpole
 5006 Pond smelt
 5035 Crucian carp
-5065 Pike
-5073 Sturgeon
-5068 Rainbowfish
+20 Trout
+93 Blue Lobster
+72 Angelfish
 5031 Boot
 5008 Sea bass
 5042 Sweetfish
@@ -18,22 +18,22 @@
 5082 Clown fish
 5009 Halibut
 5043 Tadpole
-5063 Neon tetra
+84 Crab
 5080 Blowfish
-5074 Suckerfish
+60 Green Salmon
 57 Spearfish
-5066 Piranha
+24 Pufferfish
 5006 Pond smelt
-5074 Suckerfish
+60 Green Salmon
 5043 Tadpole
 5079 Barred knifejaw
 36 Triple Tail
 5000 Bitterling
-5065 Pike
+20 Trout
 5088 Olive flounder
 5005 Loach
 5077 Anchovy
-5062 Moray eel
+68 Grouper
 5035 Crucian carp
 5083 Football fish
 5002 Crawfish
@@ -47,12 +47,14 @@
 5002 Crawfish
 5036 Dab
 5008 Sea bass
-5050 Arowana
-5070 Ray
+78 Turtle
+41 Anglerfish
 5001 Black bass
 5079 Barred knifejaw
 5034 Cherry salmon
-5074 Suckerfish
+60 Green Salmon
 51 Damsel Fish
 11 Sardine
 91 Golden Seahorse
+5082 Clown fish
+5080 Blowfish

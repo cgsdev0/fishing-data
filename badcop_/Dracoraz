@@ -1,5 +1,5 @@
 5003 Frog
-5074 Suckerfish
+60 Green Salmon
 5029 {NULL}fish
 5036 Dab
 5003 Frog
@@ -7,10 +7,10 @@
 5091 Soft-shelled turtle
 5082 Clown fish
 5088 Olive flounder
-5064 Nibble fish
+90 Seahorse
 5089 Red snapper
 5082 Clown fish
-5073 Sturgeon
+93 Blue Lobster
 5036 Dab
 5080 Blowfish
 5079 Barred knifejaw
@@ -18,19 +18,19 @@
 5088 Olive flounder
 5083 Football fish
 5009 Halibut
-5050 Arowana
-5053 Char
-5056 Gar
+78 Turtle
+48 Electric Eel
+56 Spearfish
 5087 Mitten crab
 27 Catfish
-5068 Rainbowfish
+72 Angelfish
 5005 Loach
 5005 Loach
 5040 Sea butterfly
 5036 Dab
 5000 Bitterling
 94 Lobster
-5075 Surgeonfish
+33 Cod
 5033 Catfish
 5003 Frog
 5085 Killifish
@@ -42,17 +42,17 @@
 5031 Boot
 5084 Freshwater goby
 5036 Dab
-5060 Guppy
-5065 Pike
+45 Clownfish
+20 Trout
 5000 Bitterling
 5037 Dace
-5075 Surgeonfish
+33 Cod
 5006 Pond smelt
 5035 Crucian carp
-5056 Gar
+56 Spearfish
 5035 Crucian carp
 5006 Pond smelt
-5072 Snapping Turtle
+87 Shrimp
 5005 Loach
 5031 Boot
 98 Jellyfish
@@ -66,6 +66,6 @@
 5044 Tilapia
 5082 Clown fish
 5039 Puffer fish
-5065 Pike
+20 Trout
 5006 Pond smelt
 5043 Tadpole

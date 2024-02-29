@@ -1,4 +1,4 @@
-5068 Rainbowfish
+72 Angelfish
 5029 {NULL}fish
 5030 Bluegill
 5002 Crawfish
@@ -6,31 +6,31 @@
 5005 Loach
 5083 Football fish
 5039 Puffer fish
-5050 Arowana
+78 Turtle
 5004 Horse mackerel
 5078 Angelfish
 5033 Catfish
 5001 Black bass
 5081 Butterfly fish
 27 Catfish
-5060 Guppy
-5068 Rainbowfish
+45 Clownfish
+72 Angelfish
 5003 Frog
-5058 Goldfish
+15 Spotfish
 5032 Carp
 5041 Squid
 5032 Carp
-5050 Arowana
+78 Turtle
 5008 Sea bass
 5007 Salmon
 5039 Puffer fish
 5084 Freshwater goby
 5005 Loach
-5058 Goldfish
+15 Spotfish
 5007 Salmon
 5005 Loach
 5034 Cherry salmon
-5055 Dorado
+51 Damsel Fish
 57 Spearfish
 5007 Salmon
 5008 Sea bass
@@ -54,7 +54,7 @@
 5044 Tilapia
 5080 Blowfish
 5089 Red snapper
-5058 Goldfish
+15 Spotfish
 5032 Carp
 5034 Cherry salmon
 5079 Barred knifejaw
@@ -62,7 +62,7 @@
 5043 Tadpole
 5080 Blowfish
 5078 Angelfish
-5062 Moray eel
+68 Grouper
 5091 Soft-shelled turtle
 5091 Soft-shelled turtle
 5032 Carp
@@ -73,4 +73,4 @@
 5088 Olive flounder
 79 Turtle
 5037 Dace
-5055 Dorado
+51 Damsel Fish

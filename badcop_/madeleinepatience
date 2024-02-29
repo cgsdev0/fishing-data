@@ -1,6 +1,6 @@
 5007 Salmon
 5004 Horse mackerel
-5069 Ranchu goldfish
+39 Snapperfish
 5003 Frog
 5002 Crawfish
 5083 Football fish
@@ -8,7 +8,7 @@
 5002 Crawfish
 5046 Zebra turkeyfish
 5030 Bluegill
-5060 Guppy
+45 Clownfish
 5037 Dace
 5080 Blowfish
 5033 Catfish
@@ -16,10 +16,10 @@
 5082 Clown fish
 5044 Tilapia
 98 Jellyfish
-5068 Rainbowfish
+72 Angelfish
 5006 Pond smelt
 5005 Loach
-5065 Pike
+20 Trout
 5003 Frog
 5079 Barred knifejaw
 5004 Horse mackerel
@@ -27,20 +27,20 @@
 5079 Barred knifejaw
 5085 Killifish
 5032 Carp
-5050 Arowana
+78 Turtle
 5032 Carp
 5041 Squid
 5078 Angelfish
 5002 Crawfish
 5007 Salmon
 5087 Mitten crab
-5071 Ribbon eel
+26 Catfish
 5067 Pop-eyed goldfish
 5049 Axolotl
 5031 Boot
 5067 Pop-eyed goldfish
-5076 Tuna
-5073 Sturgeon
+63 Barracuda
+93 Blue Lobster
 97 Golden Takoyaki
 5067 Pop-eyed goldfish
 5003 Frog

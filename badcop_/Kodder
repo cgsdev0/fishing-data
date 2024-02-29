@@ -10,7 +10,7 @@
 5006 Pond smelt
 5080 Blowfish
 5088 Olive flounder
-5066 Piranha
+24 Pufferfish
 5031 Boot
 5005 Loach
 5034 Cherry salmon
@@ -30,7 +30,7 @@
 5087 Mitten crab
 5088 Olive flounder
 5079 Barred knifejaw
-5071 Ribbon eel
+26 Catfish
 5046 Zebra turkeyfish
 5030 Bluegill
 5002 Crawfish
@@ -42,10 +42,10 @@
 5042 Sweetfish
 5090 Sea horse
 6 Perch
-5054 Coelacanth
+100 Jellyfish
 5033 Catfish
-5068 Rainbowfish
-5065 Pike
+72 Angelfish
+20 Trout
 5032 Carp
 5059 Great white shark
 5043 Tadpole
@@ -57,10 +57,10 @@
 94 Lobster
 5041 Squid
 5035 Crucian carp
-5076 Tuna
+63 Barracuda
 5042 Sweetfish
 5030 Bluegill
-5060 Guppy
+45 Clownfish
 10 Sardine
 5009 Halibut
 5001 Black bass
