@@ -5,24 +5,24 @@
 26 Catfish
 5001 Black bass
 5044 Tilapia
-5082 Clown fish
-5085 Killifish
+5 Perch
+19 Trout
 5032 Carp
 72 Angelfish
 5032 Carp
 5035 Crucian carp
 5032 Carp
 84 Crab
-5084 Freshwater goby
-5087 Mitten crab
+8 Bass
+89 Seahorse
 60 Green Salmon
-5078 Angelfish
+10 Sardine
 5002 Crawfish
 5002 Crawfish
 5043 Tadpole
 5005 Loach
 5044 Tilapia
-5085 Killifish
+19 Trout
 5007 Salmon
 5035 Crucian carp
 5044 Tilapia
@@ -33,9 +33,9 @@
 5031 Boot
 5004 Horse mackerel
 5045 Yellow perch
-5084 Freshwater goby
-5082 Clown fish
-5086 King salmon
+8 Bass
+5 Perch
+55 Spearfish
 5007 Salmon
 5009 Halibut
 5002 Crawfish

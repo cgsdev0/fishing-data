@@ -1,11 +1,11 @@
 5030 Bluegill
 5004 Horse mackerel
-5077 Anchovy
+50 Damsel Fish
 5036 Dab
 5001 Black bass
 5059 Great white shark
-5081 Butterfly fish
-5077 Anchovy
+47 Eel
+50 Damsel Fish
 5041 Squid
 5000 Bitterling
 5036 Dab
@@ -14,7 +14,7 @@
 5004 Horse mackerel
 5002 Crawfish
 5043 Tadpole
-5089 Red snapper
+69 Grouper
 5044 Tilapia
 5036 Dab
 5009 Halibut
@@ -27,12 +27,12 @@
 63 Barracuda
 5036 Dab
 5008 Sea bass
-5079 Barred knifejaw
+25 Catfish
 5001 Black bass
 5037 Dace
-5087 Mitten crab
+89 Seahorse
 5004 Horse mackerel
-5091 Soft-shelled turtle
+74 Mola Mola Fish
 5006 Pond smelt
 5003 Frog
 5004 Horse mackerel
@@ -40,16 +40,16 @@
 5031 Boot
 5002 Crawfish
 5006 Pond smelt
-5088 Olive flounder
-5083 Football fish
+44 Clownfish
+3 Tilpia
 87 Shrimp
-5078 Angelfish
-5084 Freshwater goby
-5085 Killifish
+10 Sardine
+8 Bass
+19 Trout
 35 Triple Tail
 5032 Carp
 5044 Tilapia
 5067 Pop-eyed goldfish
-5088 Olive flounder
+44 Clownfish
 5000 Bitterling
 5001 Black bass

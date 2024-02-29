@@ -2,8 +2,8 @@
 5040 Sea butterfly
 5007 Salmon
 5007 Salmon
-5084 Freshwater goby
-5087 Mitten crab
+8 Bass
+89 Seahorse
 5003 Frog
 5038 Pale chub
 5009 Halibut
@@ -12,7 +12,7 @@
 78 Turtle
 68 Grouper
 5009 Halibut
-5088 Olive flounder
+44 Clownfish
 5008 Sea bass
 5007 Salmon
 20 Trout
@@ -21,7 +21,7 @@
 26 Catfish
 5000 Bitterling
 5005 Loach
-5079 Barred knifejaw
+25 Catfish
 76 Mola Mola Fish
 51 Damsel Fish
 5038 Pale chub
@@ -31,21 +31,21 @@
 5000 Bitterling
 33 Cod
 68 Grouper
-5078 Angelfish
+10 Sardine
 24 Pufferfish
 79 Turtle
 5027 Cutthroat Trout
 5049 Axolotl
-5083 Football fish
+3 Tilpia
 5041 Squid
 5045 Yellow perch
 5046 Zebra turkeyfish
-5081 Butterfly fish
+47 Eel
 5001 Black bass
 5059 Great white shark
 5001 Black bass
 27 Catfish
-5086 King salmon
+55 Spearfish
 68 Grouper
 27 Catfish
 5037 Dace

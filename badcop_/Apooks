@@ -1,30 +1,30 @@
 5032 Carp
 5008 Sea bass
 5034 Cherry salmon
-5078 Angelfish
+10 Sardine
 27 Catfish
 5030 Bluegill
 5012 Red Handfish
 5005 Loach
 5007 Salmon
 5008 Sea bass
-5080 Blowfish
+40 Anglerfish
 5008 Sea bass
-5086 King salmon
-5091 Soft-shelled turtle
-5085 Killifish
+55 Spearfish
+74 Mola Mola Fish
+19 Trout
 24 Pufferfish
 36 Triple Tail
-5082 Clown fish
+5 Perch
 75 Mola Mola Fish
-5086 King salmon
+55 Spearfish
 5046 Zebra turkeyfish
 75 Mola Mola Fish
-5083 Football fish
-5078 Angelfish
-5091 Soft-shelled turtle
+3 Tilpia
+10 Sardine
+74 Mola Mola Fish
 60 Green Salmon
-5091 Soft-shelled turtle
+74 Mola Mola Fish
 5039 Puffer fish
 60 Green Salmon
 5031 Boot
@@ -32,10 +32,10 @@
 6 Perch
 5003 Frog
 54 Redgill
-5086 King salmon
+55 Spearfish
 26 Catfish
 60 Green Salmon
-5084 Freshwater goby
+8 Bass
 39 Snapperfish
 56 Spearfish
 79 Turtle

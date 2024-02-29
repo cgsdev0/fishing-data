@@ -4,9 +4,9 @@
 5005 Loach
 5034 Cherry salmon
 5005 Loach
-5086 King salmon
+55 Spearfish
 5008 Sea bass
-5079 Barred knifejaw
+25 Catfish
 5045 Yellow perch
 5005 Loach
 5001 Black bass
@@ -14,45 +14,45 @@
 5045 Yellow perch
 5002 Crawfish
 5042 Sweetfish
-5090 Sea horse
+30 Herring
 5034 Cherry salmon
 5040 Sea butterfly
 5035 Crucian carp
 5006 Pond smelt
 5037 Dace
 5045 Yellow perch
-5079 Barred knifejaw
-5077 Anchovy
+25 Catfish
+50 Damsel Fish
 5030 Bluegill
 5007 Salmon
-5085 Killifish
-5081 Butterfly fish
-5090 Sea horse
+19 Trout
+47 Eel
+30 Herring
 5002 Crawfish
-5088 Olive flounder
-5090 Sea horse
+44 Clownfish
+30 Herring
 35 Triple Tail
-5090 Sea horse
+30 Herring
 5037 Dace
 27 Catfish
 76 Mola Mola Fish
 5040 Sea butterfly
-5090 Sea horse
+30 Herring
 5044 Tilapia
 79 Turtle
-5087 Mitten crab
+89 Seahorse
 60 Green Salmon
 54 Redgill
 41 Anglerfish
-5085 Killifish
+19 Trout
 5035 Crucian carp
 5041 Squid
-5081 Butterfly fish
-5082 Clown fish
+47 Eel
+5 Perch
 5030 Bluegill
 5042 Sweetfish
-5079 Barred knifejaw
-5089 Red snapper
+25 Catfish
+69 Grouper
 5067 Pop-eyed goldfish
 5008 Sea bass
 5008 Sea bass
@@ -62,16 +62,16 @@
 5049 Axolotl
 5032 Carp
 5007 Salmon
-5088 Olive flounder
+44 Clownfish
 5001 Black bass
 5041 Squid
 5039 Puffer fish
 76 Mola Mola Fish
-5084 Freshwater goby
+8 Bass
 5067 Pop-eyed goldfish
 5035 Crucian carp
 15 Spotfish
-5077 Anchovy
+50 Damsel Fish
 27 Catfish
 5040 Sea butterfly
 5001 Black bass
@@ -80,16 +80,16 @@
 5034 Cherry salmon
 5030 Bluegill
 5031 Boot
-5085 Killifish
-5089 Red snapper
-5082 Clown fish
+19 Trout
+69 Grouper
+5 Perch
 5044 Tilapia
-5088 Olive flounder
+44 Clownfish
 5008 Sea bass
 5033 Catfish
 5026 GamerPieJess fish
 75 Mola Mola Fish
-5084 Freshwater goby
+8 Bass
 5059 Great white shark
 5032 Carp
 75 Mola Mola Fish
@@ -97,16 +97,16 @@
 5007 Salmon
 5004 Horse mackerel
 5002 Crawfish
-5080 Blowfish
-5081 Butterfly fish
+40 Anglerfish
+47 Eel
 78 Turtle
 5001 Black bass
 35 Triple Tail
 5034 Cherry salmon
 5009 Halibut
-5078 Angelfish
+10 Sardine
 79 Turtle
-5085 Killifish
+19 Trout
 5039 Puffer fish
 5000 Bitterling
 5041 Squid

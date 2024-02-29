@@ -3,17 +3,17 @@
 39 Snapperfish
 5003 Frog
 5002 Crawfish
-5083 Football fish
+3 Tilpia
 5000 Bitterling
 5002 Crawfish
 5046 Zebra turkeyfish
 5030 Bluegill
 45 Clownfish
 5037 Dace
-5080 Blowfish
+40 Anglerfish
 5033 Catfish
 5004 Horse mackerel
-5082 Clown fish
+5 Perch
 5044 Tilapia
 98 Jellyfish
 72 Angelfish
@@ -21,19 +21,19 @@
 5005 Loach
 20 Trout
 5003 Frog
-5079 Barred knifejaw
+25 Catfish
 5004 Horse mackerel
 5043 Tadpole
-5079 Barred knifejaw
-5085 Killifish
+25 Catfish
+19 Trout
 5032 Carp
 78 Turtle
 5032 Carp
 5041 Squid
-5078 Angelfish
+10 Sardine
 5002 Crawfish
 5007 Salmon
-5087 Mitten crab
+89 Seahorse
 26 Catfish
 5067 Pop-eyed goldfish
 5049 Axolotl
@@ -45,6 +45,6 @@
 5067 Pop-eyed goldfish
 5003 Frog
 5045 Yellow perch
-5077 Anchovy
+50 Damsel Fish
 5041 Squid
 5032 Carp

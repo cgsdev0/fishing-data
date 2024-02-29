@@ -4,15 +4,15 @@
 45 Clownfish
 72 Angelfish
 5004 Horse mackerel
-5078 Angelfish
-5081 Butterfly fish
+10 Sardine
+47 Eel
 20 Trout
 5032 Carp
 5032 Carp
 18 Trout
 5045 Yellow perch
 5035 Crucian carp
-5082 Clown fish
+5 Perch
 5038 Pale chub
 5030 Bluegill
 5035 Crucian carp
@@ -21,7 +21,7 @@
 5040 Sea butterfly
 60 Green Salmon
 84 Crab
-5087 Mitten crab
+89 Seahorse
 12 Sardine
 5032 Carp
 5045 Yellow perch
@@ -30,7 +30,7 @@
 15 Spotfish
 87 Shrimp
 5035 Crucian carp
-5079 Barred knifejaw
+25 Catfish
 5000 Bitterling
 5004 Horse mackerel
 75 Mola Mola Fish
@@ -39,16 +39,16 @@
 5032 Carp
 5042 Sweetfish
 5030 Bluegill
-5085 Killifish
+19 Trout
 5059 Great white shark
 15 Spotfish
-5087 Mitten crab
+89 Seahorse
 5036 Dab
 90 Seahorse
 75 Mola Mola Fish
 5035 Crucian carp
 5035 Crucian carp
-5081 Butterfly fish
+47 Eel
 84 Crab
 48 Electric Eel
 5032 Carp
@@ -58,7 +58,7 @@
 93 Blue Lobster
 95 Octopus
 33 Cod
-5078 Angelfish
+10 Sardine
 82 Starfish
 35 Triple Tail
 5000 Bitterling

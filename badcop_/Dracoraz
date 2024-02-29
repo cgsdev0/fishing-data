@@ -4,24 +4,24 @@
 5036 Dab
 5003 Frog
 5005 Loach
-5091 Soft-shelled turtle
-5082 Clown fish
-5088 Olive flounder
+74 Mola Mola Fish
+5 Perch
+44 Clownfish
 90 Seahorse
-5089 Red snapper
-5082 Clown fish
+69 Grouper
+5 Perch
 93 Blue Lobster
 5036 Dab
-5080 Blowfish
-5079 Barred knifejaw
+40 Anglerfish
+25 Catfish
 5002 Crawfish
-5088 Olive flounder
-5083 Football fish
+44 Clownfish
+3 Tilpia
 5009 Halibut
 78 Turtle
 48 Electric Eel
 56 Spearfish
-5087 Mitten crab
+89 Seahorse
 27 Catfish
 72 Angelfish
 5005 Loach
@@ -33,14 +33,14 @@
 33 Cod
 5033 Catfish
 5003 Frog
-5085 Killifish
+19 Trout
 5003 Frog
-5079 Barred knifejaw
-5089 Red snapper
+25 Catfish
+69 Grouper
 5038 Pale chub
 5039 Puffer fish
 5031 Boot
-5084 Freshwater goby
+8 Bass
 5036 Dab
 45 Clownfish
 20 Trout
@@ -64,7 +64,7 @@
 5009 Halibut
 5007 Salmon
 5044 Tilapia
-5082 Clown fish
+5 Perch
 5039 Puffer fish
 20 Trout
 5006 Pond smelt

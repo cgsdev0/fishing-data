@@ -2,17 +2,17 @@
 5003 Frog
 5042 Sweetfish
 35 Triple Tail
-5087 Mitten crab
+89 Seahorse
 5031 Boot
 5000 Bitterling
-5085 Killifish
+19 Trout
 5033 Catfish
 5008 Sea bass
 5042 Sweetfish
 5000 Bitterling
 5008 Sea bass
 93 Blue Lobster
-5079 Barred knifejaw
+25 Catfish
 5005 Loach
 5002 Crawfish
 93 Blue Lobster
@@ -28,15 +28,15 @@
 82 Starfish
 5004 Horse mackerel
 5000 Bitterling
-5090 Sea horse
+30 Herring
 5031 Boot
-5091 Soft-shelled turtle
+74 Mola Mola Fish
 5008 Sea bass
 5007 Salmon
 5033 Catfish
 24 Pufferfish
-5090 Sea horse
-5077 Anchovy
+30 Herring
+50 Damsel Fish
 5003 Frog
 5009 Halibut
 5006 Pond smelt
@@ -62,15 +62,15 @@
 5030 Bluegill
 5042 Sweetfish
 5002 Crawfish
-5080 Blowfish
+40 Anglerfish
 5006 Pond smelt
-5083 Football fish
+3 Tilpia
 5033 Catfish
 5035 Crucian carp
 5008 Sea bass
 93 Blue Lobster
 5001 Black bass
-5090 Sea horse
+30 Herring
 5006 Pond smelt
 5006 Pond smelt
 5009 Halibut

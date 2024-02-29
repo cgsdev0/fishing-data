@@ -3,44 +3,44 @@
 5030 Bluegill
 5033 Catfish
 5037 Dace
-5089 Red snapper
+69 Grouper
 5029 {NULL}fish
-5088 Olive flounder
-5088 Olive flounder
+44 Clownfish
+44 Clownfish
 5006 Pond smelt
-5080 Blowfish
-5088 Olive flounder
+40 Anglerfish
+44 Clownfish
 24 Pufferfish
 5031 Boot
 5005 Loach
 5034 Cherry salmon
 5005 Loach
 5059 Great white shark
-5086 King salmon
+55 Spearfish
 98 Jellyfish
 5041 Squid
-5084 Freshwater goby
-5082 Clown fish
+8 Bass
+5 Perch
 5032 Carp
-5087 Mitten crab
+89 Seahorse
 9 Bass
-5082 Clown fish
+5 Perch
 5036 Dab
 5043 Tadpole
-5087 Mitten crab
-5088 Olive flounder
-5079 Barred knifejaw
+89 Seahorse
+44 Clownfish
+25 Catfish
 26 Catfish
 5046 Zebra turkeyfish
 5030 Bluegill
 5002 Crawfish
 5000 Bitterling
-5082 Clown fish
+5 Perch
 79 Turtle
-5090 Sea horse
+30 Herring
 79 Turtle
 5042 Sweetfish
-5090 Sea horse
+30 Herring
 6 Perch
 100 Jellyfish
 5033 Catfish
@@ -49,7 +49,7 @@
 5032 Carp
 5059 Great white shark
 5043 Tadpole
-5091 Soft-shelled turtle
+74 Mola Mola Fish
 5040 Sea butterfly
 5038 Pale chub
 5004 Horse mackerel
@@ -64,6 +64,6 @@
 10 Sardine
 5009 Halibut
 5001 Black bass
-5082 Clown fish
-5085 Killifish
+5 Perch
+19 Trout
 5009 Halibut

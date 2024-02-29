@@ -1,5 +1,5 @@
 5000 Bitterling
-5079 Barred knifejaw
+25 Catfish
 5041 Squid
 5032 Carp
 20 Trout
@@ -11,9 +11,9 @@
 75 Mola Mola Fish
 39 Snapperfish
 15 Spotfish
-5086 King salmon
+55 Spearfish
 5006 Pond smelt
-5085 Killifish
+19 Trout
 5032 Carp
 5032 Carp
 5045 Yellow perch
@@ -22,7 +22,7 @@
 5003 Frog
 5008 Sea bass
 5038 Pale chub
-5083 Football fish
+3 Tilpia
 5006 Pond smelt
 5004 Horse mackerel
 5003 Frog
@@ -40,10 +40,10 @@
 5030 Bluegill
 5005 Loach
 5040 Sea butterfly
-5090 Sea horse
+30 Herring
 5004 Horse mackerel
 5030 Bluegill
-5082 Clown fish
+5 Perch
 5039 Puffer fish
 5036 Dab
 51 Damsel Fish
@@ -53,7 +53,7 @@
 5042 Sweetfish
 5006 Pond smelt
 39 Snapperfish
-5090 Sea horse
+30 Herring
 5004 Horse mackerel
 5029 {NULL}fish
 5003 Frog
@@ -80,13 +80,13 @@
 5002 Crawfish
 5002 Crawfish
 5001 Black bass
-5085 Killifish
+19 Trout
 68 Grouper
 5045 Yellow perch
-5081 Butterfly fish
+47 Eel
 5007 Salmon
 5009 Halibut
-5087 Mitten crab
+89 Seahorse
 5045 Yellow perch
 5000 Bitterling
 5036 Dab
@@ -106,20 +106,20 @@
 5009 Halibut
 5002 Crawfish
 5001 Black bass
-5082 Clown fish
+5 Perch
 5036 Dab
 94 Lobster
 5004 Horse mackerel
-5088 Olive flounder
+44 Clownfish
 5005 Loach
 5001 Black bass
 5007 Salmon
 5035 Crucian carp
 5007 Salmon
 5006 Pond smelt
-5089 Red snapper
-5090 Sea horse
-5088 Olive flounder
+69 Grouper
+30 Herring
+44 Clownfish
 36 Triple Tail
 5009 Halibut
 5002 Crawfish
@@ -132,25 +132,25 @@
 5046 Zebra turkeyfish
 5004 Horse mackerel
 5000 Bitterling
-5080 Blowfish
+40 Anglerfish
 5005 Loach
-5085 Killifish
+19 Trout
 54 Redgill
 5007 Salmon
 5001 Black bass
 5045 Yellow perch
-5086 King salmon
-5082 Clown fish
+55 Spearfish
+5 Perch
 5035 Crucian carp
 98 Jellyfish
 5003 Frog
 5002 Crawfish
 5009 Halibut
 5005 Loach
-5090 Sea horse
+30 Herring
 5004 Horse mackerel
 39 Snapperfish
-5078 Angelfish
+10 Sardine
 5030 Bluegill
 5031 Boot
 5035 Crucian carp
@@ -162,8 +162,8 @@
 5044 Tilapia
 5005 Loach
 5002 Crawfish
-5089 Red snapper
-5080 Blowfish
+69 Grouper
+40 Anglerfish
 5034 Cherry salmon
 48 Electric Eel
 5035 Crucian carp
