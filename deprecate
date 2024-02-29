@@ -15,6 +15,7 @@ if [[ -z "$2" ]]; then
 fi
 NEW_ID="$2"
 
+
 declare -A ids
 pushd fish-by-rarity2
 

@@ -32,11 +32,11 @@
 5009 Halibut
 5039 Puffer fish
 5064 Nibble fish
-5019 Mahi-mahi
+12 Sardine
 5078 Angelfish
 5091 Soft-shelled turtle
-5021 Oarfish
-5021 Oarfish
+9 Bass
+9 Bass
 5041 Squid
 97 Golden Takoyaki
 5043 Tadpole
@@ -46,8 +46,8 @@
 5041 Squid
 5056 Gar
 5004 Horse mackerel
-5020 Napoleonfish
-5048 Stringfish
+21 Trout
+79 Turtle
 5086 King salmon
 5035 Crucian carp
 5049 Axolotl
@@ -72,3 +72,6 @@
 4 Perch
 5 Perch
 5044 Tilapia
+80 Starfish
+2 Tilapia
+77 Turtle

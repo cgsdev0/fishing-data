@@ -5,7 +5,7 @@
 5033 Catfish
 5004 Horse mackerel
 5084 Freshwater goby
-5025 Whale shark
+36 Triple Tail
 5045 Yellow perch
 5041 Squid
 5034 Cherry salmon
@@ -28,7 +28,7 @@
 5029 {NULL}fish
 5040 Sea butterfly
 5031 Boot
-5022 Ocean sunfish
+18 Trout
 5035 Crucian carp
 5033 Catfish
 5080 Blowfish
@@ -37,7 +37,7 @@
 5030 Bluegill
 5041 Squid
 5068 Rainbowfish
-5015 Arapaima
+95 Octopus
 5009 Halibut
 5084 Freshwater goby
 5049 Axolotl
@@ -56,7 +56,7 @@
 5086 King salmon
 5013 Sakhalin sturgeon
 5051 Betta
-5048 Stringfish
+79 Turtle
 5053 Char
 5079 Barred knifejaw
 5082 Clown fish
@@ -68,7 +68,7 @@
 5089 Red snapper
 5044 Tilapia
 5049 Axolotl
-5015 Arapaima
+95 Octopus
 5091 Soft-shelled turtle
 97 Golden Takoyaki
 5042 Sweetfish
@@ -82,7 +82,7 @@
 5052 Blue marlin
 5043 Tadpole
 5007 Salmon
-5021 Oarfish
+9 Bass
 5089 Red snapper
 5038 Pale chub
 5003 Frog

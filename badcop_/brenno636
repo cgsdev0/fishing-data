@@ -21,9 +21,9 @@
 5085 Killifish
 5078 Angelfish
 5044 Tilapia
-5023 Saddled bichir
+6 Perch
 5052 Blue marlin
-5048 Stringfish
+79 Turtle
 5090 Sea horse
 5083 Football fish
 5088 Olive flounder
@@ -31,7 +31,7 @@
 5083 Football fish
 5074 Suckerfish
 5086 King salmon
-5025 Whale shark
+36 Triple Tail
 5084 Freshwater goby
 5034 Cherry salmon
 5084 Freshwater goby
@@ -63,7 +63,7 @@
 5031 Boot
 5064 Nibble fish
 5045 Yellow perch
-5020 Napoleonfish
+21 Trout
 5009 Halibut
 5043 Tadpole
 5033 Catfish
@@ -84,7 +84,7 @@
 5002 Crawfish
 5003 Frog
 5078 Angelfish
-5023 Saddled bichir
+6 Perch
 5009 Halibut
 5038 Pale chub
 5000 Bitterling
@@ -131,14 +131,14 @@
 5003 Frog
 5082 Clown fish
 5007 Salmon
-5019 Mahi-mahi
+12 Sardine
 5046 Zebra turkeyfish
 5005 Loach
 5032 Carp
 5031 Boot
 5079 Barred knifejaw
 5035 Crucian carp
-5020 Napoleonfish
+21 Trout
 5000 Bitterling
 5008 Sea bass
 5038 Pale chub
@@ -157,7 +157,7 @@
 5006 Pond smelt
 5031 Boot
 5044 Tilapia
-5025 Whale shark
+36 Triple Tail
 5057 Giant snakehead
 5050 Arowana
 5026 GamerPieJess fish
@@ -176,7 +176,7 @@
 5030 Bluegill
 5078 Angelfish
 5079 Barred knifejaw
-5023 Saddled bichir
+6 Perch
 5041 Squid
 5003 Frog
 5033 Catfish
@@ -196,7 +196,7 @@
 5058 Goldfish
 5075 Surgeonfish
 5076 Tuna
-5047 Barreleye
+76 Mola Mola Fish
 5071 Ribbon eel
 5008 Sea bass
 5079 Barred knifejaw
@@ -205,7 +205,7 @@
 5063 Neon tetra
 5084 Freshwater goby
 5031 Boot
-5021 Oarfish
+9 Bass
 5066 Piranha
 5089 Red snapper
 97 Golden Takoyaki
@@ -240,12 +240,12 @@
 5079 Barred knifejaw
 5076 Tuna
 5037 Dace
-5015 Arapaima
+95 Octopus
 5039 Puffer fish
 5044 Tilapia
 5076 Tuna
 5044 Tilapia
-5016 Giant trevally
+98 Jellyfish
 5081 Butterfly fish
 5086 King salmon
 5044 Tilapia
@@ -255,7 +255,7 @@
 5084 Freshwater goby
 5076 Tuna
 5072 Snapping Turtle
-5019 Mahi-mahi
+12 Sardine
 5039 Puffer fish
 5074 Suckerfish
 5091 Soft-shelled turtle
@@ -263,7 +263,7 @@
 5081 Butterfly fish
 5054 Coelacanth
 5042 Sweetfish
-5017 Golden trout
+94 Lobster
 5007 Salmon
 5013 Sakhalin sturgeon
 5046 Zebra turkeyfish

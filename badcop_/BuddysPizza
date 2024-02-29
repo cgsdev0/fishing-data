@@ -12,7 +12,7 @@
 5033 Catfish
 5001 Black bass
 5081 Butterfly fish
-5024 Saw shark
+27 Catfish
 5060 Guppy
 5068 Rainbowfish
 5003 Frog
@@ -31,7 +31,7 @@
 5005 Loach
 5034 Cherry salmon
 5055 Dorado
-5018 Hammerhead shark
+57 Spearfish
 5007 Salmon
 5008 Sea bass
 5067 Pop-eyed goldfish
@@ -58,7 +58,7 @@
 5032 Carp
 5034 Cherry salmon
 5079 Barred knifejaw
-5020 Napoleonfish
+21 Trout
 5043 Tadpole
 5080 Blowfish
 5078 Angelfish
@@ -71,6 +71,6 @@
 5042 Sweetfish
 5046 Zebra turkeyfish
 5088 Olive flounder
-5048 Stringfish
+79 Turtle
 5037 Dace
 5055 Dorado

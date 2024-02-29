@@ -7,7 +7,7 @@
 5086 King salmon
 5003 Frog
 5004 Horse mackerel
-5016 Giant trevally
+98 Jellyfish
 5037 Dace
 5079 Barred knifejaw
 5084 Freshwater goby
@@ -38,7 +38,7 @@
 5077 Anchovy
 5006 Pond smelt
 5030 Bluegill
-5018 Hammerhead shark
+57 Spearfish
 5009 Halibut
 5062 Moray eel
 5072 Snapping Turtle
@@ -46,7 +46,7 @@
 5088 Olive flounder
 5060 Guppy
 5053 Char
-5048 Stringfish
+79 Turtle
 5083 Football fish
 5033 Catfish
 5051 Betta
@@ -76,7 +76,7 @@
 5031 Boot
 5072 Snapping Turtle
 5008 Sea bass
-5023 Saddled bichir
+6 Perch
 5034 Cherry salmon
 5026 GamerPieJess fish
 5009 Halibut

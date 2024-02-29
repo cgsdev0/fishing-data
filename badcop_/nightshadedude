@@ -14,7 +14,7 @@
 5038 Pale chub
 5001 Black bass
 5088 Olive flounder
-5020 Napoleonfish
+21 Trout
 5005 Loach
 5029 {NULL}fish
 5086 King salmon
@@ -52,7 +52,7 @@
 5031 Boot
 5076 Tuna
 5004 Horse mackerel
-5019 Mahi-mahi
+12 Sardine
 5055 Dorado
 5068 Rainbowfish
 5033 Catfish
@@ -66,7 +66,7 @@
 5081 Butterfly fish
 5052 Blue marlin
 5004 Horse mackerel
-5019 Mahi-mahi
+12 Sardine
 5002 Crawfish
 5067 Pop-eyed goldfish
 5090 Sea horse
@@ -75,7 +75,7 @@
 5070 Ray
 5005 Loach
 5041 Squid
-5047 Barreleye
+76 Mola Mola Fish
 5035 Crucian carp
 5007 Salmon
 5001 Black bass
@@ -91,7 +91,7 @@
 5083 Football fish
 5045 Yellow perch
 5060 Guppy
-5047 Barreleye
+76 Mola Mola Fish
 5029 {NULL}fish
 5007 Salmon
 5058 Goldfish
@@ -101,7 +101,7 @@
 5080 Blowfish
 5043 Tadpole
 5087 Mitten crab
-5024 Saw shark
+27 Catfish
 5033 Catfish
 5031 Boot
 5079 Barred knifejaw
@@ -112,8 +112,8 @@
 5075 Surgeonfish
 5008 Sea bass
 5085 Killifish
-5015 Arapaima
+95 Octopus
 5068 Rainbowfish
 5034 Cherry salmon
-5021 Oarfish
+9 Bass
 5086 King salmon

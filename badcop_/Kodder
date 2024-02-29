@@ -17,13 +17,13 @@
 5005 Loach
 5059 Great white shark
 5086 King salmon
-5016 Giant trevally
+98 Jellyfish
 5041 Squid
 5084 Freshwater goby
 5082 Clown fish
 5032 Carp
 5087 Mitten crab
-5021 Oarfish
+9 Bass
 5082 Clown fish
 5036 Dab
 5043 Tadpole
@@ -36,12 +36,12 @@
 5002 Crawfish
 5000 Bitterling
 5082 Clown fish
-5048 Stringfish
+79 Turtle
 5090 Sea horse
-5048 Stringfish
+79 Turtle
 5042 Sweetfish
 5090 Sea horse
-5023 Saddled bichir
+6 Perch
 5054 Coelacanth
 5033 Catfish
 5068 Rainbowfish
@@ -54,7 +54,7 @@
 5038 Pale chub
 5004 Horse mackerel
 5007 Salmon
-5017 Golden trout
+94 Lobster
 5041 Squid
 5035 Crucian carp
 5076 Tuna
@@ -64,3 +64,6 @@
 10 Sardine
 5009 Halibut
 5001 Black bass
+5082 Clown fish
+5085 Killifish
+5009 Halibut

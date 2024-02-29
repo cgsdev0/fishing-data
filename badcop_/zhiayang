@@ -5,21 +5,21 @@
 5042 Sweetfish
 5078 Angelfish
 5091 Soft-shelled turtle
-5047 Barreleye
+76 Mola Mola Fish
 5037 Dace
 5081 Butterfly fish
 5043 Tadpole
 5004 Horse mackerel
 5040 Sea butterfly
 5045 Yellow perch
-5018 Hammerhead shark
+57 Spearfish
 5055 Dorado
 5049 Axolotl
 5013 Sakhalin sturgeon
 5081 Butterfly fish
 5001 Black bass
 5077 Anchovy
-5016 Giant trevally
+98 Jellyfish
 5034 Cherry salmon
 5004 Horse mackerel
 5064 Nibble fish
@@ -62,7 +62,7 @@
 5004 Horse mackerel
 5083 Football fish
 5003 Frog
-5048 Stringfish
+79 Turtle
 5085 Killifish
 5083 Football fish
 5056 Gar
@@ -105,7 +105,7 @@
 5004 Horse mackerel
 5071 Ribbon eel
 5013 Sakhalin sturgeon
-5048 Stringfish
+79 Turtle
 5037 Dace
 5082 Clown fish
 5059 Great white shark
@@ -114,7 +114,7 @@
 5036 Dab
 5080 Blowfish
 5002 Crawfish
-5024 Saw shark
+27 Catfish
 5091 Soft-shelled turtle
 69 Grouper
 6 Perch

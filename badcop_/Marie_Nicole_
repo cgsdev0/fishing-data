@@ -21,7 +21,7 @@
 5042 Sweetfish
 5002 Crawfish
 5000 Bitterling
-5015 Arapaima
+95 Octopus
 5044 Tilapia
 5079 Barred knifejaw
 5087 Mitten crab
@@ -168,7 +168,7 @@
 5000 Bitterling
 5000 Bitterling
 5081 Butterfly fish
-5017 Golden trout
+94 Lobster
 5042 Sweetfish
 5008 Sea bass
 5008 Sea bass
@@ -190,7 +190,7 @@
 5046 Zebra turkeyfish
 5081 Butterfly fish
 5046 Zebra turkeyfish
-5023 Saddled bichir
+6 Perch
 5056 Gar
 5009 Halibut
 5003 Frog
@@ -269,30 +269,30 @@
 5004 Horse mackerel
 5086 King salmon
 5089 Red snapper
-5023 Saddled bichir
+6 Perch
 5041 Squid
 5089 Red snapper
 5086 King salmon
-5025 Whale shark
+36 Triple Tail
 5086 King salmon
 5070 Ray
 5088 Olive flounder
 5074 Suckerfish
 5033 Catfish
-5018 Hammerhead shark
+57 Spearfish
 5033 Catfish
 5035 Crucian carp
 5008 Sea bass
 5040 Sea butterfly
 5078 Angelfish
-5022 Ocean sunfish
+18 Trout
 5009 Halibut
 5002 Crawfish
 5085 Killifish
 5041 Squid
 5068 Rainbowfish
 5085 Killifish
-5021 Oarfish
+9 Bass
 5040 Sea butterfly
 5090 Sea horse
 5005 Loach

@@ -44,7 +44,7 @@
 5039 Puffer fish
 5070 Ray
 5061 Koi
-5015 Arapaima
+95 Octopus
 5042 Sweetfish
 5030 Bluegill
 5031 Boot
@@ -60,14 +60,14 @@
 5007 Salmon
 5086 King salmon
 5071 Ribbon eel
-5020 Napoleonfish
+21 Trout
 5079 Barred knifejaw
 5007 Salmon
 5078 Angelfish
 5002 Crawfish
 5030 Bluegill
 5034 Cherry salmon
-5015 Arapaima
+95 Octopus
 5002 Crawfish
 5032 Carp
 5043 Tadpole
@@ -135,7 +135,7 @@
 5090 Sea horse
 5044 Tilapia
 5091 Soft-shelled turtle
-5025 Whale shark
+36 Triple Tail
 5083 Football fish
 5003 Frog
 5091 Soft-shelled turtle
@@ -148,7 +148,7 @@
 5033 Catfish
 5004 Horse mackerel
 5001 Black bass
-5023 Saddled bichir
+6 Perch
 5083 Football fish
 5001 Black bass
 5039 Puffer fish
@@ -207,13 +207,13 @@
 5007 Salmon
 5008 Sea bass
 5071 Ribbon eel
-5016 Giant trevally
+98 Jellyfish
 5002 Crawfish
 5086 King salmon
 5081 Butterfly fish
 5004 Horse mackerel
 5001 Black bass
-5015 Arapaima
+95 Octopus
 5034 Cherry salmon
 5044 Tilapia
 5087 Mitten crab
@@ -239,7 +239,7 @@
 5085 Killifish
 5006 Pond smelt
 5006 Pond smelt
-5018 Hammerhead shark
+57 Spearfish
 5007 Salmon
 5034 Cherry salmon
 5041 Squid

@@ -34,12 +34,12 @@
 5052 Blue marlin
 5090 Sea horse
 5037 Dace
-5024 Saw shark
-5047 Barreleye
+27 Catfish
+76 Mola Mola Fish
 5040 Sea butterfly
 5090 Sea horse
 5044 Tilapia
-5048 Stringfish
+79 Turtle
 5087 Mitten crab
 5074 Suckerfish
 5057 Giant snakehead
@@ -57,7 +57,7 @@
 5008 Sea bass
 5008 Sea bass
 5038 Pale chub
-5017 Golden trout
+94 Lobster
 5007 Salmon
 5049 Axolotl
 5032 Carp
@@ -66,13 +66,13 @@
 5001 Black bass
 5041 Squid
 5039 Puffer fish
-5047 Barreleye
+76 Mola Mola Fish
 5084 Freshwater goby
 5067 Pop-eyed goldfish
 5035 Crucian carp
 5058 Goldfish
 5077 Anchovy
-5024 Saw shark
+27 Catfish
 5040 Sea butterfly
 5001 Black bass
 5064 Nibble fish
@@ -105,7 +105,7 @@
 5034 Cherry salmon
 5009 Halibut
 5078 Angelfish
-5048 Stringfish
+79 Turtle
 5085 Killifish
 5039 Puffer fish
 5000 Bitterling

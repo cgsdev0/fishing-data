@@ -2,7 +2,7 @@
 5085 Killifish
 5082 Clown fish
 5009 Halibut
-5015 Arapaima
+95 Octopus
 5090 Sea horse
 5077 Anchovy
 5009 Halibut
@@ -10,8 +10,8 @@
 5063 Neon tetra
 5002 Crawfish
 5046 Zebra turkeyfish
-5022 Ocean sunfish
-5047 Barreleye
+18 Trout
+76 Mola Mola Fish
 5069 Ranchu goldfish
 5044 Tilapia
 5082 Clown fish
@@ -23,7 +23,9 @@
 5041 Squid
 5026 GamerPieJess fish
 5056 Gar
-5048 Stringfish
+79 Turtle
 5088 Olive flounder
 5000 Bitterling
 5031 Boot
+5041 Squid
+5051 Betta

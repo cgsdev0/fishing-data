@@ -11,11 +11,11 @@
 5060 Guppy
 5086 King salmon
 5070 Ray
-5048 Stringfish
+79 Turtle
 5049 Axolotl
-5023 Saddled bichir
+6 Perch
 5064 Nibble fish
-5015 Arapaima
+95 Octopus
 5038 Pale chub
 5077 Anchovy
 5085 Killifish
@@ -41,7 +41,7 @@
 5083 Football fish
 5003 Frog
 5044 Tilapia
-5024 Saw shark
+27 Catfish
 5044 Tilapia
 5001 Black bass
 5078 Angelfish
@@ -53,16 +53,16 @@
 5090 Sea horse
 5031 Boot
 5058 Goldfish
-5015 Arapaima
+95 Octopus
 5080 Blowfish
-5025 Whale shark
+36 Triple Tail
 5005 Loach
 5034 Cherry salmon
 5087 Mitten crab
 5083 Football fish
 5051 Betta
 5008 Sea bass
-5018 Hammerhead shark
+57 Spearfish
 5073 Sturgeon
 5042 Sweetfish
 5040 Sea butterfly
@@ -77,7 +77,7 @@
 5083 Football fish
 5085 Killifish
 5044 Tilapia
-5019 Mahi-mahi
+12 Sardine
 5083 Football fish
 5090 Sea horse
 5083 Football fish

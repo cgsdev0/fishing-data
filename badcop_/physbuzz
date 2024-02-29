@@ -20,7 +20,7 @@
 5009 Halibut
 5009 Halibut
 5085 Killifish
-5021 Oarfish
+9 Bass
 5057 Giant snakehead
 5063 Neon tetra
 5085 Killifish
@@ -53,13 +53,13 @@
 5055 Dorado
 5030 Bluegill
 5065 Pike
-5047 Barreleye
+76 Mola Mola Fish
 5005 Loach
 5029 {NULL}fish
 5081 Butterfly fish
 5008 Sea bass
 5000 Bitterling
-5025 Whale shark
+36 Triple Tail
 5002 Crawfish
 5005 Loach
 5075 Surgeonfish
@@ -76,5 +76,5 @@
 5073 Sturgeon
 5056 Gar
 5054 Coelacanth
-5018 Hammerhead shark
+57 Spearfish
 5069 Ranchu goldfish

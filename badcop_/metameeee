@@ -23,7 +23,7 @@
 5004 Horse mackerel
 5033 Catfish
 5037 Dace
-5017 Golden trout
+94 Lobster
 5028 404 Fish
 5033 Catfish
 5084 Freshwater goby
@@ -39,7 +39,7 @@
 5075 Surgeonfish
 5045 Yellow perch
 5083 Football fish
-5022 Ocean sunfish
+18 Trout
 5072 Snapping Turtle
 5073 Sturgeon
 5004 Horse mackerel
@@ -51,7 +51,7 @@
 5027 Cutthroat Trout
 5039 Puffer fish
 5061 Koi
-5019 Mahi-mahi
+12 Sardine
 5035 Crucian carp
 5007 Salmon
 5083 Football fish
@@ -74,7 +74,7 @@
 5006 Pond smelt
 5074 Suckerfish
 5007 Salmon
-5021 Oarfish
+9 Bass
 5090 Sea horse
 5006 Pond smelt
 5007 Salmon

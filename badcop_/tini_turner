@@ -5,11 +5,11 @@
 5007 Salmon
 5068 Rainbowfish
 5005 Loach
-5016 Giant trevally
+98 Jellyfish
 5091 Soft-shelled turtle
 5030 Bluegill
 5083 Football fish
-5020 Napoleonfish
+21 Trout
 5046 Zebra turkeyfish
 5009 Halibut
 5005 Loach
@@ -34,7 +34,7 @@
 5089 Red snapper
 5084 Freshwater goby
 5036 Dab
-5024 Saw shark
+27 Catfish
 5010 Blahaj
 5057 Giant snakehead
 5040 Sea butterfly
@@ -62,7 +62,7 @@
 5043 Tadpole
 5083 Football fish
 5040 Sea butterfly
-5021 Oarfish
+9 Bass
 5091 Soft-shelled turtle
 5085 Killifish
 5062 Moray eel
@@ -83,7 +83,7 @@
 5085 Killifish
 5059 Great white shark
 5058 Goldfish
-5048 Stringfish
+79 Turtle
 5026 GamerPieJess fish
 5086 King salmon
 5091 Soft-shelled turtle
@@ -93,7 +93,7 @@
 5038 Pale chub
 5032 Carp
 5053 Char
-5047 Barreleye
+76 Mola Mola Fish
 5077 Anchovy
 5007 Salmon
 5039 Puffer fish
@@ -105,14 +105,14 @@
 5042 Sweetfish
 5035 Crucian carp
 5035 Crucian carp
-5021 Oarfish
+9 Bass
 5003 Frog
 5007 Salmon
 5091 Soft-shelled turtle
 5057 Giant snakehead
 5002 Crawfish
 5003 Frog
-5047 Barreleye
+76 Mola Mola Fish
 5083 Football fish
 5064 Nibble fish
 5049 Axolotl
@@ -172,7 +172,7 @@
 5031 Boot
 5002 Crawfish
 5008 Sea bass
-5015 Arapaima
+95 Octopus
 5035 Crucian carp
 5088 Olive flounder
 5040 Sea butterfly
@@ -189,16 +189,16 @@
 5050 Arowana
 5007 Salmon
 5034 Cherry salmon
-5021 Oarfish
+9 Bass
 5084 Freshwater goby
 5038 Pale chub
 5085 Killifish
-5021 Oarfish
+9 Bass
 5038 Pale chub
 5072 Snapping Turtle
 5052 Blue marlin
 5085 Killifish
-5021 Oarfish
+9 Bass
 97 Golden Takoyaki
 5002 Crawfish
 5068 Rainbowfish
@@ -223,11 +223,11 @@
 5072 Snapping Turtle
 5077 Anchovy
 5034 Cherry salmon
-5025 Whale shark
+36 Triple Tail
 5000 Bitterling
 5002 Crawfish
 5073 Sturgeon
-5020 Napoleonfish
+21 Trout
 5075 Surgeonfish
 5043 Tadpole
 5071 Ribbon eel
@@ -278,7 +278,7 @@
 5002 Crawfish
 5036 Dab
 5002 Crawfish
-5017 Golden trout
+94 Lobster
 5003 Frog
 5045 Yellow perch
 5064 Nibble fish

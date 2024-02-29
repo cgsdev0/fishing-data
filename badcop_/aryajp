@@ -50,10 +50,10 @@
 5043 Tadpole
 5006 Pond smelt
 5061 Koi
-5016 Giant trevally
+98 Jellyfish
 5001 Black bass
 5051 Betta
-5022 Ocean sunfish
+18 Trout
 5046 Zebra turkeyfish
 5006 Pond smelt
 5008 Sea bass
@@ -73,7 +73,7 @@
 5003 Frog
 5077 Anchovy
 5001 Black bass
-5020 Napoleonfish
+21 Trout
 5030 Bluegill
 5045 Yellow perch
 5057 Giant snakehead
@@ -90,7 +90,7 @@
 5044 Tilapia
 5038 Pale chub
 5042 Sweetfish
-5015 Arapaima
+95 Octopus
 5051 Betta
 5058 Goldfish
 5074 Suckerfish
@@ -133,7 +133,7 @@
 5030 Bluegill
 5086 King salmon
 5040 Sea butterfly
-5018 Hammerhead shark
+57 Spearfish
 5089 Red snapper
 5050 Arowana
 5071 Ribbon eel
@@ -141,7 +141,7 @@
 5030 Bluegill
 5001 Black bass
 5012 Red Handfish
-5015 Arapaima
+95 Octopus
 5081 Butterfly fish
 5082 Clown fish
 5089 Red snapper
@@ -151,7 +151,7 @@
 5052 Blue marlin
 5045 Yellow perch
 5062 Moray eel
-5048 Stringfish
+79 Turtle
 5086 King salmon
 5088 Olive flounder
 5049 Axolotl
@@ -162,7 +162,7 @@
 5079 Barred knifejaw
 5063 Neon tetra
 5009 Halibut
-5020 Napoleonfish
+21 Trout
 5087 Mitten crab
 5009 Halibut
 5007 Salmon

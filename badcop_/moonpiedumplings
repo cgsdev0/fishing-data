@@ -35,7 +35,7 @@
 5037 Dace
 5085 Killifish
 5006 Pond smelt
-5015 Arapaima
+95 Octopus
 5044 Tilapia
 5005 Loach
 5001 Black bass
@@ -46,7 +46,7 @@
 5032 Carp
 5041 Squid
 5056 Gar
-5015 Arapaima
+95 Octopus
 5031 Boot
 5084 Freshwater goby
 5085 Killifish
@@ -67,7 +67,7 @@
 5079 Barred knifejaw
 5034 Cherry salmon
 5037 Dace
-5024 Saw shark
+27 Catfish
 5082 Clown fish
 5086 King salmon
 5042 Sweetfish
@@ -77,7 +77,7 @@
 5071 Ribbon eel
 5043 Tadpole
 5045 Yellow perch
-5048 Stringfish
+79 Turtle
 5041 Squid
 5032 Carp
 5087 Mitten crab

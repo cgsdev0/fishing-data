@@ -1,6 +1,6 @@
 5086 King salmon
 5041 Squid
-5015 Arapaima
+95 Octopus
 5063 Neon tetra
 5065 Pike
 5034 Cherry salmon
@@ -17,7 +17,7 @@
 5081 Butterfly fish
 5032 Carp
 5063 Neon tetra
-5018 Hammerhead shark
+57 Spearfish
 5030 Bluegill
 5041 Squid
 5032 Carp
@@ -78,7 +78,7 @@
 5052 Blue marlin
 5000 Bitterling
 5043 Tadpole
-5015 Arapaima
+95 Octopus
 5070 Ray
 5008 Sea bass
 5008 Sea bass
@@ -134,7 +134,7 @@
 5009 Halibut
 5006 Pond smelt
 5051 Betta
-5016 Giant trevally
+98 Jellyfish
 5001 Black bass
 5033 Catfish
 5091 Soft-shelled turtle
@@ -142,20 +142,20 @@
 5078 Angelfish
 5055 Dorado
 5050 Arowana
-5047 Barreleye
-5047 Barreleye
+76 Mola Mola Fish
+76 Mola Mola Fish
 5042 Sweetfish
 5059 Great white shark
 5077 Anchovy
 5038 Pale chub
-5019 Mahi-mahi
+12 Sardine
 5041 Squid
-5019 Mahi-mahi
+12 Sardine
 5035 Crucian carp
 5087 Mitten crab
 5055 Dorado
 5041 Squid
-5016 Giant trevally
+98 Jellyfish
 5090 Sea horse
 5032 Carp
 5081 Butterfly fish
@@ -185,14 +185,14 @@
 5084 Freshwater goby
 5091 Soft-shelled turtle
 5063 Neon tetra
-5048 Stringfish
+79 Turtle
 5077 Anchovy
-5019 Mahi-mahi
+12 Sardine
 5001 Black bass
 5080 Blowfish
 5085 Killifish
 5039 Puffer fish
 5089 Red snapper
-5017 Golden trout
+94 Lobster
 5002 Crawfish
 5078 Angelfish
