@@ -1,15 +1,15 @@
 5006 Pond smelt
-5000 Arowana
-5000 {NULL}fish
-5016 Zebra turkeyfish
-5007 Giant snakehead
-5014 Tilapia
-5007 Dace
-5007 Freshwater goby
-5000 Anchovy
-5003 Catfish
+5050 Arowana
+5029 {NULL}fish
+5046 Zebra turkeyfish
+5057 Giant snakehead
+5044 Tilapia
+5037 Dace
+5084 Freshwater goby
+5077 Anchovy
+5033 Catfish
 5002 Crawfish
-5004 Coelacanth
-5003 Blowfish
+5054 Coelacanth
+5080 Blowfish
 5001 Black bass
-5000 Barreleye
+5047 Barreleye

@@ -1,83 +1,83 @@
-5005 Crucian carp
-5000 Bluegill
-5024 Suckerfish
-5015 Yellow perch
-5002 Barred knifejaw
-5008 Goldfish
-5009 King salmon
-5010 Whale shark
-5000 Anchovy
-5007 Ocean sunfish
-5010 Mitten crab
+5035 Crucian carp
+5030 Bluegill
+5074 Suckerfish
+5045 Yellow perch
+5079 Barred knifejaw
+5058 Goldfish
+5086 King salmon
+5025 Whale shark
+5077 Anchovy
+5022 Ocean sunfish
+5087 Mitten crab
 5007 Salmon
-5002 Barred knifejaw
-5008 Goldfish
-5007 Freshwater goby
+5079 Barred knifejaw
+5058 Goldfish
+5084 Freshwater goby
 5002 Crawfish
-5016 Zebra turkeyfish
+5046 Zebra turkeyfish
 5005 Loach
 5009 Halibut
-5002 Carp
+5032 Carp
 5006 Pond smelt
-5003 Catfish
-5009 Great white shark
-5003 Catfish
-5009 King salmon
+5033 Catfish
+5059 Great white shark
+5033 Catfish
+5086 King salmon
 5009 Halibut
-5012 Moray eel
-5008 Killifish
+5062 Moray eel
+5085 Killifish
 5007 Salmon
-5007 Freshwater goby
-5001 Angelfish
-5011 Squid
-5004 Butterfly fish
+5084 Freshwater goby
+5078 Angelfish
+5041 Squid
+5081 Butterfly fish
 5005 Loach
-5007 Dace
-5010 Guppy
-5005 Clown fish
-5021 Ribbon eel
-5014 Tilapia
+5037 Dace
+5060 Guppy
+5082 Clown fish
+5071 Ribbon eel
+5044 Tilapia
 5005 Loach
 5003 Frog
-5008 Pale chub
-5012 Red snapper
-5009 Puffer fish
-5005 Crucian carp
-5015 Yellow perch
-5000 Anchovy
-5014 Soft-shelled turtle
-5002 Axolotl
-5005 Crucian carp
-5005 Clown fish
-5002 Carp
-5005 Dorado
-5016 Piranha
-5016 Piranha
+5038 Pale chub
+5089 Red snapper
+5039 Puffer fish
+5035 Crucian carp
+5045 Yellow perch
+5077 Anchovy
+5091 Soft-shelled turtle
+5049 Axolotl
+5035 Crucian carp
+5082 Clown fish
+5032 Carp
+5055 Dorado
+5066 Piranha
+5066 Piranha
 5004 Horse mackerel
-5010 Guppy
-5003 Blowfish
+5060 Guppy
+5080 Blowfish
 5000 Bitterling
-5005 Crucian carp
-5008 Saddled bichir
+5035 Crucian carp
+5023 Saddled bichir
 5006 Pond smelt
 5005 Loach
-5006 Dab
-5014 Tilapia
+5036 Dab
+5044 Tilapia
 5006 Pond smelt
-5018 Rainbowfish
+5068 Rainbowfish
 5009 Halibut
-5006 Oarfish
+5021 Oarfish
 5008 Sea bass
 5009 Halibut
-5009 Great white shark
+5059 Great white shark
 5009 Halibut
-5004 Butterfly fish
-5000 {NULL}fish
+5081 Butterfly fish
+5029 {NULL}fish
 5006 Pond smelt
-5008 Killifish
-5020 Ray
-5015 Yellow perch
-5002 Carp
-5015 Yellow perch
+5085 Killifish
+5070 Ray
+5045 Yellow perch
+5032 Carp
+5045 Yellow perch
 5004 Horse mackerel
 5003 Frog

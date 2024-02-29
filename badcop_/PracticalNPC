@@ -1,47 +1,47 @@
-5000 Bluegill
-5010 Whale shark
-5014 Soft-shelled turtle
-5011 Olive flounder
-5013 Sea horse
-5012 Red snapper
-5004 Butterfly fish
+5030 Bluegill
+5025 Whale shark
+5091 Soft-shelled turtle
+5088 Olive flounder
+5090 Sea horse
+5089 Red snapper
+5081 Butterfly fish
 5000 Bitterling
-5000 {NULL}fish
-5007 Freshwater goby
-5025 Surgeonfish
-5006 Football fish
-5002 Barred knifejaw
-5008 Pale chub
-5012 Red snapper
-5007 Ocean sunfish
-5006 Football fish
-5004 Butterfly fish
-5003 Catfish
-5001 Ornate sleeper ray
-5002 Blue marlin
-5001 Angelfish
-5012 Red snapper
-5018 Rainbowfish
+5029 {NULL}fish
+5084 Freshwater goby
+5075 Surgeonfish
+5083 Football fish
+5079 Barred knifejaw
+5038 Pale chub
+5089 Red snapper
+5022 Ocean sunfish
+5083 Football fish
+5081 Butterfly fish
+5033 Catfish
+5011 Ornate sleeper ray
+5052 Blue marlin
+5078 Angelfish
+5089 Red snapper
+5068 Rainbowfish
 5006 Pond smelt
-5000 Blahaj
-5000 Anchovy
-5000 Anchovy
-5001 Boot
-5003 Catfish
-5011 GamerPieJess fish
+5010 Blahaj
+5077 Anchovy
+5077 Anchovy
+5031 Boot
+5033 Catfish
+5026 GamerPieJess fish
 5003 Frog
-5011 Olive flounder
-5010 Sea butterfly
-5003 Char
-5003 Blowfish
-5008 Killifish
-5007 Freshwater goby
-5005 Napoleonfish
-5021 Ribbon eel
-5005 Clown fish
-5009 King salmon
-5010 Mitten crab
-5012 Red snapper
+5088 Olive flounder
+5040 Sea butterfly
+5053 Char
+5080 Blowfish
+5085 Killifish
+5084 Freshwater goby
+5020 Napoleonfish
+5071 Ribbon eel
+5082 Clown fish
+5086 King salmon
+5087 Mitten crab
+5089 Red snapper
 5008 Sea bass
 5007 Salmon
 5009 Halibut

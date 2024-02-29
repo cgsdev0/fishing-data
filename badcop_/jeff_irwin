@@ -1,76 +1,76 @@
 5002 Crawfish
-5011 Olive flounder
-5001 Giant trevally
-5005 Crucian carp
+5088 Olive flounder
+5016 Giant trevally
+5035 Crucian carp
 5003 Frog
-5013 Neon tetra
-5010 Mitten crab
+5063 Neon tetra
+5087 Mitten crab
 5004 Horse mackerel
-5006 Dab
-5003 Catfish
+5036 Dab
+5033 Catfish
 5008 Sea bass
 5004 Horse mackerel
-5008 Pale chub
+5038 Pale chub
 5002 Crawfish
-5006 Dab
-5007 Dace
-5010 Guppy
+5036 Dab
+5037 Dace
+5060 Guppy
 5009 Halibut
-5016 Zebra turkeyfish
+5046 Zebra turkeyfish
 5004 Horse mackerel
-5009 Puffer fish
-5004 Cherry salmon
+5039 Puffer fish
+5034 Cherry salmon
 5008 Sea bass
 5005 Loach
-5007 Freshwater goby
-5014 Tilapia
+5084 Freshwater goby
+5044 Tilapia
 5008 Sea bass
 5006 Pond smelt
-5016 Zebra turkeyfish
-5000 {NULL}fish
+5046 Zebra turkeyfish
+5029 {NULL}fish
 5009 Halibut
 5002 Crawfish
-5006 Dab
-5011 Olive flounder
-5001 Boot
-5005 Dorado
-5003 Blowfish
-5000 Arowana
-5008 Killifish
-5001 Boot
-5007 Freshwater goby
-5006 Football fish
-5000 Blahaj
-5009 King salmon
-5003 Catfish
-5012 Cutthroat Trout
-5007 Dace
-5002 Carp
-5005 Crucian carp
-5014 Soft-shelled turtle
-5022 Snapping Turtle
-5011 Koi
+5036 Dab
+5088 Olive flounder
+5031 Boot
+5055 Dorado
+5080 Blowfish
+5050 Arowana
+5085 Killifish
+5031 Boot
+5084 Freshwater goby
+5083 Football fish
+5010 Blahaj
+5086 King salmon
+5033 Catfish
+5027 Cutthroat Trout
+5037 Dace
+5032 Carp
+5035 Crucian carp
+5091 Soft-shelled turtle
+5072 Snapping Turtle
+5061 Koi
 5006 Pond smelt
-5002 Axolotl
-5009 King salmon
-5005 Clown fish
-5010 Guppy
-5003 Catfish
+5049 Axolotl
+5086 King salmon
+5082 Clown fish
+5060 Guppy
+5033 Catfish
 5003 Frog
-5014 Soft-shelled turtle
-5013 404 Fish
+5091 Soft-shelled turtle
+5028 404 Fish
 5000 Bitterling
 5008 Sea bass
 5004 Horse mackerel
-5008 Pale chub
+5038 Pale chub
 5008 Sea bass
 5007 Salmon
 5002 Crawfish
 5006 Pond smelt
-5012 Sweetfish
+5042 Sweetfish
 5006 Pond smelt
-5025 Surgeonfish
-5015 Yellow perch
-5014 Tilapia
-5001 Angelfish
-5005 Clown fish
+5075 Surgeonfish
+5045 Yellow perch
+5044 Tilapia
+5078 Angelfish
+5082 Clown fish

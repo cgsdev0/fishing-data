@@ -1,63 +1,63 @@
-5002 Carp
+5032 Carp
 5004 Horse mackerel
-5000 Bluegill
-5003 Catfish
-5007 Dace
-5012 Red snapper
-5000 {NULL}fish
-5011 Olive flounder
-5011 Olive flounder
+5030 Bluegill
+5033 Catfish
+5037 Dace
+5089 Red snapper
+5029 {NULL}fish
+5088 Olive flounder
+5088 Olive flounder
 5006 Pond smelt
-5003 Blowfish
-5011 Olive flounder
-5016 Piranha
-5001 Boot
+5080 Blowfish
+5088 Olive flounder
+5066 Piranha
+5031 Boot
 5005 Loach
-5004 Cherry salmon
+5034 Cherry salmon
 5005 Loach
-5009 Great white shark
-5009 King salmon
-5001 Giant trevally
-5011 Squid
-5007 Freshwater goby
-5005 Clown fish
-5002 Carp
-5010 Mitten crab
-5006 Oarfish
-5005 Clown fish
-5006 Dab
-5013 Tadpole
-5010 Mitten crab
-5011 Olive flounder
-5002 Barred knifejaw
-5021 Ribbon eel
-5016 Zebra turkeyfish
-5000 Bluegill
+5059 Great white shark
+5086 King salmon
+5016 Giant trevally
+5041 Squid
+5084 Freshwater goby
+5082 Clown fish
+5032 Carp
+5087 Mitten crab
+5021 Oarfish
+5082 Clown fish
+5036 Dab
+5043 Tadpole
+5087 Mitten crab
+5088 Olive flounder
+5079 Barred knifejaw
+5071 Ribbon eel
+5046 Zebra turkeyfish
+5030 Bluegill
 5002 Crawfish
 5000 Bitterling
-5005 Clown fish
-5001 Stringfish
-5013 Sea horse
-5001 Stringfish
-5012 Sweetfish
-5013 Sea horse
-5008 Saddled bichir
-5004 Coelacanth
-5003 Catfish
-5018 Rainbowfish
-5015 Pike
-5002 Carp
-5009 Great white shark
-5013 Tadpole
-5014 Soft-shelled turtle
-5010 Sea butterfly
-5008 Pale chub
+5082 Clown fish
+5048 Stringfish
+5090 Sea horse
+5048 Stringfish
+5042 Sweetfish
+5090 Sea horse
+5023 Saddled bichir
+5054 Coelacanth
+5033 Catfish
+5068 Rainbowfish
+5065 Pike
+5032 Carp
+5059 Great white shark
+5043 Tadpole
+5091 Soft-shelled turtle
+5040 Sea butterfly
+5038 Pale chub
 5004 Horse mackerel
 5007 Salmon
-5002 Golden trout
-5011 Squid
-5005 Crucian carp
-5026 Tuna
-5012 Sweetfish
-5000 Bluegill
-5010 Guppy
+5017 Golden trout
+5041 Squid
+5035 Crucian carp
+5076 Tuna
+5042 Sweetfish
+5030 Bluegill
+5060 Guppy

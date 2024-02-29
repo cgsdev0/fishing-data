@@ -1,43 +1,43 @@
 5000 Bitterling
-5000 {NULL}fish
-5000 {NULL}fish
-5000 {NULL}fish
-5000 Bluegill
-5004 Cherry salmon
-5000 {NULL}fish
-5000 {NULL}fish
-5000 {NULL}fish
-5000 {NULL}fish
-5000 {NULL}fish
+5029 {NULL}fish
+5029 {NULL}fish
+5029 {NULL}fish
+5030 Bluegill
+5034 Cherry salmon
+5029 {NULL}fish
+5029 {NULL}fish
+5029 {NULL}fish
+5029 {NULL}fish
+5029 {NULL}fish
 5002 Crawfish
-5014 Soft-shelled turtle
-5010 Sea butterfly
+5091 Soft-shelled turtle
+5040 Sea butterfly
 5009 Halibut
-5018 Rainbowfish
+5068 Rainbowfish
 5003 Frog
-5006 Gar
-5016 Zebra turkeyfish
-5008 Killifish
-5010 Whale shark
-5014 Tilapia
-5012 Cutthroat Trout
-5010 Mitten crab
-5011 Olive flounder
-5013 Sea horse
-5010 Sea butterfly
-5014 Soft-shelled turtle
-5005 Napoleonfish
-5008 Killifish
+5056 Gar
+5046 Zebra turkeyfish
+5085 Killifish
+5025 Whale shark
+5044 Tilapia
+5027 Cutthroat Trout
+5087 Mitten crab
+5088 Olive flounder
+5090 Sea horse
+5040 Sea butterfly
+5091 Soft-shelled turtle
+5020 Napoleonfish
+5085 Killifish
 5001 Black bass
-5000 Bluegill
-5002 Golden trout
-5013 Tadpole
-5000 Anchovy
-5013 Tadpole
-5007 Dace
-5002 Barred knifejaw
+5030 Bluegill
+5017 Golden trout
+5043 Tadpole
+5077 Anchovy
+5043 Tadpole
+5037 Dace
+5079 Barred knifejaw
 5005 Loach
-5009 King salmon
+5086 King salmon
 5007 Salmon
-5008 Pale chub
-5001 Stringfish
+5038 Pale chub
+5048 Stringfish

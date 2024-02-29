@@ -1,25 +1,25 @@
 5005 Loach
-5011 Olive flounder
+5088 Olive flounder
 5004 Horse mackerel
-5015 Yellow perch
+5045 Yellow perch
 5009 Halibut
-5006 Dab
-5002 Blue marlin
-5014 Soft-shelled turtle
-5000 Blahaj
-5015 Yellow perch
+5036 Dab
+5052 Blue marlin
+5091 Soft-shelled turtle
+5010 Blahaj
+5045 Yellow perch
 5000 Bitterling
-5002 Barred knifejaw
-5007 Freshwater goby
-5007 Freshwater goby
-5000 Bluegill
-5003 Catfish
-5000 {NULL}fish
-5000 {NULL}fish
-5002 Blue marlin
-5011 Squid
-5006 Football fish
-5026 Tuna
-5002 Carp
+5079 Barred knifejaw
+5084 Freshwater goby
+5084 Freshwater goby
+5030 Bluegill
+5033 Catfish
+5029 {NULL}fish
+5029 {NULL}fish
+5052 Blue marlin
+5041 Squid
+5083 Football fish
+5076 Tuna
+5032 Carp
 5005 Loach
-5003 Blowfish
+5080 Blowfish

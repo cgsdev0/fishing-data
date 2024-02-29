@@ -1,90 +1,90 @@
-5003 Catfish
-5008 Goldfish
-5009 King salmon
-5005 Crucian carp
-5003 Catfish
+5033 Catfish
+5058 Goldfish
+5086 King salmon
+5035 Crucian carp
+5033 Catfish
 5004 Horse mackerel
-5007 Freshwater goby
-5010 Whale shark
-5015 Yellow perch
-5011 Squid
-5004 Cherry salmon
-5015 Yellow perch
+5084 Freshwater goby
+5025 Whale shark
+5045 Yellow perch
+5041 Squid
+5034 Cherry salmon
+5045 Yellow perch
 5000 Bitterling
 5001 Black bass
-5009 Great white shark
-5013 Sea horse
+5059 Great white shark
+5090 Sea horse
 5000 Bitterling
-5006 Dab
-5014 Soft-shelled turtle
+5036 Dab
+5091 Soft-shelled turtle
 5008 Sea bass
 5008 Sea bass
-5010 Sea butterfly
+5040 Sea butterfly
 5007 Salmon
-5010 Mitten crab
+5087 Mitten crab
 5000 Bitterling
-5006 Dab
-5020 Ray
-5000 {NULL}fish
-5010 Sea butterfly
-5001 Boot
-5007 Ocean sunfish
-5005 Crucian carp
-5003 Catfish
-5003 Blowfish
-5009 Puffer fish
-5001 Boot
-5000 Bluegill
-5011 Squid
-5018 Rainbowfish
-5000 Arapaima
+5036 Dab
+5070 Ray
+5029 {NULL}fish
+5040 Sea butterfly
+5031 Boot
+5022 Ocean sunfish
+5035 Crucian carp
+5033 Catfish
+5080 Blowfish
+5039 Puffer fish
+5031 Boot
+5030 Bluegill
+5041 Squid
+5068 Rainbowfish
+5015 Arapaima
 5009 Halibut
-5007 Freshwater goby
-5002 Axolotl
-5015 Pike
-5007 Freshwater goby
-5007 Giant snakehead
-5010 Sea butterfly
-5023 Sturgeon
+5084 Freshwater goby
+5049 Axolotl
+5065 Pike
+5084 Freshwater goby
+5057 Giant snakehead
+5040 Sea butterfly
+5073 Sturgeon
 5004 Horse mackerel
-5008 Killifish
-5002 Carp
-5010 Mitten crab
-5005 Clown fish
-5007 Giant snakehead
-5013 Sea horse
-5009 King salmon
-5003 Sakhalin sturgeon
-5001 Betta
-5001 Stringfish
-5003 Char
-5002 Barred knifejaw
-5005 Clown fish
+5085 Killifish
+5032 Carp
+5087 Mitten crab
+5082 Clown fish
+5057 Giant snakehead
+5090 Sea horse
+5086 King salmon
+5013 Sakhalin sturgeon
+5051 Betta
+5048 Stringfish
+5053 Char
+5079 Barred knifejaw
+5082 Clown fish
 5004 Horse mackerel
-5011 Squid
-5003 Char
-5011 Olive flounder
-5005 Dorado
-5012 Red snapper
-5014 Tilapia
-5002 Axolotl
-5000 Arapaima
-5014 Soft-shelled turtle
-5001 Ornate sleeper ray
-5012 Sweetfish
-5012 Sweetfish
-5007 Freshwater goby
-5013 Neon tetra
-5014 Soft-shelled turtle
-5016 Piranha
-5009 Great white shark
-5003 Blowfish
-5002 Blue marlin
-5013 Tadpole
+5041 Squid
+5053 Char
+5088 Olive flounder
+5055 Dorado
+5089 Red snapper
+5044 Tilapia
+5049 Axolotl
+5015 Arapaima
+5091 Soft-shelled turtle
+5011 Ornate sleeper ray
+5042 Sweetfish
+5042 Sweetfish
+5084 Freshwater goby
+5063 Neon tetra
+5091 Soft-shelled turtle
+5066 Piranha
+5059 Great white shark
+5080 Blowfish
+5052 Blue marlin
+5043 Tadpole
 5007 Salmon
-5006 Oarfish
-5012 Red snapper
-5008 Pale chub
+5021 Oarfish
+5089 Red snapper
+5038 Pale chub
 5003 Frog
-5013 Sea horse
-5012 Sweetfish
+5090 Sea horse
+5042 Sweetfish
