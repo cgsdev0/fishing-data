@@ -1,0 +1,13 @@
+#!/bin/bash
+
+cd fish-by-rarity2
+
+ID=5000
+while IFS= read -r line; do 
+  while IFS= read -r fish; do
+    echo "$ID $fish"
+    ((ID++))
+  done < <(cat "$line") | sponge "$line"
+done < <(find -type f)
+
+

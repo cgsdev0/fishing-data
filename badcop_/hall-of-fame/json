@@ -156,3 +156,7 @@
 {"stats":{"speed":10,"hp":-4,"baseDmg":7,"varDmg":2,"wins":13,"maxHp":16,"originalHp":21},"caughtBy":"TheIdOfAlan","fishType":"neon tetra"}
 {"stats":{"speed":14,"hp":-3,"baseDmg":5,"varDmg":2,"wins":11,"maxHp":27,"originalHp":30},"caughtBy":"Kodder","fishType":"golden trout"}
 {"stats":{"speed":20,"hp":-8,"baseDmg":6,"varDmg":4,"wins":12,"maxHp":11,"originalHp":26},"caughtBy":"fonoflops","fishType":"barreleye"}
+{"stats":{"speed":21,"hp":-2,"baseDmg":7,"varDmg":3,"wins":16,"maxHp":19,"originalHp":27},"caughtBy":"physbuzz","fishType":"coelacanth"}
+{"stats":{"speed":7,"hp":-9,"baseDmg":7,"varDmg":2,"wins":14,"maxHp":19,"originalHp":28},"caughtBy":"M33pinator","fishType":"blue marlin"}
+{"stats":{"speed":18,"hp":-1,"baseDmg":6,"varDmg":2,"wins":11,"maxHp":15,"originalHp":21},"caughtBy":"deyloop","fishType":"boot"}
+{"stats":{"speed":18,"hp":-4,"baseDmg":6,"varDmg":4,"wins":11,"maxHp":20,"originalHp":23},"caughtBy":"badcop_","fishType":"king salmon"}
