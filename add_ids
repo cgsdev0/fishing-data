@@ -20,6 +20,7 @@ cd badcop_
 for file in *; do
   echo "$file"
   while IFS= read -r line; do
+    line="${line#* }"
     id="${ids["$line"]}"
     echo "$id $line"
   done < "$file" | sponge "$file"
