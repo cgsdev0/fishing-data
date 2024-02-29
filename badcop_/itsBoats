@@ -1,7 +1,7 @@
 98 Jellyfish
 5003 Frog
 5004 Horse mackerel
-5035 Crucian carp
+46 Eel
 5004 Horse mackerel
 47 Eel
 55 Spearfish
@@ -9,46 +9,46 @@
 74 Mola Mola Fish
 5004 Horse mackerel
 90 Seahorse
-5038 Pale chub
-5035 Crucian carp
+65 Piranha
+46 Eel
 5001 Black bass
 5007 Salmon
 19 Trout
-5040 Sea butterfly
+77 Turtle
 44 Clownfish
 5005 Loach
 87 Shrimp
 8 Bass
-5036 Dab
+53 Bluegill
 40 Anglerfish
-5038 Pale chub
+65 Piranha
 5004 Horse mackerel
 15 Spotfish
 5002 Crawfish
 40 Anglerfish
 36 Triple Tail
 27 Catfish
-5036 Dab
-5038 Pale chub
+53 Bluegill
+65 Piranha
 60 Green Salmon
 55 Spearfish
 3 Tilpia
-5045 Yellow perch
+43 Clownfish
 5029 {NULL}fish
 5005 Loach
 78 Turtle
 5008 Sea bass
 72 Angelfish
-5032 Carp
+17 Spot Fish
 21 Trout
 24 Pufferfish
-5043 Tadpole
-5034 Cherry salmon
+31 Cod
+38 Snapper
 94 Lobster
 69 Grouper
-5039 Puffer fish
+71 Angel Fish
 5049 Axolotl
-5041 Squid
+59 Salmon
 5004 Horse mackerel
 55 Spearfish
 5 Perch

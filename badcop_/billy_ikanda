@@ -2,12 +2,12 @@
 5004 Horse mackerel
 5001 Black bass
 5003 Frog
-5035 Crucian carp
-5044 Tilapia
+46 Eel
+81 Starfish
 5009 Halibut
 5005 Loach
 5005 Loach
-5030 Bluegill
+14 Sardine
 99 Jellyfish
 58 Salmon
 29 Herring
@@ -16,10 +16,10 @@
 49 Damsel Fish
 32 Cod
 37 Snapper
-5033 Catfish
-5043 Tadpole
+29 Herring
+31 Cod
 5031 Boot
-5043 Tadpole
+31 Cod
 1 Tilapia
 5031 Boot
 1 Tilapia
@@ -28,10 +28,11 @@
 5001 Black bass
 11 Sardine
 7 Bass
-5045 Yellow perch
+43 Clownfish
 32 Cod
 1 Tilapia
 59 Salmon
 14 Sardine
 61 Barracuda
 32 Cod
+5067 Pop-eyed goldfish

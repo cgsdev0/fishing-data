@@ -1,6 +1,6 @@
 5006 Pond smelt
-5041 Squid
-5046 Zebra turkeyfish
+59 Salmon
+34 Triple Tail
 5008 Sea bass
 74 Mola Mola Fish
 5002 Crawfish
@@ -12,7 +12,7 @@
 44 Clownfish
 69 Grouper
 5 Perch
-5036 Dab
+53 Bluegill
 5002 Crawfish
 5003 Frog
 25 Catfish
@@ -21,20 +21,20 @@
 5004 Horse mackerel
 41 Anglerfish
 50 Damsel Fish
-5036 Dab
+53 Bluegill
 57 Spearfish
 51 Damsel Fish
 57 Spearfish
 98 Jellyfish
 3 Tilpia
-5032 Carp
-5043 Tadpole
+17 Spot Fish
+31 Cod
 5001 Black bass
-5033 Catfish
-5040 Sea butterfly
+29 Herring
+77 Turtle
 40 Anglerfish
-5043 Tadpole
-5046 Zebra turkeyfish
+31 Cod
+34 Triple Tail
 44 Clownfish
 5003 Frog
 98 Jellyfish
@@ -43,9 +43,9 @@
 10 Sardine
 5049 Axolotl
 5001 Black bass
-5033 Catfish
+29 Herring
 5007 Salmon
-5040 Sea butterfly
+77 Turtle
 5067 Pop-eyed goldfish
 5000 Bitterling
 25 Catfish

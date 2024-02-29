@@ -2,28 +2,28 @@
 5005 Loach
 5000 Bitterling
 5005 Loach
-5034 Cherry salmon
+38 Snapper
 5005 Loach
 55 Spearfish
 5008 Sea bass
 25 Catfish
-5045 Yellow perch
+43 Clownfish
 5005 Loach
 5001 Black bass
 5004 Horse mackerel
-5045 Yellow perch
+43 Clownfish
 5002 Crawfish
-5042 Sweetfish
+22 Pufferfish
 30 Herring
-5034 Cherry salmon
-5040 Sea butterfly
-5035 Crucian carp
+38 Snapper
+77 Turtle
+46 Eel
 5006 Pond smelt
-5037 Dace
-5045 Yellow perch
+62 Barracuda
+43 Clownfish
 25 Catfish
 50 Damsel Fish
-5030 Bluegill
+14 Sardine
 5007 Salmon
 19 Trout
 47 Eel
@@ -33,65 +33,65 @@
 30 Herring
 35 Triple Tail
 30 Herring
-5037 Dace
+62 Barracuda
 27 Catfish
 76 Mola Mola Fish
-5040 Sea butterfly
+77 Turtle
 30 Herring
-5044 Tilapia
+81 Starfish
 79 Turtle
 89 Seahorse
 60 Green Salmon
 54 Redgill
 41 Anglerfish
 19 Trout
-5035 Crucian carp
-5041 Squid
+46 Eel
+59 Salmon
 47 Eel
 5 Perch
-5030 Bluegill
-5042 Sweetfish
+14 Sardine
+22 Pufferfish
 25 Catfish
 69 Grouper
 5067 Pop-eyed goldfish
 5008 Sea bass
 5008 Sea bass
-5038 Pale chub
+65 Piranha
 94 Lobster
 5007 Salmon
 5049 Axolotl
-5032 Carp
+17 Spot Fish
 5007 Salmon
 44 Clownfish
 5001 Black bass
-5041 Squid
-5039 Puffer fish
+59 Salmon
+71 Angel Fish
 76 Mola Mola Fish
 8 Bass
 5067 Pop-eyed goldfish
-5035 Crucian carp
+46 Eel
 15 Spotfish
 50 Damsel Fish
 27 Catfish
-5040 Sea butterfly
+77 Turtle
 5001 Black bass
 90 Seahorse
 78 Turtle
-5034 Cherry salmon
-5030 Bluegill
+38 Snapper
+14 Sardine
 5031 Boot
 19 Trout
 69 Grouper
 5 Perch
-5044 Tilapia
+81 Starfish
 44 Clownfish
 5008 Sea bass
-5033 Catfish
+29 Herring
 5026 GamerPieJess fish
 75 Mola Mola Fish
 8 Bass
 5059 Great white shark
-5032 Carp
+17 Spot Fish
 75 Mola Mola Fish
 5006 Pond smelt
 5007 Salmon
@@ -102,11 +102,11 @@
 78 Turtle
 5001 Black bass
 35 Triple Tail
-5034 Cherry salmon
+38 Snapper
 5009 Halibut
 10 Sardine
 79 Turtle
 19 Trout
-5039 Puffer fish
+71 Angel Fish
 5000 Bitterling
-5041 Squid
+59 Salmon

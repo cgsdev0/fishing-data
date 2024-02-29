@@ -3,8 +3,8 @@
 5004 Horse mackerel
 54 Redgill
 5009 Halibut
-5042 Sweetfish
-5035 Crucian carp
+22 Pufferfish
+46 Eel
 5004 Horse mackerel
 5005 Loach
 20 Trout
@@ -13,21 +13,21 @@
 5005 Loach
 5003 Frog
 40 Anglerfish
-5035 Crucian carp
+46 Eel
 5012 Red Handfish
 30 Herring
-5037 Dace
+62 Barracuda
 5007 Salmon
 45 Clownfish
 5031 Boot
-5042 Sweetfish
+22 Pufferfish
 90 Seahorse
 5059 Great white shark
 84 Crab
 5031 Boot
 8 Bass
 5004 Horse mackerel
-5035 Crucian carp
+46 Eel
 5028 404 Fish
 60 Green Salmon
 72 Angelfish
@@ -35,8 +35,8 @@
 72 Angelfish
 69 Grouper
 76 Mola Mola Fish
-5036 Dab
-5034 Cherry salmon
+53 Bluegill
+38 Snapper
 35 Triple Tail
 25 Catfish
 5031 Boot

@@ -1,14 +1,14 @@
 63 Barracuda
 5003 Frog
-5042 Sweetfish
+22 Pufferfish
 35 Triple Tail
 89 Seahorse
 5031 Boot
 5000 Bitterling
 19 Trout
-5033 Catfish
+29 Herring
 5008 Sea bass
-5042 Sweetfish
+22 Pufferfish
 5000 Bitterling
 5008 Sea bass
 93 Blue Lobster
@@ -20,11 +20,11 @@
 39 Snapperfish
 5031 Boot
 5008 Sea bass
-5039 Puffer fish
+71 Angel Fish
 5009 Halibut
 5000 Bitterling
 36 Triple Tail
-5037 Dace
+62 Barracuda
 82 Starfish
 5004 Horse mackerel
 5000 Bitterling
@@ -33,7 +33,7 @@
 74 Mola Mola Fish
 5008 Sea bass
 5007 Salmon
-5033 Catfish
+29 Herring
 24 Pufferfish
 30 Herring
 50 Damsel Fish
@@ -41,32 +41,32 @@
 5009 Halibut
 5006 Pond smelt
 5002 Crawfish
-5037 Dace
-5043 Tadpole
+62 Barracuda
+31 Cod
 57 Spearfish
 5007 Salmon
-5034 Cherry salmon
+38 Snapper
 5000 Bitterling
 5003 Frog
-5033 Catfish
+29 Herring
 5004 Horse mackerel
 5009 Halibut
 56 Spearfish
-5046 Zebra turkeyfish
+34 Triple Tail
 5001 Black bass
-5044 Tilapia
-5030 Bluegill
+81 Starfish
+14 Sardine
 5002 Crawfish
-5036 Dab
+53 Bluegill
 5005 Loach
-5030 Bluegill
-5042 Sweetfish
+14 Sardine
+22 Pufferfish
 5002 Crawfish
 40 Anglerfish
 5006 Pond smelt
 3 Tilpia
-5033 Catfish
-5035 Crucian carp
+29 Herring
+46 Eel
 5008 Sea bass
 93 Blue Lobster
 5001 Black bass

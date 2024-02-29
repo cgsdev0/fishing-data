@@ -6,15 +6,15 @@
 3 Tilpia
 5000 Bitterling
 5002 Crawfish
-5046 Zebra turkeyfish
-5030 Bluegill
+34 Triple Tail
+14 Sardine
 45 Clownfish
-5037 Dace
+62 Barracuda
 40 Anglerfish
-5033 Catfish
+29 Herring
 5004 Horse mackerel
 5 Perch
-5044 Tilapia
+81 Starfish
 98 Jellyfish
 72 Angelfish
 5006 Pond smelt
@@ -23,13 +23,13 @@
 5003 Frog
 25 Catfish
 5004 Horse mackerel
-5043 Tadpole
+31 Cod
 25 Catfish
 19 Trout
-5032 Carp
+17 Spot Fish
 78 Turtle
-5032 Carp
-5041 Squid
+17 Spot Fish
+59 Salmon
 10 Sardine
 5002 Crawfish
 5007 Salmon
@@ -44,7 +44,7 @@
 97 Golden Takoyaki
 5067 Pop-eyed goldfish
 5003 Frog
-5045 Yellow perch
+43 Clownfish
 50 Damsel Fish
-5041 Squid
-5032 Carp
+59 Salmon
+17 Spot Fish

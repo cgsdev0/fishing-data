@@ -8,93 +8,93 @@
 89 Seahorse
 5001 Black bass
 5009 Halibut
-5033 Catfish
+29 Herring
 55 Spearfish
 3 Tilpia
 5001 Black bass
 5004 Horse mackerel
-5035 Crucian carp
+46 Eel
 5029 {NULL}fish
 87 Shrimp
 5004 Horse mackerel
 63 Barracuda
 5003 Frog
 54 Redgill
-5043 Tadpole
+31 Cod
 5008 Sea bass
-5043 Tadpole
-5037 Dace
+31 Cod
+62 Barracuda
 5002 Crawfish
 69 Grouper
 47 Eel
 90 Seahorse
 5059 Great white shark
-5035 Crucian carp
+46 Eel
 25 Catfish
 19 Trout
 8 Bass
 26 Catfish
 82 Starfish
-5037 Dace
+62 Barracuda
 5004 Horse mackerel
-5033 Catfish
+29 Herring
 5005 Loach
 74 Mola Mola Fish
 39 Snapperfish
-5038 Pale chub
+65 Piranha
 33 Cod
 51 Damsel Fish
-5043 Tadpole
+31 Cod
 25 Catfish
 75 Mola Mola Fish
 89 Seahorse
 18 Trout
-5032 Carp
+17 Spot Fish
 48 Electric Eel
 30 Herring
-5042 Sweetfish
-5040 Sea butterfly
+22 Pufferfish
+77 Turtle
 18 Trout
-5043 Tadpole
+31 Cod
 100 Jellyfish
 5006 Pond smelt
 60 Green Salmon
-5030 Bluegill
+14 Sardine
 5004 Horse mackerel
 5008 Sea bass
-5040 Sea butterfly
+77 Turtle
 40 Anglerfish
-5043 Tadpole
+31 Cod
 20 Trout
 50 Damsel Fish
 10 Sardine
 5005 Loach
-5030 Bluegill
+14 Sardine
 48 Electric Eel
 5003 Frog
 5001 Black bass
-5039 Puffer fish
+71 Angel Fish
 5003 Frog
 48 Electric Eel
 5002 Crawfish
-5046 Zebra turkeyfish
-5037 Dace
-5034 Cherry salmon
+34 Triple Tail
+62 Barracuda
+38 Snapper
 19 Trout
-5030 Bluegill
+14 Sardine
 78 Turtle
 5000 Bitterling
 5000 Bitterling
 69 Grouper
-5044 Tilapia
-5041 Squid
+81 Starfish
+59 Salmon
 50 Damsel Fish
-5045 Yellow perch
+43 Clownfish
 5000 Bitterling
 72 Angelfish
 5007 Salmon
 63 Barracuda
 5002 Crawfish
-5046 Zebra turkeyfish
-5030 Bluegill
-5040 Sea butterfly
+34 Triple Tail
+14 Sardine
+77 Turtle

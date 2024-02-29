@@ -1,17 +1,17 @@
 5008 Sea bass
 19 Trout
 3 Tilpia
-5045 Yellow perch
-5042 Sweetfish
+43 Clownfish
+22 Pufferfish
 10 Sardine
 74 Mola Mola Fish
 76 Mola Mola Fish
-5037 Dace
+62 Barracuda
 47 Eel
-5043 Tadpole
+31 Cod
 5004 Horse mackerel
-5040 Sea butterfly
-5045 Yellow perch
+77 Turtle
+43 Clownfish
 57 Spearfish
 51 Damsel Fish
 5049 Axolotl
@@ -20,43 +20,43 @@
 5001 Black bass
 50 Damsel Fish
 98 Jellyfish
-5034 Cherry salmon
+38 Snapper
 5004 Horse mackerel
 90 Seahorse
 40 Anglerfish
-5043 Tadpole
+31 Cod
 40 Anglerfish
-5030 Bluegill
+14 Sardine
 63 Barracuda
 93 Blue Lobster
-5041 Squid
-5041 Squid
+59 Salmon
+59 Salmon
 3 Tilpia
 5 Perch
 3 Tilpia
 54 Redgill
 51 Damsel Fish
-5035 Crucian carp
-5030 Bluegill
-5044 Tilapia
+46 Eel
+14 Sardine
+81 Starfish
 5004 Horse mackerel
-5037 Dace
+62 Barracuda
 75 Mola Mola Fish
-5034 Cherry salmon
+38 Snapper
 93 Blue Lobster
 84 Crab
 5000 Bitterling
-5033 Catfish
+29 Herring
 5004 Horse mackerel
 5004 Horse mackerel
 47 Eel
 63 Barracuda
-5044 Tilapia
+81 Starfish
 5002 Crawfish
-5038 Pale chub
+65 Piranha
 5009 Halibut
-5044 Tilapia
-5030 Bluegill
+81 Starfish
+14 Sardine
 47 Eel
 5067 Pop-eyed goldfish
 5004 Horse mackerel
@@ -69,49 +69,49 @@
 5003 Frog
 41 Anglerfish
 5027 Cutthroat Trout
-5039 Puffer fish
-5035 Crucian carp
+71 Angel Fish
+46 Eel
 41 Anglerfish
 44 Clownfish
 5013 Sakhalin sturgeon
-5040 Sea butterfly
-5034 Cherry salmon
-5035 Crucian carp
+77 Turtle
+38 Snapper
+46 Eel
 74 Mola Mola Fish
 5004 Horse mackerel
 5010 Blahaj
 33 Cod
-5041 Squid
+59 Salmon
 60 Green Salmon
 5009 Halibut
 5001 Black bass
-5030 Bluegill
-5032 Carp
-5041 Squid
+14 Sardine
+17 Spot Fish
+59 Salmon
 19 Trout
 8 Bass
-5030 Bluegill
+14 Sardine
 63 Barracuda
-5034 Cherry salmon
+38 Snapper
 69 Grouper
 5001 Black bass
 19 Trout
 24 Pufferfish
-5039 Puffer fish
-5035 Crucian carp
+71 Angel Fish
+46 Eel
 41 Anglerfish
-5046 Zebra turkeyfish
+34 Triple Tail
 10 Sardine
 5004 Horse mackerel
 26 Catfish
 5013 Sakhalin sturgeon
 79 Turtle
-5037 Dace
+62 Barracuda
 5 Perch
 5059 Great white shark
 89 Seahorse
-5036 Dab
-5036 Dab
+53 Bluegill
+53 Bluegill
 40 Anglerfish
 5002 Crawfish
 27 Catfish

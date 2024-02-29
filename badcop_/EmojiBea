@@ -1,5 +1,5 @@
 5002 Crawfish
-5036 Dab
+53 Bluegill
 5067 Pop-eyed goldfish
 8 Bass
 5000 Bitterling
@@ -7,21 +7,21 @@
 5010 Blahaj
 19 Trout
 25 Catfish
-5036 Dab
-5042 Sweetfish
+53 Bluegill
+22 Pufferfish
 45 Clownfish
-5042 Sweetfish
-5036 Dab
+22 Pufferfish
+53 Bluegill
 12 Sardine
 40 Anglerfish
 5006 Pond smelt
 39 Snapperfish
-5033 Catfish
+29 Herring
 100 Jellyfish
 5059 Great white shark
 24 Pufferfish
 69 Grouper
 5029 {NULL}fish
-5039 Puffer fish
+71 Angel Fish
 5000 Bitterling
 44 Clownfish

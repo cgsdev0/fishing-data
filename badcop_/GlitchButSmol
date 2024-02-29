@@ -1,10 +1,10 @@
 5029 {NULL}fish
 5009 Halibut
 5005 Loach
-5043 Tadpole
+31 Cod
 5002 Crawfish
-5030 Bluegill
-5041 Squid
+14 Sardine
+59 Salmon
 40 Anglerfish
 82 Starfish
 5002 Crawfish
@@ -14,7 +14,7 @@
 69 Grouper
 5000 Bitterling
 25 Catfish
-5033 Catfish
+29 Herring
 5004 Horse mackerel
 35 Triple Tail
 5010 Blahaj
@@ -24,24 +24,24 @@
 24 Pufferfish
 50 Damsel Fish
 20 Trout
-5035 Crucian carp
+46 Eel
 47 Eel
 3 Tilpia
 5002 Crawfish
 44 Clownfish
-5041 Squid
-5038 Pale chub
+59 Salmon
+65 Piranha
 9 Bass
 5000 Bitterling
 5002 Crawfish
 47 Eel
 89 Seahorse
 19 Trout
-5038 Pale chub
-5039 Puffer fish
+65 Piranha
+71 Angel Fish
 50 Damsel Fish
 3 Tilpia
-5045 Yellow perch
+43 Clownfish
 3 Tilpia
 45 Clownfish
 74 Mola Mola Fish
