@@ -160,3 +160,4 @@
 {"stats":{"speed":7,"hp":-9,"baseDmg":7,"varDmg":2,"wins":14,"maxHp":19,"originalHp":28},"caughtBy":"M33pinator","fishType":"blue,marlin"}
 {"stats":{"speed":18,"hp":-1,"baseDmg":6,"varDmg":2,"wins":11,"maxHp":15,"originalHp":21},"caughtBy":"deyloop","fishType":"boot"}
 {"stats":{"speed":18,"hp":-4,"baseDmg":6,"varDmg":4,"wins":11,"maxHp":20,"originalHp":23},"caughtBy":"badcop_","fishType":"king,salmon"}
+{"stats":{"speed":9,"hp":-6,"baseDmg":7,"varDmg":3,"wins":16,"maxHp":18,"originalHp":27},"caughtBy":"nightshadedude","fishType":"rainbowfish"}
