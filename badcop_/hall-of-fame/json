@@ -161,3 +161,11 @@
 {"stats":{"speed":18,"hp":-1,"baseDmg":6,"varDmg":2,"wins":11,"maxHp":15,"originalHp":21},"caughtBy":"deyloop","fishType":"boot"}
 {"stats":{"speed":18,"hp":-4,"baseDmg":6,"varDmg":4,"wins":11,"maxHp":20,"originalHp":23},"caughtBy":"badcop_","fishType":"king,salmon"}
 {"stats":{"speed":9,"hp":-6,"baseDmg":7,"varDmg":3,"wins":16,"maxHp":18,"originalHp":27},"caughtBy":"nightshadedude","fishType":"rainbowfish"}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":6,"speed":12,"maxHp":17,"originalHp":30,"wins":11,"classification":"legendary"},"caughtBy":"zhiayang","fishType":"golden takoyaki","fishId":97,"float":"13725506390385287451"}
+{"stats":{"hp":-1,"baseDmg":9,"varDmg":4,"speed":17,"maxHp":15,"originalHp":21,"wins":16,"classification":"epic"},"caughtBy":"The_SoloRogue","fishType":"axolotl","fishId":5049,"float":"14159649483611416311"}
+{"stats":{"hp":-3,"baseDmg":4,"varDmg":4,"speed":13,"maxHp":21,"originalHp":35,"wins":11,"classification":"scarce"},"caughtBy":"Doudeman","fishType":"cod","fishId":33,"float":"1533274728443111391"}
+{"stats":{"hp":-4,"baseDmg":10,"varDmg":6,"speed":18,"maxHp":8,"originalHp":35,"wins":40,"classification":"legendary"},"caughtBy":"The_SoloRogue","fishType":"red handfish","fishId":5012,"float":"1248155550105127137"}
+{"stats":{"hp":-1,"baseDmg":11,"varDmg":6,"speed":11,"maxHp":13,"originalHp":28,"wins":12,"classification":"legendary"},"caughtBy":"zhiayang","fishType":"golden takoyaki","fishId":97,"float":"16529977663646970618"}
+{"stats":{"hp":-3,"baseDmg":4,"varDmg":4,"speed":9,"maxHp":25,"originalHp":31,"wins":14,"classification":"rare"},"caughtBy":"fonoflops","fishType":"lobster","fishId":94,"float":"2303148635004361462"}
+{"stats":{"hp":-11,"baseDmg":7,"varDmg":4,"speed":8,"maxHp":28,"originalHp":32,"wins":15,"classification":"scarce"},"caughtBy":"vim_enthusiast","fishType":"catfish","fishId":26,"float":"444870153113473900"}
+{"stats":{"hp":-4,"baseDmg":6,"varDmg":2,"speed":16,"maxHp":8,"originalHp":21,"wins":10,"classification":"fairly_common"},"caughtBy":"fonoflops","fishType":"clownfish","fishId":43,"float":"14624923662489053894"}
