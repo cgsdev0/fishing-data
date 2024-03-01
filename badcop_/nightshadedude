@@ -1,119 +1,119 @@
-5029 {NULL}fish
-7 Bass
-13 Sardine
-53 Bluegill
-90 Seahorse
-71 Angel Fish
-77 Turtle
-62 Barracuda
-7 Bass
-31 Cod
-32 Cod
-16 Trout
-37 Snapper
-65 Piranha
-4 Perch
-44 Clownfish
-21 Trout
-16 Trout
-5029 {NULL}fish
-55 Spearfish
-13 Sardine
-55 Spearfish
-65 Piranha
-19 Trout
-37 Snapper
-19 Trout
-34 Triple Tail
-17 Spot Fish
-62 Barracuda
-68 Grouper
-8 Bass
-28 Anchovy
-4 Perch
-16 Trout
-11 Sardine
-62 Barracuda
-69 Grouper
-23 Pufferfish
-19 Trout
-25 Catfish
-19 Trout
-84 Crab
-17 Spot Fish
-43 Clownfish
-37 Snapper
-69 Grouper
-53 Bluegill
-44 Clownfish
-55 Spearfish
-28 Anchovy
-69 Grouper
-5031 Boot
-63 Barracuda
-13 Sardine
-12 Sardine
-51 Damsel Fish
-72 Angelfish
-29 Herring
-1 Tilapia
-32 Cod
-51 Damsel Fish
-54 Redgill
-62 Barracuda
-44 Clownfish
-32 Cod
-47 Eel
-35 Triple Tail
-13 Sardine
-12 Sardine
-7 Bass
-5067 Pop-eyed goldfish
-30 Herring
-5012 Red Handfish
-37 Snapper
-41 Anglerfish
-16 Trout
-59 Salmon
-76 Mola Mola Fish
-46 Eel
-28 Anchovy
-4 Perch
-38 Snapper
-11 Sardine
-20 Trout
-31 Cod
-5059 Great white shark
-5027 Cutthroat Trout
-78 Turtle
-48 Electric Eel
-71 Angel Fish
-3 Tilpia
-43 Clownfish
-45 Clownfish
-76 Mola Mola Fish
-5029 {NULL}fish
-28 Anchovy
-15 Spotfish
-4 Perch
-55 Spearfish
-51 Damsel Fish
-40 Anglerfish
-31 Cod
-89 Seahorse
-27 Catfish
-29 Herring
-5031 Boot
-25 Catfish
-38 Snapper
-28 Anchovy
-25 Catfish
-19 Trout
-33 Cod
-32 Cod
-19 Trout
-95 Octopus
-72 Angelfish
-38 Snapper
-9 Bass
-55 Spearfish
+5029,{NULL}fish
+7,Bass
+13,Sardine
+53,Bluegill
+90,Seahorse
+71,Angel Fish
+77,Turtle
+62,Barracuda
+7,Bass
+31,Cod
+32,Cod
+16,Trout
+37,Snapper
+65,Piranha
+4,Perch
+44,Clownfish
+21,Trout
+16,Trout
+5029,{NULL}fish
+55,Spearfish
+13,Sardine
+55,Spearfish
+65,Piranha
+19,Trout
+37,Snapper
+19,Trout
+34,Triple Tail
+17,Spot Fish
+62,Barracuda
+68,Grouper
+8,Bass
+28,Anchovy
+4,Perch
+16,Trout
+11,Sardine
+62,Barracuda
+69,Grouper
+23,Pufferfish
+19,Trout
+25,Catfish
+19,Trout
+84,Crab
+17,Spot Fish
+43,Clownfish
+37,Snapper
+69,Grouper
+53,Bluegill
+44,Clownfish
+55,Spearfish
+28,Anchovy
+69,Grouper
+5031,Boot
+63,Barracuda
+13,Sardine
+12,Sardine
+51,Damsel Fish
+72,Angelfish
+29,Herring
+1,Tilapia
+32,Cod
+51,Damsel Fish
+54,Redgill
+62,Barracuda
+44,Clownfish
+32,Cod
+47,Eel
+35,Triple Tail
+13,Sardine
+12,Sardine
+7,Bass
+5067,Pop-eyed goldfish
+30,Herring
+5012,Red Handfish
+37,Snapper
+41,Anglerfish
+16,Trout
+59,Salmon
+76,Mola Mola Fish
+46,Eel
+28,Anchovy
+4,Perch
+38,Snapper
+11,Sardine
+20,Trout
+31,Cod
+5059,Great white shark
+5027,Cutthroat Trout
+78,Turtle
+48,Electric Eel
+71,Angel Fish
+3,Tilpia
+43,Clownfish
+45,Clownfish
+76,Mola Mola Fish
+5029,{NULL}fish
+28,Anchovy
+15,Spotfish
+4,Perch
+55,Spearfish
+51,Damsel Fish
+40,Anglerfish
+31,Cod
+89,Seahorse
+27,Catfish
+29,Herring
+5031,Boot
+25,Catfish
+38,Snapper
+28,Anchovy
+25,Catfish
+19,Trout
+33,Cod
+32,Cod
+19,Trout
+95,Octopus
+72,Angelfish
+38,Snapper
+9,Bass
+55,Spearfish

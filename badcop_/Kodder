@@ -1,69 +1,69 @@
-17 Spot Fish
-13 Sardine
-14 Sardine
-29 Herring
-62 Barracuda
-69 Grouper
-5029 {NULL}fish
-44 Clownfish
-44 Clownfish
-23 Pufferfish
-40 Anglerfish
-44 Clownfish
-24 Pufferfish
-5031 Boot
-16 Trout
-38 Snapper
-16 Trout
-5059 Great white shark
-55 Spearfish
-98 Jellyfish
-59 Salmon
-8 Bass
-5 Perch
-17 Spot Fish
-89 Seahorse
-9 Bass
-5 Perch
-53 Bluegill
-31 Cod
-89 Seahorse
-44 Clownfish
-25 Catfish
-26 Catfish
-34 Triple Tail
-14 Sardine
-7 Bass
-1 Tilapia
-5 Perch
-79 Turtle
-30 Herring
-79 Turtle
-22 Pufferfish
-30 Herring
-6 Perch
-100 Jellyfish
-29 Herring
-72 Angelfish
-20 Trout
-17 Spot Fish
-5059 Great white shark
-31 Cod
-74 Mola Mola Fish
-77 Turtle
-65 Piranha
-13 Sardine
-28 Anchovy
-94 Lobster
-59 Salmon
-46 Eel
-63 Barracuda
-22 Pufferfish
-14 Sardine
-45 Clownfish
-10 Sardine
-37 Snapper
-4 Perch
-5 Perch
-19 Trout
-37 Snapper
+17,Spot Fish
+13,Sardine
+14,Sardine
+29,Herring
+62,Barracuda
+69,Grouper
+5029,{NULL}fish
+44,Clownfish
+44,Clownfish
+23,Pufferfish
+40,Anglerfish
+44,Clownfish
+24,Pufferfish
+5031,Boot
+16,Trout
+38,Snapper
+16,Trout
+5059,Great white shark
+55,Spearfish
+98,Jellyfish
+59,Salmon
+8,Bass
+5,Perch
+17,Spot Fish
+89,Seahorse
+9,Bass
+5,Perch
+53,Bluegill
+31,Cod
+89,Seahorse
+44,Clownfish
+25,Catfish
+26,Catfish
+34,Triple Tail
+14,Sardine
+7,Bass
+1,Tilapia
+5,Perch
+79,Turtle
+30,Herring
+79,Turtle
+22,Pufferfish
+30,Herring
+6,Perch
+100,Jellyfish
+29,Herring
+72,Angelfish
+20,Trout
+17,Spot Fish
+5059,Great white shark
+31,Cod
+74,Mola Mola Fish
+77,Turtle
+65,Piranha
+13,Sardine
+28,Anchovy
+94,Lobster
+59,Salmon
+46,Eel
+63,Barracuda
+22,Pufferfish
+14,Sardine
+45,Clownfish
+10,Sardine
+37,Snapper
+4,Perch
+5,Perch
+19,Trout
+37,Snapper

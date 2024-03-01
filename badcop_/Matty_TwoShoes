@@ -1,43 +1,43 @@
-1 Tilapia
-5029 {NULL}fish
-5029 {NULL}fish
-5029 {NULL}fish
-14 Sardine
-38 Snapper
-5029 {NULL}fish
-5029 {NULL}fish
-5029 {NULL}fish
-5029 {NULL}fish
-5029 {NULL}fish
-7 Bass
-74 Mola Mola Fish
-77 Turtle
-37 Snapper
-72 Angelfish
-11 Sardine
-56 Spearfish
-34 Triple Tail
-19 Trout
-36 Triple Tail
-81 Starfish
-5027 Cutthroat Trout
-89 Seahorse
-44 Clownfish
-30 Herring
-77 Turtle
-74 Mola Mola Fish
-21 Trout
-19 Trout
-4 Perch
-14 Sardine
-94 Lobster
-31 Cod
-50 Damsel Fish
-31 Cod
-62 Barracuda
-25 Catfish
-16 Trout
-55 Spearfish
-28 Anchovy
-65 Piranha
-79 Turtle
+1,Tilapia
+5029,{NULL}fish
+5029,{NULL}fish
+5029,{NULL}fish
+14,Sardine
+38,Snapper
+5029,{NULL}fish
+5029,{NULL}fish
+5029,{NULL}fish
+5029,{NULL}fish
+5029,{NULL}fish
+7,Bass
+74,Mola Mola Fish
+77,Turtle
+37,Snapper
+72,Angelfish
+11,Sardine
+56,Spearfish
+34,Triple Tail
+19,Trout
+36,Triple Tail
+81,Starfish
+5027,Cutthroat Trout
+89,Seahorse
+44,Clownfish
+30,Herring
+77,Turtle
+74,Mola Mola Fish
+21,Trout
+19,Trout
+4,Perch
+14,Sardine
+94,Lobster
+31,Cod
+50,Damsel Fish
+31,Cod
+62,Barracuda
+25,Catfish
+16,Trout
+55,Spearfish
+28,Anchovy
+65,Piranha
+79,Turtle

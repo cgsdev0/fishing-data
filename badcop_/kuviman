@@ -1,175 +1,175 @@
-1 Tilapia
-25 Catfish
-59 Salmon
-17 Spot Fish
-20 Trout
-17 Spot Fish
-65 Piranha
-22 Pufferfish
-23 Pufferfish
-23 Pufferfish
-75 Mola Mola Fish
-39 Snapperfish
-15 Spotfish
-55 Spearfish
-23 Pufferfish
-19 Trout
-17 Spot Fish
-17 Spot Fish
-43 Clownfish
-17 Spot Fish
-34 Triple Tail
-11 Sardine
-32 Cod
-65 Piranha
-3 Tilpia
-23 Pufferfish
-13 Sardine
-11 Sardine
-16 Trout
-28 Anchovy
-5067 Pop-eyed goldfish
-17 Spot Fish
-38 Snapper
-23 Pufferfish
-12 Sardine
-5031 Boot
-34 Triple Tail
-38 Snapper
-38 Snapper
-14 Sardine
-16 Trout
-77 Turtle
-30 Herring
-13 Sardine
-14 Sardine
-5 Perch
-71 Angel Fish
-53 Bluegill
-51 Damsel Fish
-16 Trout
-34 Triple Tail
-1 Tilapia
-22 Pufferfish
-23 Pufferfish
-39 Snapperfish
-30 Herring
-13 Sardine
-5029 {NULL}fish
-11 Sardine
-28 Anchovy
-31 Cod
-16 Trout
-56 Spearfish
-75 Mola Mola Fish
-32 Cod
-22 Pufferfish
-32 Cod
-16 Trout
-5029 {NULL}fish
-11 Sardine
-7 Bass
-31 Cod
-37 Snapper
-4 Perch
-28 Anchovy
-65 Piranha
-41 Anglerfish
-32 Cod
-5059 Great white shark
-7 Bass
-7 Bass
-4 Perch
-19 Trout
-68 Grouper
-43 Clownfish
-47 Eel
-28 Anchovy
-37 Snapper
-89 Seahorse
-43 Clownfish
-1 Tilapia
-53 Bluegill
-59 Salmon
-5029 {NULL}fish
-5027 Cutthroat Trout
-36 Triple Tail
-6 Perch
-13 Sardine
-4 Perch
-34 Triple Tail
-7 Bass
-31 Cod
-32 Cod
-17 Spot Fish
-4 Perch
-37 Snapper
-7 Bass
-4 Perch
-5 Perch
-53 Bluegill
-94 Lobster
-13 Sardine
-44 Clownfish
-16 Trout
-4 Perch
-28 Anchovy
-46 Eel
-28 Anchovy
-23 Pufferfish
-69 Grouper
-30 Herring
-44 Clownfish
-36 Triple Tail
-37 Snapper
-7 Bass
-23 Pufferfish
-28 Anchovy
-7 Bass
-46 Eel
-13 Sardine
-32 Cod
-34 Triple Tail
-13 Sardine
-1 Tilapia
-40 Anglerfish
-16 Trout
-19 Trout
-54 Redgill
-28 Anchovy
-4 Perch
-43 Clownfish
-55 Spearfish
-5 Perch
-46 Eel
-98 Jellyfish
-11 Sardine
-7 Bass
-37 Snapper
-16 Trout
-30 Herring
-13 Sardine
-39 Snapperfish
-10 Sardine
-14 Sardine
-5031 Boot
-46 Eel
-17 Spot Fish
-34 Triple Tail
-62 Barracuda
-7 Bass
-71 Angel Fish
-81 Starfish
-16 Trout
-7 Bass
-69 Grouper
-40 Anglerfish
-38 Snapper
-48 Electric Eel
-46 Eel
-32 Cod
-37 Snapper
-39 Snapperfish
-65 Piranha
-46 Eel
-31 Cod
+1,Tilapia
+25,Catfish
+59,Salmon
+17,Spot Fish
+20,Trout
+17,Spot Fish
+65,Piranha
+22,Pufferfish
+23,Pufferfish
+23,Pufferfish
+75,Mola Mola Fish
+39,Snapperfish
+15,Spotfish
+55,Spearfish
+23,Pufferfish
+19,Trout
+17,Spot Fish
+17,Spot Fish
+43,Clownfish
+17,Spot Fish
+34,Triple Tail
+11,Sardine
+32,Cod
+65,Piranha
+3,Tilpia
+23,Pufferfish
+13,Sardine
+11,Sardine
+16,Trout
+28,Anchovy
+5067,Pop-eyed goldfish
+17,Spot Fish
+38,Snapper
+23,Pufferfish
+12,Sardine
+5031,Boot
+34,Triple Tail
+38,Snapper
+38,Snapper
+14,Sardine
+16,Trout
+77,Turtle
+30,Herring
+13,Sardine
+14,Sardine
+5,Perch
+71,Angel Fish
+53,Bluegill
+51,Damsel Fish
+16,Trout
+34,Triple Tail
+1,Tilapia
+22,Pufferfish
+23,Pufferfish
+39,Snapperfish
+30,Herring
+13,Sardine
+5029,{NULL}fish
+11,Sardine
+28,Anchovy
+31,Cod
+16,Trout
+56,Spearfish
+75,Mola Mola Fish
+32,Cod
+22,Pufferfish
+32,Cod
+16,Trout
+5029,{NULL}fish
+11,Sardine
+7,Bass
+31,Cod
+37,Snapper
+4,Perch
+28,Anchovy
+65,Piranha
+41,Anglerfish
+32,Cod
+5059,Great white shark
+7,Bass
+7,Bass
+4,Perch
+19,Trout
+68,Grouper
+43,Clownfish
+47,Eel
+28,Anchovy
+37,Snapper
+89,Seahorse
+43,Clownfish
+1,Tilapia
+53,Bluegill
+59,Salmon
+5029,{NULL}fish
+5027,Cutthroat Trout
+36,Triple Tail
+6,Perch
+13,Sardine
+4,Perch
+34,Triple Tail
+7,Bass
+31,Cod
+32,Cod
+17,Spot Fish
+4,Perch
+37,Snapper
+7,Bass
+4,Perch
+5,Perch
+53,Bluegill
+94,Lobster
+13,Sardine
+44,Clownfish
+16,Trout
+4,Perch
+28,Anchovy
+46,Eel
+28,Anchovy
+23,Pufferfish
+69,Grouper
+30,Herring
+44,Clownfish
+36,Triple Tail
+37,Snapper
+7,Bass
+23,Pufferfish
+28,Anchovy
+7,Bass
+46,Eel
+13,Sardine
+32,Cod
+34,Triple Tail
+13,Sardine
+1,Tilapia
+40,Anglerfish
+16,Trout
+19,Trout
+54,Redgill
+28,Anchovy
+4,Perch
+43,Clownfish
+55,Spearfish
+5,Perch
+46,Eel
+98,Jellyfish
+11,Sardine
+7,Bass
+37,Snapper
+16,Trout
+30,Herring
+13,Sardine
+39,Snapperfish
+10,Sardine
+14,Sardine
+5031,Boot
+46,Eel
+17,Spot Fish
+34,Triple Tail
+62,Barracuda
+7,Bass
+71,Angel Fish
+81,Starfish
+16,Trout
+7,Bass
+69,Grouper
+40,Anglerfish
+38,Snapper
+48,Electric Eel
+46,Eel
+32,Cod
+37,Snapper
+39,Snapperfish
+65,Piranha
+46,Eel
+31,Cod
