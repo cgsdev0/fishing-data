@@ -1,0 +1,31 @@
+#!/bin/zsh
+
+source ~/bin/twitch-cmds/fish-cmds
+
+declare -A ids
+pushd fish-by-rarity2
+
+for file in *; do
+  echo "Loading $file..."
+  while IFS= read -r line; do
+    id="${line%% *}"
+    rest="${line#* }"
+    ids["$id"]="$file"
+  done < "$file"
+done
+
+popd
+
+cd badcop_
+
+
+for file in *; do
+  echo "$file"
+  while IFS= read -r line; do
+    id="${line%%,*}"
+    classification="${ids["$id"]}" 
+    fish_float="${$(head -c 8 < /dev/urandom | od -tu8 -An)// /}"
+    roll_stats "$classification"
+    echo "$line,$fish_float,$stats_raw"
+  done < "$file" | sponge "$file"
+done
