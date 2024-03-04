@@ -36,7 +36,7 @@ OLD_FISH="${ids["$OLD_ID"],,}"
 echo "REPLACING $OLD_FISH WITH $NEW_FISH"
 
 pushd badcop_
-find -type f | xargs sed -i 's/^'$OLD_ID' .*$/'$NEW_ID' '"$NEW_FISH"'/'
+find -type f | xargs sed -i 's/^'$OLD_ID',[^,]*,/'$NEW_ID','"$NEW_FISH"',/'
 popd
 
 # delete the old type of fish from existence
