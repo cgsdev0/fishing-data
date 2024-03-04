@@ -164,12 +164,12 @@
 {"stats":{"hp":-1,"baseDmg":6,"varDmg":6,"speed":12,"maxHp":17,"originalHp":30,"wins":11,"classification":"legendary"},"caughtBy":"zhiayang","fishType":"golden takoyaki","fishId":97,"float":"13725506390385287451"}
 {"stats":{"hp":-1,"baseDmg":9,"varDmg":4,"speed":17,"maxHp":15,"originalHp":21,"wins":16,"classification":"epic"},"caughtBy":"The_SoloRogue","fishType":"axolotl","fishId":5049,"float":"14159649483611416311"}
 {"stats":{"hp":-3,"baseDmg":4,"varDmg":4,"speed":13,"maxHp":21,"originalHp":35,"wins":11,"classification":"scarce"},"caughtBy":"Doudeman","fishType":"cod","fishId":33,"float":"1533274728443111391"}
-{"stats":{"hp":-4,"baseDmg":10,"varDmg":6,"speed":18,"maxHp":8,"originalHp":35,"wins":40,"classification":"legendary"},"caughtBy":"The_SoloRogue","fishType":"red handfish","fishId":5012,"float":"1248155550105127137"}
+{"stats":{"hp":-4,"baseDmg":10,"varDmg":6,"speed":18,"maxHp":8,"originalHp":35,"wins":40,"classification":"legendary"},"caughtBy":"The_SoloRogue","fishType":"red handfish","fishId":101,"float":"1248155550105127137"}
 {"stats":{"hp":-1,"baseDmg":11,"varDmg":6,"speed":11,"maxHp":13,"originalHp":28,"wins":12,"classification":"legendary"},"caughtBy":"zhiayang","fishType":"golden takoyaki","fishId":97,"float":"16529977663646970618"}
 {"stats":{"hp":-3,"baseDmg":4,"varDmg":4,"speed":9,"maxHp":25,"originalHp":31,"wins":14,"classification":"rare"},"caughtBy":"fonoflops","fishType":"lobster","fishId":94,"float":"2303148635004361462"}
 {"stats":{"hp":-11,"baseDmg":7,"varDmg":4,"speed":8,"maxHp":28,"originalHp":32,"wins":15,"classification":"scarce"},"caughtBy":"vim_enthusiast","fishType":"catfish","fishId":26,"float":"444870153113473900"}
 {"stats":{"hp":-4,"baseDmg":6,"varDmg":2,"speed":16,"maxHp":8,"originalHp":21,"wins":10,"classification":"fairly_common"},"caughtBy":"fonoflops","fishType":"clownfish","fishId":43,"float":"14624923662489053894"}
-{"stats":{"hp":-7,"baseDmg":6,"varDmg":6,"speed":18,"maxHp":12,"originalHp":32,"wins":31,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"red handfish","fishId":5012,"float":"865692690410000087"}
+{"stats":{"hp":-7,"baseDmg":6,"varDmg":6,"speed":18,"maxHp":12,"originalHp":32,"wins":31,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"red handfish","fishId":101,"float":"865692690410000087"}
 {"stats":{"hp":-5,"baseDmg":7,"varDmg":2,"speed":9,"maxHp":14,"originalHp":35,"wins":24,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"electric eel","fishId":48,"float":"730753748983730915"}
 {"stats":{"hp":-1,"baseDmg":9,"varDmg":3,"speed":20,"maxHp":15,"originalHp":19,"wins":10,"classification":"epic"},"caughtBy":"s9tpepper_","fishType":"mola mola fish","fishId":76,"float":"5730436867158005999"}
 {"stats":{"hp":-4,"baseDmg":6,"varDmg":2,"speed":17,"maxHp":20,"originalHp":24,"wins":10,"classification":"uncommon"},"caughtBy":"fonoflops","fishType":"seahorse","fishId":89,"float":"5784172116853649304"}
@@ -183,4 +183,4 @@
 {"stats":{"hp":-14,"baseDmg":7,"varDmg":3,"speed":15,"maxHp":16,"originalHp":30,"wins":11,"classification":"scarce"},"caughtBy":"lasuuun","fishType":"damsel fish","fishId":51,"float":"8239439705940676151"}
 {"stats":{"hp":-4,"baseDmg":6,"varDmg":3,"speed":20,"maxHp":19,"originalHp":23,"wins":11,"classification":"uncommon"},"caughtBy":"badcop_","fishType":"spearfish","fishId":55,"float":"1306468834160786771"}
 {"stats":{"hp":-7,"baseDmg":5,"varDmg":4,"speed":3,"maxHp":26,"originalHp":35,"wins":16,"classification":"scarce"},"caughtBy":"aaoa_","fishType":"great white shark","fishId":5059,"float":"11295076752403820056"}
-{"stats":{"hp":-4,"baseDmg":8,"varDmg":6,"speed":19,"maxHp":21,"originalHp":38,"wins":28,"classification":"legendary"},"caughtBy":"Vettle","fishType":"red handfish","fishId":5012,"float":"17329353097036613191"}
+{"stats":{"hp":-4,"baseDmg":8,"varDmg":6,"speed":19,"maxHp":21,"originalHp":38,"wins":28,"classification":"legendary"},"caughtBy":"Vettle","fishType":"red handfish","fishId":101,"float":"17329353097036613191"}
