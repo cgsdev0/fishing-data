@@ -184,3 +184,4 @@
 {"stats":{"hp":-4,"baseDmg":6,"varDmg":3,"speed":20,"maxHp":19,"originalHp":23,"wins":11,"classification":"uncommon"},"caughtBy":"badcop_","fishType":"spearfish","fishId":55,"float":"1306468834160786771"}
 {"stats":{"hp":-7,"baseDmg":5,"varDmg":4,"speed":3,"maxHp":26,"originalHp":35,"wins":16,"classification":"scarce"},"caughtBy":"aaoa_","fishType":"great white shark","fishId":5059,"float":"11295076752403820056"}
 {"stats":{"hp":-4,"baseDmg":8,"varDmg":6,"speed":19,"maxHp":21,"originalHp":38,"wins":28,"classification":"legendary"},"caughtBy":"Vettle","fishType":"red handfish","fishId":101,"float":"17329353097036613191"}
+{"stats":{"hp":-5,"baseDmg":7,"varDmg":4,"speed":20,"maxHp":17,"originalHp":20,"wins":11,"classification":"scarce"},"caughtBy":"QuentMe","fishType":"blue lobster","fishId":93,"float":"6975416954824993363"}
