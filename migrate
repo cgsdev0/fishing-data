@@ -1,0 +1,52 @@
+#!/bin/bash
+source ~/copfish/secrets.sh
+
+FISH_ROOT=~/fishing-data
+
+urlencode() {
+    # Usage: urlencode "string"
+    local LC_ALL=C
+    for (( i = 0; i < ${#1}; i++ )); do
+        : "${1:i:1}"
+        case "$_" in
+            [a-zA-Z0-9.~_-])
+                printf '%s' "$_"
+            ;;
+
+            *)
+                printf '%%%02X' "'$_"
+            ;;
+        esac
+    done
+    printf '\n'
+}
+
+TOKEN="$(curl -Ss -X POST https://id.twitch.tv/oauth2/token \
+  -d "client_id=$TWITCH_CLIENT_ID" \
+  -d "client_secret=$TWITCH_CLIENT_SECRET" \
+  -d "grant_type=client_credentials" \
+  | jq -r '.access_token')"
+
+function migrate() {
+  jq -c --unbuffered | while IFS= read -r line; do
+    CHUNK="$(echo "$line" | jq -rc '.data | .[]')"
+    while IFS= read line2; do
+      ID="$(echo "$line2" | jq -r '.id')"
+      NAME="$(echo "$line2" | jq -r '.display_name')"
+      if [[ ! -z "$ID" ]]; then
+        mv $FISH_ROOT/badcop_/$NAME $FISH_ROOT/badcop_/$ID
+        mv $FISH_ROOT/badcop_/fishing-rods/$NAME $FISH_ROOT/badcop_/fishing-rods/$ID
+      fi
+    done <<< "$CHUNK"
+  done
+}
+
+for user in $FISH_ROOT/badcop_/*; do
+  NAME="$(urlencode "$(basename $user)")"
+  echo "${NAME,,}"
+done | xargs -n 5 echo \
+  | sed 's/ /\&login=/g;s@^@https://api.twitch.tv/helix/users?login=@' \
+  | xargs -P1 -L1 curl -Ss \
+  -H "Authorization: Bearer $TOKEN" \
+  -H "Client-Id: $TWITCH_CLIENT_ID" \
+  | migrate
