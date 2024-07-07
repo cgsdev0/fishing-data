@@ -1,332 +1,332 @@
-{"stats":{"speed":21,"hp":-3,"baseDmg":10,"varDmg":5,"wins":19,"maxHp":11},"caughtBy":"Marie_Nicole_","fishType":"axolotl"}
-{"stats":{"speed":13,"hp":-1,"baseDmg":7,"varDmg":6,"wins":13,"maxHp":13},"caughtBy":"MathrimC","fishType":"blahaj"}
-{"stats":{"speed":20,"hp":-3,"baseDmg":5,"varDmg":4,"wins":14,"maxHp":16},"caughtBy":"MathrimC","fishType":"saw,shark"}
+{"stats":{"speed":21,"hp":-3,"baseDmg":10,"varDmg":5,"wins":19,"maxHp":11},"caughtBy":"Marie_Nicole_","fishType":"axolotl","twitchID":654109320}
+{"stats":{"speed":13,"hp":-1,"baseDmg":7,"varDmg":6,"wins":13,"maxHp":13},"caughtBy":"MathrimC","fishType":"blahaj","twitchID":108201773}
+{"stats":{"speed":20,"hp":-3,"baseDmg":5,"varDmg":4,"wins":14,"maxHp":16},"caughtBy":"MathrimC","fishType":"saw,shark","twitchID":108201773}
 {"stats":{"speed":17,"hp":-4,"baseDmg":6,"varDmg":4,"wins":11,"maxHp":12,"originalHp":24},"caughtBy":"jodaba","fishType":"dace"}
-{"stats":{"speed":20,"hp":-1,"baseDmg":5,"varDmg":4,"wins":15,"maxHp":12,"originalHp":29},"caughtBy":"badcop_","fishType":"char"}
-{"stats":{"speed":10,"hp":-5,"baseDmg":5,"varDmg":2,"wins":14,"maxHp":18,"originalHp":24},"caughtBy":"badcop_","fishType":"dorado"}
-{"stats":{"speed":18,"hp":-2,"baseDmg":11,"varDmg":6,"wins":33,"maxHp":5,"originalHp":24},"caughtBy":"badcop_","fishType":"red,handfish"}
-{"stats":{"speed":13,"hp":-2,"baseDmg":6,"varDmg":2,"wins":15,"maxHp":24,"originalHp":31},"caughtBy":"OmitNomis","fishType":"surgeonfish"}
-{"stats":{"speed":20,"hp":-3,"baseDmg":7,"varDmg":4,"wins":23,"maxHp":13,"originalHp":26},"caughtBy":"fredda_the_cat","fishType":"ranchu,goldfish"}
-{"stats":{"speed":14,"hp":-3,"baseDmg":5,"varDmg":3,"wins":15,"maxHp":21,"originalHp":28},"caughtBy":"physbuzz","fishType":"surgeonfish"}
-{"stats":{"speed":18,"hp":-3,"baseDmg":6,"varDmg":3,"wins":24,"maxHp":18,"originalHp":29},"caughtBy":"deyloop","fishType":"nibble,fish"}
-{"stats":{"speed":5,"hp":-2,"baseDmg":6,"varDmg":5,"wins":11,"maxHp":21,"originalHp":28},"caughtBy":"MathrimC","fishType":"barreleye"}
-{"stats":{"speed":19,"hp":-1,"baseDmg":6,"varDmg":4,"wins":16,"maxHp":16,"originalHp":25},"caughtBy":"OmitNomis","fishType":"butterfly,fish"}
-{"stats":{"speed":22,"hp":-2,"baseDmg":6,"varDmg":5,"wins":10,"maxHp":10,"originalHp":23},"caughtBy":"Oakspirit","fishType":"barreleye"}
-{"stats":{"speed":16,"hp":-6,"baseDmg":7,"varDmg":3,"wins":12,"maxHp":19,"originalHp":34},"caughtBy":"MathrimC","fishType":"suckerfish"}
-{"stats":{"speed":15,"hp":-3,"baseDmg":4,"varDmg":6,"wins":15,"maxHp":19,"originalHp":26},"caughtBy":"MathrimC","fishType":"axolotl"}
-{"stats":{"speed":22,"hp":-1,"baseDmg":9,"varDmg":2,"wins":21,"maxHp":7,"originalHp":26},"caughtBy":"deyloop","fishType":"stringfish"}
-{"stats":{"speed":20,"hp":-2,"baseDmg":7,"varDmg":2,"wins":26,"maxHp":13,"originalHp":26},"caughtBy":"badcop_","fishType":"pop-eyed,goldfish"}
+{"stats":{"speed":20,"hp":-1,"baseDmg":5,"varDmg":4,"wins":15,"maxHp":12,"originalHp":29},"caughtBy":"badcop_","fishType":"char","twitchID":56931496}
+{"stats":{"speed":10,"hp":-5,"baseDmg":5,"varDmg":2,"wins":14,"maxHp":18,"originalHp":24},"caughtBy":"badcop_","fishType":"dorado","twitchID":56931496}
+{"stats":{"speed":18,"hp":-2,"baseDmg":11,"varDmg":6,"wins":33,"maxHp":5,"originalHp":24},"caughtBy":"badcop_","fishType":"red,handfish","twitchID":56931496}
+{"stats":{"speed":13,"hp":-2,"baseDmg":6,"varDmg":2,"wins":15,"maxHp":24,"originalHp":31},"caughtBy":"OmitNomis","fishType":"surgeonfish","twitchID":451527540}
+{"stats":{"speed":20,"hp":-3,"baseDmg":7,"varDmg":4,"wins":23,"maxHp":13,"originalHp":26},"caughtBy":"fredda_the_cat","fishType":"ranchu,goldfish","twitchID":451944325}
+{"stats":{"speed":14,"hp":-3,"baseDmg":5,"varDmg":3,"wins":15,"maxHp":21,"originalHp":28},"caughtBy":"physbuzz","fishType":"surgeonfish","twitchID":474104250}
+{"stats":{"speed":18,"hp":-3,"baseDmg":6,"varDmg":3,"wins":24,"maxHp":18,"originalHp":29},"caughtBy":"deyloop","fishType":"nibble,fish","twitchID":531085237}
+{"stats":{"speed":5,"hp":-2,"baseDmg":6,"varDmg":5,"wins":11,"maxHp":21,"originalHp":28},"caughtBy":"MathrimC","fishType":"barreleye","twitchID":108201773}
+{"stats":{"speed":19,"hp":-1,"baseDmg":6,"varDmg":4,"wins":16,"maxHp":16,"originalHp":25},"caughtBy":"OmitNomis","fishType":"butterfly,fish","twitchID":451527540}
+{"stats":{"speed":22,"hp":-2,"baseDmg":6,"varDmg":5,"wins":10,"maxHp":10,"originalHp":23},"caughtBy":"Oakspirit","fishType":"barreleye","twitchID":49069851}
+{"stats":{"speed":16,"hp":-6,"baseDmg":7,"varDmg":3,"wins":12,"maxHp":19,"originalHp":34},"caughtBy":"MathrimC","fishType":"suckerfish","twitchID":108201773}
+{"stats":{"speed":15,"hp":-3,"baseDmg":4,"varDmg":6,"wins":15,"maxHp":19,"originalHp":26},"caughtBy":"MathrimC","fishType":"axolotl","twitchID":108201773}
+{"stats":{"speed":22,"hp":-1,"baseDmg":9,"varDmg":2,"wins":21,"maxHp":7,"originalHp":26},"caughtBy":"deyloop","fishType":"stringfish","twitchID":531085237}
+{"stats":{"speed":20,"hp":-2,"baseDmg":7,"varDmg":2,"wins":26,"maxHp":13,"originalHp":26},"caughtBy":"badcop_","fishType":"pop-eyed,goldfish","twitchID":56931496}
 {"stats":{"speed":15,"hp":-4,"baseDmg":7,"varDmg":3,"wins":27,"maxHp":22,"originalHp":30},"caughtBy":"jodaba","fishType":"neon,tetra"}
-{"stats":{"speed":21,"hp":-2,"baseDmg":5,"varDmg":4,"wins":12,"maxHp":14,"originalHp":27},"caughtBy":"Oakspirit","fishType":"piranha"}
-{"stats":{"speed":19,"hp":-5,"baseDmg":6,"varDmg":2,"wins":19,"maxHp":19,"originalHp":26},"caughtBy":"andnekon","fishType":"carp"}
-{"stats":{"speed":16,"hp":-11,"baseDmg":6,"varDmg":4,"wins":20,"maxHp":19,"originalHp":28},"caughtBy":"badcop_","fishType":"piranha"}
+{"stats":{"speed":21,"hp":-2,"baseDmg":5,"varDmg":4,"wins":12,"maxHp":14,"originalHp":27},"caughtBy":"Oakspirit","fishType":"piranha","twitchID":49069851}
+{"stats":{"speed":19,"hp":-5,"baseDmg":6,"varDmg":2,"wins":19,"maxHp":19,"originalHp":26},"caughtBy":"andnekon","fishType":"carp","twitchID":962261287}
+{"stats":{"speed":16,"hp":-11,"baseDmg":6,"varDmg":4,"wins":20,"maxHp":19,"originalHp":28},"caughtBy":"badcop_","fishType":"piranha","twitchID":56931496}
 {"stats":{"speed":6,"hp":-1,"baseDmg":6,"varDmg":4,"wins":11,"maxHp":17,"originalHp":21},"caughtBy":"foil_boy","fishType":"frog"}
-{"stats":{"speed":16,"hp":-8,"baseDmg":6,"varDmg":2,"wins":11,"maxHp":17,"originalHp":23},"caughtBy":"physbuzz","fishType":"olive,flounder"}
-{"stats":{"speed":23,"hp":-2,"baseDmg":11,"varDmg":6,"wins":21,"maxHp":5,"originalHp":25},"caughtBy":"GlitchButSmol","fishType":"blahaj"}
-{"stats":{"speed":4,"hp":-6,"baseDmg":7,"varDmg":3,"wins":10,"maxHp":25,"originalHp":31},"caughtBy":"MathrimC","fishType":"gar"}
-{"stats":{"speed":17,"hp":-7,"baseDmg":6,"varDmg":1,"wins":13,"maxHp":15,"originalHp":22},"caughtBy":"physbuzz","fishType":"sweetfish"}
-{"stats":{"speed":19,"hp":-2,"baseDmg":7,"varDmg":4,"wins":20,"maxHp":6,"originalHp":34},"caughtBy":"zhiayang","fishType":"nibble,fish"}
-{"stats":{"speed":9,"hp":-3,"baseDmg":7,"varDmg":6,"wins":17,"maxHp":26,"originalHp":31},"caughtBy":"deyloop","fishType":"red,handfish"}
-{"stats":{"speed":18,"hp":-4,"baseDmg":4,"varDmg":4,"wins":11,"maxHp":10,"originalHp":32},"caughtBy":"deyloop","fishType":"sturgeon"}
-{"stats":{"speed":15,"hp":-1,"baseDmg":7,"varDmg":4,"wins":13,"maxHp":17,"originalHp":21},"caughtBy":"Dracoraz","fishType":"surgeonfish"}
-{"stats":{"speed":14,"hp":-1,"baseDmg":5,"varDmg":3,"wins":13,"maxHp":11,"originalHp":27},"caughtBy":"brenno636","fishType":"snapping,turtle"}
-{"stats":{"speed":20,"hp":-8,"baseDmg":6,"varDmg":1,"wins":11,"maxHp":10,"originalHp":25},"caughtBy":"M33pinator","fishType":"horse,mackerel"}
-{"stats":{"speed":6,"hp":-3,"baseDmg":7,"varDmg":1,"wins":25,"maxHp":24,"originalHp":36},"caughtBy":"kient29","fishType":"gar"}
-{"stats":{"speed":9,"hp":-4,"baseDmg":7,"varDmg":1,"wins":15,"maxHp":20,"originalHp":28},"caughtBy":"fonoflops","fishType":"suckerfish"}
-{"stats":{"speed":13,"hp":-7,"baseDmg":7,"varDmg":2,"wins":10,"maxHp":14,"originalHp":26},"caughtBy":"badcop_","fishType":"moray,eel"}
-{"stats":{"speed":22,"hp":-1,"baseDmg":9,"varDmg":6,"wins":39,"maxHp":4,"originalHp":39},"caughtBy":"MathrimC","fishType":"sakhalin,sturgeon"}
-{"stats":{"speed":18,"hp":-1,"baseDmg":7,"varDmg":5,"wins":20,"maxHp":17,"originalHp":27},"caughtBy":"M33pinator","fishType":"axolotl"}
-{"stats":{"speed":12,"hp":-7,"baseDmg":4,"varDmg":3,"wins":11,"maxHp":28,"originalHp":31},"caughtBy":"thatgirlwhocodes","fishType":"ranchu,goldfish"}
-{"stats":{"speed":19,"hp":-2,"baseDmg":7,"varDmg":3,"wins":15,"maxHp":12,"originalHp":30},"caughtBy":"Matty_TwoShoes","fishType":"cutthroat,trout"}
-{"stats":{"speed":16,"hp":-2,"baseDmg":7,"varDmg":1,"wins":11,"maxHp":18,"originalHp":31},"caughtBy":"fonoflops","fishType":"napoleonfish"}
-{"stats":{"speed":19,"hp":-2,"baseDmg":6,"varDmg":2,"wins":13,"maxHp":6,"originalHp":21},"caughtBy":"fonoflops","fishType":"pond,smelt"}
+{"stats":{"speed":16,"hp":-8,"baseDmg":6,"varDmg":2,"wins":11,"maxHp":17,"originalHp":23},"caughtBy":"physbuzz","fishType":"olive,flounder","twitchID":474104250}
+{"stats":{"speed":23,"hp":-2,"baseDmg":11,"varDmg":6,"wins":21,"maxHp":5,"originalHp":25},"caughtBy":"GlitchButSmol","fishType":"blahaj","twitchID":403440621}
+{"stats":{"speed":4,"hp":-6,"baseDmg":7,"varDmg":3,"wins":10,"maxHp":25,"originalHp":31},"caughtBy":"MathrimC","fishType":"gar","twitchID":108201773}
+{"stats":{"speed":17,"hp":-7,"baseDmg":6,"varDmg":1,"wins":13,"maxHp":15,"originalHp":22},"caughtBy":"physbuzz","fishType":"sweetfish","twitchID":474104250}
+{"stats":{"speed":19,"hp":-2,"baseDmg":7,"varDmg":4,"wins":20,"maxHp":6,"originalHp":34},"caughtBy":"zhiayang","fishType":"nibble,fish","twitchID":23798302}
+{"stats":{"speed":9,"hp":-3,"baseDmg":7,"varDmg":6,"wins":17,"maxHp":26,"originalHp":31},"caughtBy":"deyloop","fishType":"red,handfish","twitchID":531085237}
+{"stats":{"speed":18,"hp":-4,"baseDmg":4,"varDmg":4,"wins":11,"maxHp":10,"originalHp":32},"caughtBy":"deyloop","fishType":"sturgeon","twitchID":531085237}
+{"stats":{"speed":15,"hp":-1,"baseDmg":7,"varDmg":4,"wins":13,"maxHp":17,"originalHp":21},"caughtBy":"Dracoraz","fishType":"surgeonfish","twitchID":63951608}
+{"stats":{"speed":14,"hp":-1,"baseDmg":5,"varDmg":3,"wins":13,"maxHp":11,"originalHp":27},"caughtBy":"brenno636","fishType":"snapping,turtle","twitchID":131989186}
+{"stats":{"speed":20,"hp":-8,"baseDmg":6,"varDmg":1,"wins":11,"maxHp":10,"originalHp":25},"caughtBy":"M33pinator","fishType":"horse,mackerel","twitchID":31775837}
+{"stats":{"speed":6,"hp":-3,"baseDmg":7,"varDmg":1,"wins":25,"maxHp":24,"originalHp":36},"caughtBy":"kient29","fishType":"gar","twitchID":600700497}
+{"stats":{"speed":9,"hp":-4,"baseDmg":7,"varDmg":1,"wins":15,"maxHp":20,"originalHp":28},"caughtBy":"fonoflops","fishType":"suckerfish","twitchID":42248687}
+{"stats":{"speed":13,"hp":-7,"baseDmg":7,"varDmg":2,"wins":10,"maxHp":14,"originalHp":26},"caughtBy":"badcop_","fishType":"moray,eel","twitchID":56931496}
+{"stats":{"speed":22,"hp":-1,"baseDmg":9,"varDmg":6,"wins":39,"maxHp":4,"originalHp":39},"caughtBy":"MathrimC","fishType":"sakhalin,sturgeon","twitchID":108201773}
+{"stats":{"speed":18,"hp":-1,"baseDmg":7,"varDmg":5,"wins":20,"maxHp":17,"originalHp":27},"caughtBy":"M33pinator","fishType":"axolotl","twitchID":31775837}
+{"stats":{"speed":12,"hp":-7,"baseDmg":4,"varDmg":3,"wins":11,"maxHp":28,"originalHp":31},"caughtBy":"thatgirlwhocodes","fishType":"ranchu,goldfish","twitchID":37703346}
+{"stats":{"speed":19,"hp":-2,"baseDmg":7,"varDmg":3,"wins":15,"maxHp":12,"originalHp":30},"caughtBy":"Matty_TwoShoes","fishType":"cutthroat,trout","twitchID":556670211}
+{"stats":{"speed":16,"hp":-2,"baseDmg":7,"varDmg":1,"wins":11,"maxHp":18,"originalHp":31},"caughtBy":"fonoflops","fishType":"napoleonfish","twitchID":42248687}
+{"stats":{"speed":19,"hp":-2,"baseDmg":6,"varDmg":2,"wins":13,"maxHp":6,"originalHp":21},"caughtBy":"fonoflops","fishType":"pond,smelt","twitchID":42248687}
 {"stats":{"speed":6,"hp":-3,"baseDmg":4,"varDmg":6,"wins":21,"maxHp":20,"originalHp":29},"caughtBy":"jodaba","fishType":"blahaj"}
-{"stats":{"speed":5,"hp":-3,"baseDmg":6,"varDmg":3,"wins":14,"maxHp":14,"originalHp":28},"caughtBy":"badcop_","fishType":"axolotl"}
-{"stats":{"speed":20,"hp":-13,"baseDmg":7,"varDmg":1,"wins":20,"maxHp":15,"originalHp":25},"caughtBy":"aaoa_","fishType":"snapping,turtle"}
-{"stats":{"speed":19,"hp":-1,"baseDmg":10,"varDmg":6,"wins":21,"maxHp":8,"originalHp":29},"caughtBy":"JDDoesDev","fishType":"red,handfish"}
-{"stats":{"speed":20,"hp":-3,"baseDmg":7,"varDmg":4,"wins":12,"maxHp":17,"originalHp":27},"caughtBy":"fonoflops","fishType":"ray"}
-{"stats":{"speed":10,"hp":-2,"baseDmg":4,"varDmg":3,"wins":10,"maxHp":20,"originalHp":26},"caughtBy":"fonoflops","fishType":"pike"}
-{"stats":{"speed":21,"hp":-9,"baseDmg":5,"varDmg":3,"wins":10,"maxHp":17,"originalHp":31},"caughtBy":"JDDoesDev","fishType":"betta"}
-{"stats":{"speed":16,"hp":-7,"baseDmg":6,"varDmg":3,"wins":10,"maxHp":19,"originalHp":23},"caughtBy":"pgorley","fishType":"ocean,sunfish"}
-{"stats":{"speed":17,"hp":-3,"baseDmg":6,"varDmg":4,"wins":17,"maxHp":21,"originalHp":24},"caughtBy":"fonoflops","fishType":"piranha"}
-{"stats":{"speed":8,"hp":-7,"baseDmg":9,"varDmg":6,"wins":10,"maxHp":19,"originalHp":23},"caughtBy":"fonoflops","fishType":"barreleye"}
-{"stats":{"speed":15,"hp":-5,"baseDmg":5,"varDmg":2,"wins":10,"maxHp":12,"originalHp":24},"caughtBy":"monkious12","fishType":"clown,fish"}
-{"stats":{"speed":18,"hp":-2,"baseDmg":7,"varDmg":4,"wins":16,"maxHp":13,"originalHp":26},"caughtBy":"pgorley","fishType":"rainbowfish"}
-{"stats":{"speed":15,"hp":-5,"baseDmg":11,"varDmg":6,"wins":32,"maxHp":11,"originalHp":35},"caughtBy":"thatgirlwhocodes","fishType":"ornate,sleeper ray"}
-{"stats":{"speed":19,"hp":-8,"baseDmg":6,"varDmg":2,"wins":11,"maxHp":17,"originalHp":29},"caughtBy":"fonoflops","fishType":"stringfish"}
-{"stats":{"speed":20,"hp":-2,"baseDmg":6,"varDmg":4,"wins":19,"maxHp":14,"originalHp":19},"caughtBy":"fonoflops","fishType":"sweetfish"}
-{"stats":{"speed":17,"hp":-4,"baseDmg":6,"varDmg":3,"wins":27,"maxHp":19,"originalHp":30},"caughtBy":"MathrimC","fishType":"pop-eyed,goldfish"}
-{"stats":{"speed":21,"hp":-11,"baseDmg":10,"varDmg":6,"wins":16,"maxHp":10,"originalHp":34},"caughtBy":"woosaaahh","fishType":"blahaj"}
-{"stats":{"speed":7,"hp":-5,"baseDmg":7,"varDmg":6,"wins":10,"maxHp":10,"originalHp":23},"caughtBy":"MathrimC","fishType":"axolotl"}
-{"stats":{"speed":9,"hp":-5,"baseDmg":5,"varDmg":2,"wins":11,"maxHp":21,"originalHp":26},"caughtBy":"MathrimC","fishType":"saddled,bichir"}
-{"stats":{"speed":5,"hp":-7,"baseDmg":9,"varDmg":6,"wins":14,"maxHp":20,"originalHp":34},"caughtBy":"MathrimC","fishType":"sakhalin,sturgeon"}
-{"stats":{"speed":17,"hp":-2,"baseDmg":7,"varDmg":4,"wins":12,"maxHp":10,"originalHp":26},"caughtBy":"NyxKrage","fishType":"pike"}
-{"stats":{"speed":9,"hp":-2,"baseDmg":7,"varDmg":4,"wins":10,"maxHp":23,"originalHp":27},"caughtBy":"fonoflops","fishType":"moray,eel"}
-{"stats":{"speed":10,"hp":-2,"baseDmg":9,"varDmg":5,"wins":21,"maxHp":18,"originalHp":30},"caughtBy":"deyloop","fishType":"axolotl"}
-{"stats":{"speed":16,"hp":-2,"baseDmg":6,"varDmg":4,"wins":12,"maxHp":13,"originalHp":27},"caughtBy":"fonoflops","fishType":"saw,shark"}
-{"stats":{"speed":8,"hp":-1,"baseDmg":7,"varDmg":3,"wins":19,"maxHp":23,"originalHp":29},"caughtBy":"fonoflops","fishType":"stringfish"}
-{"stats":{"speed":20,"hp":-8,"baseDmg":7,"varDmg":3,"wins":15,"maxHp":11,"originalHp":20},"caughtBy":"fonoflops","fishType":"ocean,sunfish"}
+{"stats":{"speed":5,"hp":-3,"baseDmg":6,"varDmg":3,"wins":14,"maxHp":14,"originalHp":28},"caughtBy":"badcop_","fishType":"axolotl","twitchID":56931496}
+{"stats":{"speed":20,"hp":-13,"baseDmg":7,"varDmg":1,"wins":20,"maxHp":15,"originalHp":25},"caughtBy":"aaoa_","fishType":"snapping,turtle","twitchID":123859191}
+{"stats":{"speed":19,"hp":-1,"baseDmg":10,"varDmg":6,"wins":21,"maxHp":8,"originalHp":29},"caughtBy":"JDDoesDev","fishType":"red,handfish","twitchID":216709612}
+{"stats":{"speed":20,"hp":-3,"baseDmg":7,"varDmg":4,"wins":12,"maxHp":17,"originalHp":27},"caughtBy":"fonoflops","fishType":"ray","twitchID":42248687}
+{"stats":{"speed":10,"hp":-2,"baseDmg":4,"varDmg":3,"wins":10,"maxHp":20,"originalHp":26},"caughtBy":"fonoflops","fishType":"pike","twitchID":42248687}
+{"stats":{"speed":21,"hp":-9,"baseDmg":5,"varDmg":3,"wins":10,"maxHp":17,"originalHp":31},"caughtBy":"JDDoesDev","fishType":"betta","twitchID":216709612}
+{"stats":{"speed":16,"hp":-7,"baseDmg":6,"varDmg":3,"wins":10,"maxHp":19,"originalHp":23},"caughtBy":"pgorley","fishType":"ocean,sunfish","twitchID":25777461}
+{"stats":{"speed":17,"hp":-3,"baseDmg":6,"varDmg":4,"wins":17,"maxHp":21,"originalHp":24},"caughtBy":"fonoflops","fishType":"piranha","twitchID":42248687}
+{"stats":{"speed":8,"hp":-7,"baseDmg":9,"varDmg":6,"wins":10,"maxHp":19,"originalHp":23},"caughtBy":"fonoflops","fishType":"barreleye","twitchID":42248687}
+{"stats":{"speed":15,"hp":-5,"baseDmg":5,"varDmg":2,"wins":10,"maxHp":12,"originalHp":24},"caughtBy":"monkious12","fishType":"clown,fish","twitchID":753365562}
+{"stats":{"speed":18,"hp":-2,"baseDmg":7,"varDmg":4,"wins":16,"maxHp":13,"originalHp":26},"caughtBy":"pgorley","fishType":"rainbowfish","twitchID":25777461}
+{"stats":{"speed":15,"hp":-5,"baseDmg":11,"varDmg":6,"wins":32,"maxHp":11,"originalHp":35},"caughtBy":"thatgirlwhocodes","fishType":"ornate,sleeper ray","twitchID":37703346}
+{"stats":{"speed":19,"hp":-8,"baseDmg":6,"varDmg":2,"wins":11,"maxHp":17,"originalHp":29},"caughtBy":"fonoflops","fishType":"stringfish","twitchID":42248687}
+{"stats":{"speed":20,"hp":-2,"baseDmg":6,"varDmg":4,"wins":19,"maxHp":14,"originalHp":19},"caughtBy":"fonoflops","fishType":"sweetfish","twitchID":42248687}
+{"stats":{"speed":17,"hp":-4,"baseDmg":6,"varDmg":3,"wins":27,"maxHp":19,"originalHp":30},"caughtBy":"MathrimC","fishType":"pop-eyed,goldfish","twitchID":108201773}
+{"stats":{"speed":21,"hp":-11,"baseDmg":10,"varDmg":6,"wins":16,"maxHp":10,"originalHp":34},"caughtBy":"woosaaahh","fishType":"blahaj","twitchID":811200849}
+{"stats":{"speed":7,"hp":-5,"baseDmg":7,"varDmg":6,"wins":10,"maxHp":10,"originalHp":23},"caughtBy":"MathrimC","fishType":"axolotl","twitchID":108201773}
+{"stats":{"speed":9,"hp":-5,"baseDmg":5,"varDmg":2,"wins":11,"maxHp":21,"originalHp":26},"caughtBy":"MathrimC","fishType":"saddled,bichir","twitchID":108201773}
+{"stats":{"speed":5,"hp":-7,"baseDmg":9,"varDmg":6,"wins":14,"maxHp":20,"originalHp":34},"caughtBy":"MathrimC","fishType":"sakhalin,sturgeon","twitchID":108201773}
+{"stats":{"speed":17,"hp":-2,"baseDmg":7,"varDmg":4,"wins":12,"maxHp":10,"originalHp":26},"caughtBy":"NyxKrage","fishType":"pike","twitchID":57632769}
+{"stats":{"speed":9,"hp":-2,"baseDmg":7,"varDmg":4,"wins":10,"maxHp":23,"originalHp":27},"caughtBy":"fonoflops","fishType":"moray,eel","twitchID":42248687}
+{"stats":{"speed":10,"hp":-2,"baseDmg":9,"varDmg":5,"wins":21,"maxHp":18,"originalHp":30},"caughtBy":"deyloop","fishType":"axolotl","twitchID":531085237}
+{"stats":{"speed":16,"hp":-2,"baseDmg":6,"varDmg":4,"wins":12,"maxHp":13,"originalHp":27},"caughtBy":"fonoflops","fishType":"saw,shark","twitchID":42248687}
+{"stats":{"speed":8,"hp":-1,"baseDmg":7,"varDmg":3,"wins":19,"maxHp":23,"originalHp":29},"caughtBy":"fonoflops","fishType":"stringfish","twitchID":42248687}
+{"stats":{"speed":20,"hp":-8,"baseDmg":7,"varDmg":3,"wins":15,"maxHp":11,"originalHp":20},"caughtBy":"fonoflops","fishType":"ocean,sunfish","twitchID":42248687}
 {"stats":{"speed":21,"hp":-3,"baseDmg":6,"varDmg":6,"wins":10,"maxHp":12,"originalHp":27},"caughtBy":"jodaba","fishType":"ornate,sleeper ray"}
-{"stats":{"speed":18,"hp":-1,"baseDmg":7,"varDmg":3,"wins":12,"maxHp":9,"originalHp":16},"caughtBy":"fonoflops","fishType":"betta"}
-{"stats":{"speed":9,"hp":-1,"baseDmg":7,"varDmg":3,"wins":17,"maxHp":17,"originalHp":25},"caughtBy":"fonoflops","fishType":"arapaima"}
-{"stats":{"speed":7,"hp":-4,"baseDmg":3,"varDmg":3,"wins":14,"maxHp":21,"originalHp":35},"caughtBy":"MF_RARE","fishType":"giant,snakehead"}
-{"stats":{"speed":10,"hp":-5,"baseDmg":6,"varDmg":4,"wins":10,"maxHp":16,"originalHp":23},"caughtBy":"M33pinator","fishType":"tuna"}
-{"stats":{"speed":8,"hp":-15,"baseDmg":7,"varDmg":4,"wins":14,"maxHp":17,"originalHp":28},"caughtBy":"serratiaviera","fishType":"surgeonfish"}
-{"stats":{"speed":9,"hp":-2,"baseDmg":7,"varDmg":2,"wins":13,"maxHp":24,"originalHp":28},"caughtBy":"nightshadedude","fishType":"dorado"}
-{"stats":{"speed":2,"hp":-1,"baseDmg":7,"varDmg":4,"wins":24,"maxHp":11,"originalHp":30},"caughtBy":"shreyassanthu","fishType":"suckerfish"}
-{"stats":{"speed":12,"hp":-2,"baseDmg":6,"varDmg":4,"wins":19,"maxHp":9,"originalHp":26},"caughtBy":"brenno636","fishType":"horse,mackerel"}
-{"stats":{"speed":19,"hp":-10,"baseDmg":2,"varDmg":4,"wins":13,"maxHp":29,"originalHp":34},"caughtBy":"M33pinator","fishType":"pike"}
-{"stats":{"speed":18,"hp":-6,"baseDmg":10,"varDmg":6,"wins":23,"maxHp":4,"originalHp":27},"caughtBy":"nightshadedude","fishType":"red,handfish"}
-{"stats":{"speed":10,"hp":-4,"baseDmg":8,"varDmg":6,"wins":19,"maxHp":13,"originalHp":31},"caughtBy":"M33pinator","fishType":"barreleye"}
-{"stats":{"speed":2,"hp":-4,"baseDmg":3,"varDmg":4,"wins":11,"maxHp":30,"originalHp":32},"caughtBy":"fonoflops","fishType":"gar"}
+{"stats":{"speed":18,"hp":-1,"baseDmg":7,"varDmg":3,"wins":12,"maxHp":9,"originalHp":16},"caughtBy":"fonoflops","fishType":"betta","twitchID":42248687}
+{"stats":{"speed":9,"hp":-1,"baseDmg":7,"varDmg":3,"wins":17,"maxHp":17,"originalHp":25},"caughtBy":"fonoflops","fishType":"arapaima","twitchID":42248687}
+{"stats":{"speed":7,"hp":-4,"baseDmg":3,"varDmg":3,"wins":14,"maxHp":21,"originalHp":35},"caughtBy":"MF_RARE","fishType":"giant,snakehead","twitchID":432517958}
+{"stats":{"speed":10,"hp":-5,"baseDmg":6,"varDmg":4,"wins":10,"maxHp":16,"originalHp":23},"caughtBy":"M33pinator","fishType":"tuna","twitchID":31775837}
+{"stats":{"speed":8,"hp":-15,"baseDmg":7,"varDmg":4,"wins":14,"maxHp":17,"originalHp":28},"caughtBy":"serratiaviera","fishType":"surgeonfish","twitchID":76980075}
+{"stats":{"speed":9,"hp":-2,"baseDmg":7,"varDmg":2,"wins":13,"maxHp":24,"originalHp":28},"caughtBy":"nightshadedude","fishType":"dorado","twitchID":195271286}
+{"stats":{"speed":2,"hp":-1,"baseDmg":7,"varDmg":4,"wins":24,"maxHp":11,"originalHp":30},"caughtBy":"shreyassanthu","fishType":"suckerfish","twitchID":595308466}
+{"stats":{"speed":12,"hp":-2,"baseDmg":6,"varDmg":4,"wins":19,"maxHp":9,"originalHp":26},"caughtBy":"brenno636","fishType":"horse,mackerel","twitchID":131989186}
+{"stats":{"speed":19,"hp":-10,"baseDmg":2,"varDmg":4,"wins":13,"maxHp":29,"originalHp":34},"caughtBy":"M33pinator","fishType":"pike","twitchID":31775837}
+{"stats":{"speed":18,"hp":-6,"baseDmg":10,"varDmg":6,"wins":23,"maxHp":4,"originalHp":27},"caughtBy":"nightshadedude","fishType":"red,handfish","twitchID":195271286}
+{"stats":{"speed":10,"hp":-4,"baseDmg":8,"varDmg":6,"wins":19,"maxHp":13,"originalHp":31},"caughtBy":"M33pinator","fishType":"barreleye","twitchID":31775837}
+{"stats":{"speed":2,"hp":-4,"baseDmg":3,"varDmg":4,"wins":11,"maxHp":30,"originalHp":32},"caughtBy":"fonoflops","fishType":"gar","twitchID":42248687}
 {"stats":{"speed":12,"hp":-3,"baseDmg":10,"varDmg":2,"wins":10,"maxHp":17,"originalHp":27},"caughtBy":"foil_boy","fishType":"stringfish"}
-{"stats":{"speed":22,"hp":-5,"baseDmg":7,"varDmg":6,"wins":33,"maxHp":10,"originalHp":36},"caughtBy":"fonoflops","fishType":"red,handfish"}
-{"stats":{"speed":12,"hp":-2,"baseDmg":6,"varDmg":4,"wins":13,"maxHp":14,"originalHp":19},"caughtBy":"fredda_the_cat","fishType":"loach"}
-{"stats":{"speed":7,"hp":-1,"baseDmg":7,"varDmg":1,"wins":30,"maxHp":6,"originalHp":25},"caughtBy":"AdjectiveAllison","fishType":"tuna"}
-{"stats":{"speed":9,"hp":-1,"baseDmg":9,"varDmg":1,"wins":11,"maxHp":21,"originalHp":26},"caughtBy":"brenno636","fishType":"axolotl"}
-{"stats":{"speed":4,"hp":-3,"baseDmg":6,"varDmg":2,"wins":15,"maxHp":23,"originalHp":26},"caughtBy":"brenno636","fishType":"saddled,bichir"}
-{"stats":{"speed":2,"hp":-26,"baseDmg":6,"varDmg":4,"wins":12,"maxHp":11,"originalHp":23},"caughtBy":"fonoflops","fishType":"anchovy"}
-{"stats":{"speed":6,"hp":-1,"baseDmg":7,"varDmg":3,"wins":13,"maxHp":13,"originalHp":27},"caughtBy":"eluminum","fishType":"ribbon,eel"}
-{"stats":{"speed":17,"hp":-7,"baseDmg":7,"varDmg":3,"wins":11,"maxHp":18,"originalHp":23},"caughtBy":"brenno636","fishType":"goldfish"}
-{"stats":{"speed":12,"hp":-1,"baseDmg":9,"varDmg":4,"wins":21,"maxHp":21,"originalHp":29},"caughtBy":"CypherEnigma","fishType":"barreleye"}
-{"stats":{"speed":15,"hp":-5,"baseDmg":5,"varDmg":3,"wins":11,"maxHp":22,"originalHp":25},"caughtBy":"brenno636","fishType":"freshwater,goby"}
-{"stats":{"speed":11,"hp":-6,"baseDmg":5,"varDmg":3,"wins":11,"maxHp":22,"originalHp":28},"caughtBy":"brenno636","fishType":"oarfish"}
-{"stats":{"speed":12,"hp":-2,"baseDmg":5,"varDmg":4,"wins":10,"maxHp":13,"originalHp":18},"caughtBy":"brenno636","fishType":"ray"}
+{"stats":{"speed":22,"hp":-5,"baseDmg":7,"varDmg":6,"wins":33,"maxHp":10,"originalHp":36},"caughtBy":"fonoflops","fishType":"red,handfish","twitchID":42248687}
+{"stats":{"speed":12,"hp":-2,"baseDmg":6,"varDmg":4,"wins":13,"maxHp":14,"originalHp":19},"caughtBy":"fredda_the_cat","fishType":"loach","twitchID":451944325}
+{"stats":{"speed":7,"hp":-1,"baseDmg":7,"varDmg":1,"wins":30,"maxHp":6,"originalHp":25},"caughtBy":"AdjectiveAllison","fishType":"tuna","twitchID":896818476}
+{"stats":{"speed":9,"hp":-1,"baseDmg":9,"varDmg":1,"wins":11,"maxHp":21,"originalHp":26},"caughtBy":"brenno636","fishType":"axolotl","twitchID":131989186}
+{"stats":{"speed":4,"hp":-3,"baseDmg":6,"varDmg":2,"wins":15,"maxHp":23,"originalHp":26},"caughtBy":"brenno636","fishType":"saddled,bichir","twitchID":131989186}
+{"stats":{"speed":2,"hp":-26,"baseDmg":6,"varDmg":4,"wins":12,"maxHp":11,"originalHp":23},"caughtBy":"fonoflops","fishType":"anchovy","twitchID":42248687}
+{"stats":{"speed":6,"hp":-1,"baseDmg":7,"varDmg":3,"wins":13,"maxHp":13,"originalHp":27},"caughtBy":"eluminum","fishType":"ribbon,eel","twitchID":188229862}
+{"stats":{"speed":17,"hp":-7,"baseDmg":7,"varDmg":3,"wins":11,"maxHp":18,"originalHp":23},"caughtBy":"brenno636","fishType":"goldfish","twitchID":131989186}
+{"stats":{"speed":12,"hp":-1,"baseDmg":9,"varDmg":4,"wins":21,"maxHp":21,"originalHp":29},"caughtBy":"CypherEnigma","fishType":"barreleye","twitchID":56960752}
+{"stats":{"speed":15,"hp":-5,"baseDmg":5,"varDmg":3,"wins":11,"maxHp":22,"originalHp":25},"caughtBy":"brenno636","fishType":"freshwater,goby","twitchID":131989186}
+{"stats":{"speed":11,"hp":-6,"baseDmg":5,"varDmg":3,"wins":11,"maxHp":22,"originalHp":28},"caughtBy":"brenno636","fishType":"oarfish","twitchID":131989186}
+{"stats":{"speed":12,"hp":-2,"baseDmg":5,"varDmg":4,"wins":10,"maxHp":13,"originalHp":18},"caughtBy":"brenno636","fishType":"ray","twitchID":131989186}
 {"stats":{"speed":18,"hp":-12,"baseDmg":7,"varDmg":1,"wins":14,"maxHp":16,"originalHp":21},"caughtBy":"foil_boy","fishType":"coelacanth"}
-{"stats":{"speed":18,"hp":-4,"baseDmg":4,"varDmg":4,"wins":15,"maxHp":20,"originalHp":27},"caughtBy":"fonoflops","fishType":"cutthroat,trout"}
-{"stats":{"speed":6,"hp":-1,"baseDmg":11,"varDmg":6,"wins":10,"maxHp":13,"originalHp":27},"caughtBy":"fonoflops","fishType":"sakhalin,sturgeon"}
-{"stats":{"speed":21,"hp":-3,"baseDmg":7,"varDmg":3,"wins":31,"maxHp":12,"originalHp":31},"caughtBy":"fonoflops","fishType":"ranchu,goldfish"}
-{"stats":{"speed":8,"hp":-1,"baseDmg":7,"varDmg":2,"wins":11,"maxHp":22,"originalHp":26},"caughtBy":"fonoflops","fishType":"rainbowfish"}
-{"stats":{"speed":12,"hp":-17,"baseDmg":7,"varDmg":4,"wins":13,"maxHp":28,"originalHp":33},"caughtBy":"derpandaz","fishType":"surgeonfish"}
-{"stats":{"speed":6,"hp":-2,"baseDmg":7,"varDmg":4,"wins":12,"maxHp":10,"originalHp":26},"caughtBy":"fonoflops","fishType":"guppy"}
-{"stats":{"speed":16,"hp":-5,"baseDmg":6,"varDmg":2,"wins":10,"maxHp":13,"originalHp":26},"caughtBy":"nightshadedude","fishType":"black,bass"}
-{"stats":{"speed":13,"hp":-3,"baseDmg":4,"varDmg":3,"wins":21,"maxHp":24,"originalHp":35},"caughtBy":"nightshadedude","fishType":"pike"}
-{"stats":{"speed":19,"hp":-6,"baseDmg":4,"varDmg":2,"wins":11,"maxHp":21,"originalHp":24},"caughtBy":"pgorley","fishType":"sweetfish"}
-{"stats":{"speed":14,"hp":-7,"baseDmg":6,"varDmg":3,"wins":12,"maxHp":25,"originalHp":29},"caughtBy":"nightshadedude","fishType":"arowana"}
-{"stats":{"speed":19,"hp":-3,"baseDmg":9,"varDmg":1,"wins":32,"maxHp":6,"originalHp":28},"caughtBy":"JessDrawsaBlank","fishType":"barreleye"}
-{"stats":{"speed":16,"hp":-6,"baseDmg":6,"varDmg":3,"wins":15,"maxHp":13,"originalHp":19},"caughtBy":"shreyassanthu","fishType":"tilapia"}
-{"stats":{"speed":19,"hp":-1,"baseDmg":7,"varDmg":4,"wins":27,"maxHp":12,"originalHp":23},"caughtBy":"JDDoesDev","fishType":"koi"}
-{"stats":{"speed":15,"hp":-4,"baseDmg":5,"varDmg":3,"wins":10,"maxHp":12,"originalHp":28},"caughtBy":"fonoflops","fishType":"great,white shark"}
-{"stats":{"speed":20,"hp":-1,"baseDmg":6,"varDmg":3,"wins":27,"maxHp":13,"originalHp":26},"caughtBy":"fonoflops","fishType":"mahi-mahi"}
-{"stats":{"speed":19,"hp":-3,"baseDmg":6,"varDmg":4,"wins":10,"maxHp":9,"originalHp":23},"caughtBy":"fonoflops","fishType":"crawfish"}
-{"stats":{"speed":20,"hp":-1,"baseDmg":5,"varDmg":3,"wins":17,"maxHp":21,"originalHp":28},"caughtBy":"fonoflops","fishType":"arowana"}
-{"stats":{"speed":14,"hp":-5,"baseDmg":6,"varDmg":3,"wins":12,"maxHp":2,"originalHp":19},"caughtBy":"fonoflops","fishType":"tilapia"}
-{"stats":{"speed":12,"hp":-4,"baseDmg":7,"varDmg":3,"wins":10,"maxHp":20,"originalHp":26},"caughtBy":"JDDoesDev","fishType":"tuna"}
+{"stats":{"speed":18,"hp":-4,"baseDmg":4,"varDmg":4,"wins":15,"maxHp":20,"originalHp":27},"caughtBy":"fonoflops","fishType":"cutthroat,trout","twitchID":42248687}
+{"stats":{"speed":6,"hp":-1,"baseDmg":11,"varDmg":6,"wins":10,"maxHp":13,"originalHp":27},"caughtBy":"fonoflops","fishType":"sakhalin,sturgeon","twitchID":42248687}
+{"stats":{"speed":21,"hp":-3,"baseDmg":7,"varDmg":3,"wins":31,"maxHp":12,"originalHp":31},"caughtBy":"fonoflops","fishType":"ranchu,goldfish","twitchID":42248687}
+{"stats":{"speed":8,"hp":-1,"baseDmg":7,"varDmg":2,"wins":11,"maxHp":22,"originalHp":26},"caughtBy":"fonoflops","fishType":"rainbowfish","twitchID":42248687}
+{"stats":{"speed":12,"hp":-17,"baseDmg":7,"varDmg":4,"wins":13,"maxHp":28,"originalHp":33},"caughtBy":"derpandaz","fishType":"surgeonfish","twitchID":111506363}
+{"stats":{"speed":6,"hp":-2,"baseDmg":7,"varDmg":4,"wins":12,"maxHp":10,"originalHp":26},"caughtBy":"fonoflops","fishType":"guppy","twitchID":42248687}
+{"stats":{"speed":16,"hp":-5,"baseDmg":6,"varDmg":2,"wins":10,"maxHp":13,"originalHp":26},"caughtBy":"nightshadedude","fishType":"black,bass","twitchID":195271286}
+{"stats":{"speed":13,"hp":-3,"baseDmg":4,"varDmg":3,"wins":21,"maxHp":24,"originalHp":35},"caughtBy":"nightshadedude","fishType":"pike","twitchID":195271286}
+{"stats":{"speed":19,"hp":-6,"baseDmg":4,"varDmg":2,"wins":11,"maxHp":21,"originalHp":24},"caughtBy":"pgorley","fishType":"sweetfish","twitchID":25777461}
+{"stats":{"speed":14,"hp":-7,"baseDmg":6,"varDmg":3,"wins":12,"maxHp":25,"originalHp":29},"caughtBy":"nightshadedude","fishType":"arowana","twitchID":195271286}
+{"stats":{"speed":19,"hp":-3,"baseDmg":9,"varDmg":1,"wins":32,"maxHp":6,"originalHp":28},"caughtBy":"JessDrawsaBlank","fishType":"barreleye","twitchID":150572705}
+{"stats":{"speed":16,"hp":-6,"baseDmg":6,"varDmg":3,"wins":15,"maxHp":13,"originalHp":19},"caughtBy":"shreyassanthu","fishType":"tilapia","twitchID":595308466}
+{"stats":{"speed":19,"hp":-1,"baseDmg":7,"varDmg":4,"wins":27,"maxHp":12,"originalHp":23},"caughtBy":"JDDoesDev","fishType":"koi","twitchID":216709612}
+{"stats":{"speed":15,"hp":-4,"baseDmg":5,"varDmg":3,"wins":10,"maxHp":12,"originalHp":28},"caughtBy":"fonoflops","fishType":"great,white shark","twitchID":42248687}
+{"stats":{"speed":20,"hp":-1,"baseDmg":6,"varDmg":3,"wins":27,"maxHp":13,"originalHp":26},"caughtBy":"fonoflops","fishType":"mahi-mahi","twitchID":42248687}
+{"stats":{"speed":19,"hp":-3,"baseDmg":6,"varDmg":4,"wins":10,"maxHp":9,"originalHp":23},"caughtBy":"fonoflops","fishType":"crawfish","twitchID":42248687}
+{"stats":{"speed":20,"hp":-1,"baseDmg":5,"varDmg":3,"wins":17,"maxHp":21,"originalHp":28},"caughtBy":"fonoflops","fishType":"arowana","twitchID":42248687}
+{"stats":{"speed":14,"hp":-5,"baseDmg":6,"varDmg":3,"wins":12,"maxHp":2,"originalHp":19},"caughtBy":"fonoflops","fishType":"tilapia","twitchID":42248687}
+{"stats":{"speed":12,"hp":-4,"baseDmg":7,"varDmg":3,"wins":10,"maxHp":20,"originalHp":26},"caughtBy":"JDDoesDev","fishType":"tuna","twitchID":216709612}
 {"stats":{"speed":18,"hp":-3,"baseDmg":6,"varDmg":4,"wins":18,"maxHp":6,"originalHp":20},"caughtBy":"zombiechou","fishType":"squid"}
-{"stats":{"speed":22,"hp":-6,"baseDmg":9,"varDmg":6,"wins":13,"maxHp":2,"originalHp":36},"caughtBy":"badcop_","fishType":"red,handfish"}
-{"stats":{"speed":21,"hp":-4,"baseDmg":7,"varDmg":6,"wins":12,"maxHp":23,"originalHp":29},"caughtBy":"fonoflops","fishType":"axolotl"}
-{"stats":{"speed":8,"hp":-4,"baseDmg":11,"varDmg":6,"wins":40,"maxHp":1,"originalHp":31},"caughtBy":"s9tpepper_","fishType":"blahaj"}
-{"stats":{"speed":20,"hp":-5,"baseDmg":8,"varDmg":6,"wins":15,"maxHp":20,"originalHp":35},"caughtBy":"taekwondork61","fishType":"red,handfish"}
-{"stats":{"speed":17,"hp":-1,"baseDmg":6,"varDmg":3,"wins":19,"maxHp":14,"originalHp":31},"caughtBy":"eeliigaa_","fishType":"pop-eyed,goldfish"}
-{"stats":{"speed":13,"hp":-17,"baseDmg":4,"varDmg":4,"wins":11,"maxHp":18,"originalHp":23},"caughtBy":"Ebenchadnezzar1","fishType":"crawfish"}
-{"stats":{"speed":8,"hp":-4,"baseDmg":9,"varDmg":6,"wins":15,"maxHp":14,"originalHp":30},"caughtBy":"shreyassanthu","fishType":"ornate,sleeper ray"}
-{"stats":{"speed":14,"hp":-1,"baseDmg":7,"varDmg":4,"wins":12,"maxHp":21,"originalHp":26},"caughtBy":"brenno636","fishType":"snapping,turtle"}
-{"stats":{"speed":12,"hp":-1,"baseDmg":6,"varDmg":5,"wins":11,"maxHp":13,"originalHp":27},"caughtBy":"shreyassanthu","fishType":"axolotl"}
-{"stats":{"speed":23,"hp":-6,"baseDmg":6,"varDmg":6,"wins":31,"maxHp":1,"originalHp":40},"caughtBy":"shreyassanthu","fishType":"blahaj"}
-{"stats":{"speed":21,"hp":-2,"baseDmg":7,"varDmg":4,"wins":13,"maxHp":1,"originalHp":23},"caughtBy":"RonLmL2","fishType":"sturgeon"}
-{"stats":{"speed":13,"hp":-2,"baseDmg":6,"varDmg":6,"wins":27,"maxHp":17,"originalHp":26},"caughtBy":"fonoflops","fishType":"axolotl"}
-{"stats":{"speed":18,"hp":-3,"baseDmg":6,"varDmg":4,"wins":10,"maxHp":14,"originalHp":18},"caughtBy":"fonoflops","fishType":"cherry,salmon"}
-{"stats":{"speed":18,"hp":-3,"baseDmg":7,"varDmg":6,"wins":13,"maxHp":9,"originalHp":32},"caughtBy":"vim_enthusiast","fishType":"axolotl"}
-{"stats":{"speed":17,"hp":-3,"baseDmg":7,"varDmg":4,"wins":20,"maxHp":10,"originalHp":27},"caughtBy":"fonoflops","fishType":"hammerhead,shark"}
-{"stats":{"speed":14,"hp":-3,"baseDmg":5,"varDmg":2,"wins":10,"maxHp":21,"originalHp":27},"caughtBy":"fonoflops","fishType":"guppy"}
-{"stats":{"speed":7,"hp":-6,"baseDmg":7,"varDmg":4,"wins":15,"maxHp":18,"originalHp":27},"caughtBy":"MathrimC","fishType":"dorado"}
-{"stats":{"speed":15,"hp":-7,"baseDmg":6,"varDmg":4,"wins":12,"maxHp":11,"originalHp":24},"caughtBy":"fonoflops","fishType":"angelfish"}
-{"stats":{"speed":6,"hp":-6,"baseDmg":7,"varDmg":2,"wins":10,"maxHp":13,"originalHp":28},"caughtBy":"Colinahscopy_","fishType":"ray"}
-{"stats":{"speed":17,"hp":-4,"baseDmg":7,"varDmg":3,"wins":12,"maxHp":27,"originalHp":33},"caughtBy":"fonoflops","fishType":"ribbon,eel"}
-{"stats":{"speed":18,"hp":-5,"baseDmg":7,"varDmg":5,"wins":29,"maxHp":7,"originalHp":27},"caughtBy":"fonoflops","fishType":"barreleye"}
-{"stats":{"speed":20,"hp":-1,"baseDmg":10,"varDmg":6,"wins":24,"maxHp":7,"originalHp":38},"caughtBy":"jeff_irwin","fishType":"blahaj"}
-{"stats":{"speed":2,"hp":-2,"baseDmg":7,"varDmg":3,"wins":10,"maxHp":23,"originalHp":29},"caughtBy":"shreyassanthu","fishType":"surgeonfish"}
-{"stats":{"speed":19,"hp":-1,"baseDmg":5,"varDmg":1,"wins":16,"maxHp":5,"originalHp":34},"caughtBy":"MathrimC","fishType":"rainbowfish"}
-{"stats":{"speed":18,"hp":-3,"baseDmg":7,"varDmg":2,"wins":13,"maxHp":21,"originalHp":23},"caughtBy":"MathrimC","fishType":"ribbon,eel"}
-{"stats":{"speed":7,"hp":-3,"baseDmg":6,"varDmg":3,"wins":12,"maxHp":26,"originalHp":29},"caughtBy":"fonoflops","fishType":"piranha"}
-{"stats":{"speed":13,"hp":-5,"baseDmg":7,"varDmg":4,"wins":16,"maxHp":9,"originalHp":28},"caughtBy":"MathrimC","fishType":"goldfish"}
-{"stats":{"speed":15,"hp":-1,"baseDmg":6,"varDmg":3,"wins":12,"maxHp":24,"originalHp":28},"caughtBy":"MathrimC","fishType":"gar"}
-{"stats":{"speed":11,"hp":-6,"baseDmg":7,"varDmg":2,"wins":16,"maxHp":21,"originalHp":26},"caughtBy":"fonoflops","fishType":"404,fish"}
-{"stats":{"speed":15,"hp":-4,"baseDmg":10,"varDmg":5,"wins":14,"maxHp":6,"originalHp":20},"caughtBy":"M33pinator","fishType":"barreleye"}
-{"stats":{"speed":18,"hp":-2,"baseDmg":5,"varDmg":3,"wins":15,"maxHp":17,"originalHp":22},"caughtBy":"fonoflops","fishType":"catfish"}
-{"stats":{"speed":12,"hp":-3,"baseDmg":6,"varDmg":2,"wins":12,"maxHp":21,"originalHp":29},"caughtBy":"fonoflops","fishType":"pike"}
-{"stats":{"speed":20,"hp":-6,"baseDmg":6,"varDmg":6,"wins":16,"maxHp":24,"originalHp":32},"caughtBy":"fonoflops","fishType":"ornate,sleeper ray"}
-{"stats":{"speed":13,"hp":-9,"baseDmg":6,"varDmg":3,"wins":24,"maxHp":25,"originalHp":31},"caughtBy":"zhiayang","fishType":"pop-eyed,goldfish"}
-{"stats":{"speed":16,"hp":-2,"baseDmg":4,"varDmg":6,"wins":16,"maxHp":18,"originalHp":26},"caughtBy":"Kodder","fishType":"stringfish"}
-{"stats":{"speed":10,"hp":-4,"baseDmg":7,"varDmg":5,"wins":15,"maxHp":15,"originalHp":32},"caughtBy":"zhiayang","fishType":"stringfish"}
-{"stats":{"speed":10,"hp":-4,"baseDmg":5,"varDmg":2,"wins":10,"maxHp":18,"originalHp":32},"caughtBy":"zhiayang","fishType":"cutthroat,trout"}
-{"stats":{"speed":23,"hp":-18,"baseDmg":7,"varDmg":6,"wins":19,"maxHp":22,"originalHp":39},"caughtBy":"zhiayang","fishType":"sakhalin,sturgeon"}
-{"stats":{"speed":22,"hp":-19,"baseDmg":7,"varDmg":6,"wins":32,"maxHp":19,"originalHp":40},"caughtBy":"zhiayang","fishType":"blahaj"}
-{"stats":{"speed":11,"hp":-3,"baseDmg":7,"varDmg":6,"wins":46,"maxHp":18,"originalHp":40},"caughtBy":"AugustusFox","fishType":"sakhalin,sturgeon"}
-{"stats":{"speed":10,"hp":-4,"baseDmg":7,"varDmg":2,"wins":13,"maxHp":16,"originalHp":21},"caughtBy":"TheIdOfAlan","fishType":"neon,tetra"}
-{"stats":{"speed":14,"hp":-3,"baseDmg":5,"varDmg":2,"wins":11,"maxHp":27,"originalHp":30},"caughtBy":"Kodder","fishType":"golden,trout"}
-{"stats":{"speed":20,"hp":-8,"baseDmg":6,"varDmg":4,"wins":12,"maxHp":11,"originalHp":26},"caughtBy":"fonoflops","fishType":"barreleye"}
-{"stats":{"speed":21,"hp":-2,"baseDmg":7,"varDmg":3,"wins":16,"maxHp":19,"originalHp":27},"caughtBy":"physbuzz","fishType":"coelacanth"}
-{"stats":{"speed":7,"hp":-9,"baseDmg":7,"varDmg":2,"wins":14,"maxHp":19,"originalHp":28},"caughtBy":"M33pinator","fishType":"blue,marlin"}
-{"stats":{"speed":18,"hp":-1,"baseDmg":6,"varDmg":2,"wins":11,"maxHp":15,"originalHp":21},"caughtBy":"deyloop","fishType":"boot"}
-{"stats":{"speed":18,"hp":-4,"baseDmg":6,"varDmg":4,"wins":11,"maxHp":20,"originalHp":23},"caughtBy":"badcop_","fishType":"king,salmon"}
-{"stats":{"speed":9,"hp":-6,"baseDmg":7,"varDmg":3,"wins":16,"maxHp":18,"originalHp":27},"caughtBy":"nightshadedude","fishType":"rainbowfish"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":6,"speed":12,"maxHp":17,"originalHp":30,"wins":11,"classification":"legendary"},"caughtBy":"zhiayang","fishType":"golden takoyaki","fishId":97,"float":"13725506390385287451"}
-{"stats":{"hp":-1,"baseDmg":9,"varDmg":4,"speed":17,"maxHp":15,"originalHp":21,"wins":16,"classification":"epic"},"caughtBy":"The_SoloRogue","fishType":"axolotl","fishId":5049,"float":"14159649483611416311"}
-{"stats":{"hp":-3,"baseDmg":4,"varDmg":4,"speed":13,"maxHp":21,"originalHp":35,"wins":11,"classification":"scarce"},"caughtBy":"Doudeman","fishType":"cod","fishId":33,"float":"1533274728443111391"}
-{"stats":{"hp":-4,"baseDmg":10,"varDmg":6,"speed":18,"maxHp":8,"originalHp":35,"wins":40,"classification":"legendary"},"caughtBy":"The_SoloRogue","fishType":"red handfish","fishId":101,"float":"1248155550105127137"}
-{"stats":{"hp":-1,"baseDmg":11,"varDmg":6,"speed":11,"maxHp":13,"originalHp":28,"wins":12,"classification":"legendary"},"caughtBy":"zhiayang","fishType":"golden takoyaki","fishId":97,"float":"16529977663646970618"}
-{"stats":{"hp":-3,"baseDmg":4,"varDmg":4,"speed":9,"maxHp":25,"originalHp":31,"wins":14,"classification":"rare"},"caughtBy":"fonoflops","fishType":"lobster","fishId":94,"float":"2303148635004361462"}
-{"stats":{"hp":-11,"baseDmg":7,"varDmg":4,"speed":8,"maxHp":28,"originalHp":32,"wins":15,"classification":"scarce"},"caughtBy":"vim_enthusiast","fishType":"catfish","fishId":26,"float":"444870153113473900"}
-{"stats":{"hp":-4,"baseDmg":6,"varDmg":2,"speed":16,"maxHp":8,"originalHp":21,"wins":10,"classification":"fairly_common"},"caughtBy":"fonoflops","fishType":"clownfish","fishId":43,"float":"14624923662489053894"}
-{"stats":{"hp":-7,"baseDmg":6,"varDmg":6,"speed":18,"maxHp":12,"originalHp":32,"wins":31,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"red handfish","fishId":101,"float":"865692690410000087"}
-{"stats":{"hp":-5,"baseDmg":7,"varDmg":2,"speed":9,"maxHp":14,"originalHp":35,"wins":24,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"electric eel","fishId":48,"float":"730753748983730915"}
-{"stats":{"hp":-1,"baseDmg":9,"varDmg":3,"speed":20,"maxHp":15,"originalHp":19,"wins":10,"classification":"epic"},"caughtBy":"s9tpepper_","fishType":"mola mola fish","fishId":76,"float":"5730436867158005999"}
-{"stats":{"hp":-4,"baseDmg":6,"varDmg":2,"speed":17,"maxHp":20,"originalHp":24,"wins":10,"classification":"uncommon"},"caughtBy":"fonoflops","fishType":"seahorse","fishId":89,"float":"5784172116853649304"}
-{"stats":{"hp":-1,"baseDmg":7,"varDmg":4,"speed":3,"maxHp":13,"originalHp":31,"wins":17,"classification":"rare"},"caughtBy":"fonoflops","fishType":"cutthroat trout","fishId":5027,"float":"14584959272214823949"}
-{"stats":{"hp":-7,"baseDmg":6,"varDmg":2,"speed":10,"maxHp":14,"originalHp":21,"wins":11,"classification":"fairly_common"},"caughtBy":"badcop_","fishType":"pufferfish","fishId":22,"float":"16352382540936089132"}
-{"stats":{"hp":-7,"baseDmg":10,"varDmg":3,"speed":22,"maxHp":12,"originalHp":29,"wins":19,"classification":"epic"},"caughtBy":"MathrimC","fishType":"mola mola fish","fishId":76,"float":"2254594118830844562"}
-{"stats":{"hp":-2,"baseDmg":4,"varDmg":3,"speed":10,"maxHp":19,"originalHp":32,"wins":11,"classification":"scarce"},"caughtBy":"MathrimC","fishType":"shrimp","fishId":87,"float":"463738130523029329"}
+{"stats":{"speed":22,"hp":-6,"baseDmg":9,"varDmg":6,"wins":13,"maxHp":2,"originalHp":36},"caughtBy":"badcop_","fishType":"red,handfish","twitchID":56931496}
+{"stats":{"speed":21,"hp":-4,"baseDmg":7,"varDmg":6,"wins":12,"maxHp":23,"originalHp":29},"caughtBy":"fonoflops","fishType":"axolotl","twitchID":42248687}
+{"stats":{"speed":8,"hp":-4,"baseDmg":11,"varDmg":6,"wins":40,"maxHp":1,"originalHp":31},"caughtBy":"s9tpepper_","fishType":"blahaj","twitchID":961536166}
+{"stats":{"speed":20,"hp":-5,"baseDmg":8,"varDmg":6,"wins":15,"maxHp":20,"originalHp":35},"caughtBy":"taekwondork61","fishType":"red,handfish","twitchID":228240554}
+{"stats":{"speed":17,"hp":-1,"baseDmg":6,"varDmg":3,"wins":19,"maxHp":14,"originalHp":31},"caughtBy":"eeliigaa_","fishType":"pop-eyed,goldfish","twitchID":43791109}
+{"stats":{"speed":13,"hp":-17,"baseDmg":4,"varDmg":4,"wins":11,"maxHp":18,"originalHp":23},"caughtBy":"Ebenchadnezzar1","fishType":"crawfish","twitchID":985164915}
+{"stats":{"speed":8,"hp":-4,"baseDmg":9,"varDmg":6,"wins":15,"maxHp":14,"originalHp":30},"caughtBy":"shreyassanthu","fishType":"ornate,sleeper ray","twitchID":595308466}
+{"stats":{"speed":14,"hp":-1,"baseDmg":7,"varDmg":4,"wins":12,"maxHp":21,"originalHp":26},"caughtBy":"brenno636","fishType":"snapping,turtle","twitchID":131989186}
+{"stats":{"speed":12,"hp":-1,"baseDmg":6,"varDmg":5,"wins":11,"maxHp":13,"originalHp":27},"caughtBy":"shreyassanthu","fishType":"axolotl","twitchID":595308466}
+{"stats":{"speed":23,"hp":-6,"baseDmg":6,"varDmg":6,"wins":31,"maxHp":1,"originalHp":40},"caughtBy":"shreyassanthu","fishType":"blahaj","twitchID":595308466}
+{"stats":{"speed":21,"hp":-2,"baseDmg":7,"varDmg":4,"wins":13,"maxHp":1,"originalHp":23},"caughtBy":"RonLmL2","fishType":"sturgeon","twitchID":770888684}
+{"stats":{"speed":13,"hp":-2,"baseDmg":6,"varDmg":6,"wins":27,"maxHp":17,"originalHp":26},"caughtBy":"fonoflops","fishType":"axolotl","twitchID":42248687}
+{"stats":{"speed":18,"hp":-3,"baseDmg":6,"varDmg":4,"wins":10,"maxHp":14,"originalHp":18},"caughtBy":"fonoflops","fishType":"cherry,salmon","twitchID":42248687}
+{"stats":{"speed":18,"hp":-3,"baseDmg":7,"varDmg":6,"wins":13,"maxHp":9,"originalHp":32},"caughtBy":"vim_enthusiast","fishType":"axolotl","twitchID":1003739264}
+{"stats":{"speed":17,"hp":-3,"baseDmg":7,"varDmg":4,"wins":20,"maxHp":10,"originalHp":27},"caughtBy":"fonoflops","fishType":"hammerhead,shark","twitchID":42248687}
+{"stats":{"speed":14,"hp":-3,"baseDmg":5,"varDmg":2,"wins":10,"maxHp":21,"originalHp":27},"caughtBy":"fonoflops","fishType":"guppy","twitchID":42248687}
+{"stats":{"speed":7,"hp":-6,"baseDmg":7,"varDmg":4,"wins":15,"maxHp":18,"originalHp":27},"caughtBy":"MathrimC","fishType":"dorado","twitchID":108201773}
+{"stats":{"speed":15,"hp":-7,"baseDmg":6,"varDmg":4,"wins":12,"maxHp":11,"originalHp":24},"caughtBy":"fonoflops","fishType":"angelfish","twitchID":42248687}
+{"stats":{"speed":6,"hp":-6,"baseDmg":7,"varDmg":2,"wins":10,"maxHp":13,"originalHp":28},"caughtBy":"Colinahscopy_","fishType":"ray","twitchID":82185701}
+{"stats":{"speed":17,"hp":-4,"baseDmg":7,"varDmg":3,"wins":12,"maxHp":27,"originalHp":33},"caughtBy":"fonoflops","fishType":"ribbon,eel","twitchID":42248687}
+{"stats":{"speed":18,"hp":-5,"baseDmg":7,"varDmg":5,"wins":29,"maxHp":7,"originalHp":27},"caughtBy":"fonoflops","fishType":"barreleye","twitchID":42248687}
+{"stats":{"speed":20,"hp":-1,"baseDmg":10,"varDmg":6,"wins":24,"maxHp":7,"originalHp":38},"caughtBy":"jeff_irwin","fishType":"blahaj","twitchID":897190750}
+{"stats":{"speed":2,"hp":-2,"baseDmg":7,"varDmg":3,"wins":10,"maxHp":23,"originalHp":29},"caughtBy":"shreyassanthu","fishType":"surgeonfish","twitchID":595308466}
+{"stats":{"speed":19,"hp":-1,"baseDmg":5,"varDmg":1,"wins":16,"maxHp":5,"originalHp":34},"caughtBy":"MathrimC","fishType":"rainbowfish","twitchID":108201773}
+{"stats":{"speed":18,"hp":-3,"baseDmg":7,"varDmg":2,"wins":13,"maxHp":21,"originalHp":23},"caughtBy":"MathrimC","fishType":"ribbon,eel","twitchID":108201773}
+{"stats":{"speed":7,"hp":-3,"baseDmg":6,"varDmg":3,"wins":12,"maxHp":26,"originalHp":29},"caughtBy":"fonoflops","fishType":"piranha","twitchID":42248687}
+{"stats":{"speed":13,"hp":-5,"baseDmg":7,"varDmg":4,"wins":16,"maxHp":9,"originalHp":28},"caughtBy":"MathrimC","fishType":"goldfish","twitchID":108201773}
+{"stats":{"speed":15,"hp":-1,"baseDmg":6,"varDmg":3,"wins":12,"maxHp":24,"originalHp":28},"caughtBy":"MathrimC","fishType":"gar","twitchID":108201773}
+{"stats":{"speed":11,"hp":-6,"baseDmg":7,"varDmg":2,"wins":16,"maxHp":21,"originalHp":26},"caughtBy":"fonoflops","fishType":"404,fish","twitchID":42248687}
+{"stats":{"speed":15,"hp":-4,"baseDmg":10,"varDmg":5,"wins":14,"maxHp":6,"originalHp":20},"caughtBy":"M33pinator","fishType":"barreleye","twitchID":31775837}
+{"stats":{"speed":18,"hp":-2,"baseDmg":5,"varDmg":3,"wins":15,"maxHp":17,"originalHp":22},"caughtBy":"fonoflops","fishType":"catfish","twitchID":42248687}
+{"stats":{"speed":12,"hp":-3,"baseDmg":6,"varDmg":2,"wins":12,"maxHp":21,"originalHp":29},"caughtBy":"fonoflops","fishType":"pike","twitchID":42248687}
+{"stats":{"speed":20,"hp":-6,"baseDmg":6,"varDmg":6,"wins":16,"maxHp":24,"originalHp":32},"caughtBy":"fonoflops","fishType":"ornate,sleeper ray","twitchID":42248687}
+{"stats":{"speed":13,"hp":-9,"baseDmg":6,"varDmg":3,"wins":24,"maxHp":25,"originalHp":31},"caughtBy":"zhiayang","fishType":"pop-eyed,goldfish","twitchID":23798302}
+{"stats":{"speed":16,"hp":-2,"baseDmg":4,"varDmg":6,"wins":16,"maxHp":18,"originalHp":26},"caughtBy":"Kodder","fishType":"stringfish","twitchID":101185038}
+{"stats":{"speed":10,"hp":-4,"baseDmg":7,"varDmg":5,"wins":15,"maxHp":15,"originalHp":32},"caughtBy":"zhiayang","fishType":"stringfish","twitchID":23798302}
+{"stats":{"speed":10,"hp":-4,"baseDmg":5,"varDmg":2,"wins":10,"maxHp":18,"originalHp":32},"caughtBy":"zhiayang","fishType":"cutthroat,trout","twitchID":23798302}
+{"stats":{"speed":23,"hp":-18,"baseDmg":7,"varDmg":6,"wins":19,"maxHp":22,"originalHp":39},"caughtBy":"zhiayang","fishType":"sakhalin,sturgeon","twitchID":23798302}
+{"stats":{"speed":22,"hp":-19,"baseDmg":7,"varDmg":6,"wins":32,"maxHp":19,"originalHp":40},"caughtBy":"zhiayang","fishType":"blahaj","twitchID":23798302}
+{"stats":{"speed":11,"hp":-3,"baseDmg":7,"varDmg":6,"wins":46,"maxHp":18,"originalHp":40},"caughtBy":"AugustusFox","fishType":"sakhalin,sturgeon","twitchID":468424593}
+{"stats":{"speed":10,"hp":-4,"baseDmg":7,"varDmg":2,"wins":13,"maxHp":16,"originalHp":21},"caughtBy":"TheIdOfAlan","fishType":"neon,tetra","twitchID":125363791}
+{"stats":{"speed":14,"hp":-3,"baseDmg":5,"varDmg":2,"wins":11,"maxHp":27,"originalHp":30},"caughtBy":"Kodder","fishType":"golden,trout","twitchID":101185038}
+{"stats":{"speed":20,"hp":-8,"baseDmg":6,"varDmg":4,"wins":12,"maxHp":11,"originalHp":26},"caughtBy":"fonoflops","fishType":"barreleye","twitchID":42248687}
+{"stats":{"speed":21,"hp":-2,"baseDmg":7,"varDmg":3,"wins":16,"maxHp":19,"originalHp":27},"caughtBy":"physbuzz","fishType":"coelacanth","twitchID":474104250}
+{"stats":{"speed":7,"hp":-9,"baseDmg":7,"varDmg":2,"wins":14,"maxHp":19,"originalHp":28},"caughtBy":"M33pinator","fishType":"blue,marlin","twitchID":31775837}
+{"stats":{"speed":18,"hp":-1,"baseDmg":6,"varDmg":2,"wins":11,"maxHp":15,"originalHp":21},"caughtBy":"deyloop","fishType":"boot","twitchID":531085237}
+{"stats":{"speed":18,"hp":-4,"baseDmg":6,"varDmg":4,"wins":11,"maxHp":20,"originalHp":23},"caughtBy":"badcop_","fishType":"king,salmon","twitchID":56931496}
+{"stats":{"speed":9,"hp":-6,"baseDmg":7,"varDmg":3,"wins":16,"maxHp":18,"originalHp":27},"caughtBy":"nightshadedude","fishType":"rainbowfish","twitchID":195271286}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":6,"speed":12,"maxHp":17,"originalHp":30,"wins":11,"classification":"legendary"},"caughtBy":"zhiayang","fishType":"golden takoyaki","fishId":97,"float":"13725506390385287451","twitchID":23798302}
+{"stats":{"hp":-1,"baseDmg":9,"varDmg":4,"speed":17,"maxHp":15,"originalHp":21,"wins":16,"classification":"epic"},"caughtBy":"The_SoloRogue","fishType":"axolotl","fishId":5049,"float":"14159649483611416311","twitchID":929930481}
+{"stats":{"hp":-3,"baseDmg":4,"varDmg":4,"speed":13,"maxHp":21,"originalHp":35,"wins":11,"classification":"scarce"},"caughtBy":"Doudeman","fishType":"cod","fishId":33,"float":"1533274728443111391","twitchID":83881076}
+{"stats":{"hp":-4,"baseDmg":10,"varDmg":6,"speed":18,"maxHp":8,"originalHp":35,"wins":40,"classification":"legendary"},"caughtBy":"The_SoloRogue","fishType":"red handfish","fishId":101,"float":"1248155550105127137","twitchID":929930481}
+{"stats":{"hp":-1,"baseDmg":11,"varDmg":6,"speed":11,"maxHp":13,"originalHp":28,"wins":12,"classification":"legendary"},"caughtBy":"zhiayang","fishType":"golden takoyaki","fishId":97,"float":"16529977663646970618","twitchID":23798302}
+{"stats":{"hp":-3,"baseDmg":4,"varDmg":4,"speed":9,"maxHp":25,"originalHp":31,"wins":14,"classification":"rare"},"caughtBy":"fonoflops","fishType":"lobster","fishId":94,"float":"2303148635004361462","twitchID":42248687}
+{"stats":{"hp":-11,"baseDmg":7,"varDmg":4,"speed":8,"maxHp":28,"originalHp":32,"wins":15,"classification":"scarce"},"caughtBy":"vim_enthusiast","fishType":"catfish","fishId":26,"float":"444870153113473900","twitchID":1003739264}
+{"stats":{"hp":-4,"baseDmg":6,"varDmg":2,"speed":16,"maxHp":8,"originalHp":21,"wins":10,"classification":"fairly_common"},"caughtBy":"fonoflops","fishType":"clownfish","fishId":43,"float":"14624923662489053894","twitchID":42248687}
+{"stats":{"hp":-7,"baseDmg":6,"varDmg":6,"speed":18,"maxHp":12,"originalHp":32,"wins":31,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"red handfish","fishId":101,"float":"865692690410000087","twitchID":42248687}
+{"stats":{"hp":-5,"baseDmg":7,"varDmg":2,"speed":9,"maxHp":14,"originalHp":35,"wins":24,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"electric eel","fishId":48,"float":"730753748983730915","twitchID":42248687}
+{"stats":{"hp":-1,"baseDmg":9,"varDmg":3,"speed":20,"maxHp":15,"originalHp":19,"wins":10,"classification":"epic"},"caughtBy":"s9tpepper_","fishType":"mola mola fish","fishId":76,"float":"5730436867158005999","twitchID":961536166}
+{"stats":{"hp":-4,"baseDmg":6,"varDmg":2,"speed":17,"maxHp":20,"originalHp":24,"wins":10,"classification":"uncommon"},"caughtBy":"fonoflops","fishType":"seahorse","fishId":89,"float":"5784172116853649304","twitchID":42248687}
+{"stats":{"hp":-1,"baseDmg":7,"varDmg":4,"speed":3,"maxHp":13,"originalHp":31,"wins":17,"classification":"rare"},"caughtBy":"fonoflops","fishType":"cutthroat trout","fishId":5027,"float":"14584959272214823949","twitchID":42248687}
+{"stats":{"hp":-7,"baseDmg":6,"varDmg":2,"speed":10,"maxHp":14,"originalHp":21,"wins":11,"classification":"fairly_common"},"caughtBy":"badcop_","fishType":"pufferfish","fishId":22,"float":"16352382540936089132","twitchID":56931496}
+{"stats":{"hp":-7,"baseDmg":10,"varDmg":3,"speed":22,"maxHp":12,"originalHp":29,"wins":19,"classification":"epic"},"caughtBy":"MathrimC","fishType":"mola mola fish","fishId":76,"float":"2254594118830844562","twitchID":108201773}
+{"stats":{"hp":-2,"baseDmg":4,"varDmg":3,"speed":10,"maxHp":19,"originalHp":32,"wins":11,"classification":"scarce"},"caughtBy":"MathrimC","fishType":"shrimp","fishId":87,"float":"463738130523029329","twitchID":108201773}
 {"stats":{"hp":-5,"baseDmg":11,"varDmg":6,"speed":12,"maxHp":16,"originalHp":37,"wins":27,"classification":"legendary"},"caughtBy":"billy_ikanda","fishType":"golden takoyaki","fishId":97,"float":"2470957905767338626"}
-{"stats":{"hp":-2,"baseDmg":10,"varDmg":4,"speed":5,"maxHp":16,"originalHp":30,"wins":11,"classification":"epic"},"caughtBy":"chromosundrift","fishType":"octopus","fishId":96,"float":"17566211125419198294"}
-{"stats":{"hp":-2,"baseDmg":7,"varDmg":3,"speed":12,"maxHp":22,"originalHp":27,"wins":14,"classification":"scarce"},"caughtBy":"tiredbeaver","fishType":"mola mola fish","fishId":75,"float":"13642285464902710425"}
-{"stats":{"hp":-14,"baseDmg":7,"varDmg":3,"speed":15,"maxHp":16,"originalHp":30,"wins":11,"classification":"scarce"},"caughtBy":"lasuuun","fishType":"damsel fish","fishId":51,"float":"8239439705940676151"}
-{"stats":{"hp":-4,"baseDmg":6,"varDmg":3,"speed":20,"maxHp":19,"originalHp":23,"wins":11,"classification":"uncommon"},"caughtBy":"badcop_","fishType":"spearfish","fishId":55,"float":"1306468834160786771"}
-{"stats":{"hp":-7,"baseDmg":5,"varDmg":4,"speed":3,"maxHp":26,"originalHp":35,"wins":16,"classification":"scarce"},"caughtBy":"aaoa_","fishType":"great white shark","fishId":5059,"float":"11295076752403820056"}
-{"stats":{"hp":-4,"baseDmg":8,"varDmg":6,"speed":19,"maxHp":21,"originalHp":38,"wins":28,"classification":"legendary"},"caughtBy":"Vettle","fishType":"red handfish","fishId":101,"float":"17329353097036613191"}
-{"stats":{"hp":-5,"baseDmg":7,"varDmg":4,"speed":20,"maxHp":17,"originalHp":20,"wins":11,"classification":"scarce"},"caughtBy":"QuentMe","fishType":"blue lobster","fishId":93,"float":"6975416954824993363"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":4,"speed":7,"maxHp":11,"originalHp":16,"wins":10,"classification":"fairly_common"},"caughtBy":"Colinahscopy_","fishType":"triple tail","fishId":34,"float":"15281449301076313288"}
-{"stats":{"hp":-1,"baseDmg":7,"varDmg":1,"speed":16,"maxHp":16,"originalHp":23,"wins":12,"classification":"epic"},"caughtBy":"jeff_irwin","fishType":"octopus","fishId":96,"float":"8762467823466260181"}
-{"stats":{"hp":-3,"baseDmg":7,"varDmg":4,"speed":19,"maxHp":5,"originalHp":28,"wins":11,"classification":"scarce"},"caughtBy":"dotmrjosh","fishType":"triple tail","fishId":35,"float":"10518336393605860292"}
-{"stats":{"hp":-10,"baseDmg":7,"varDmg":3,"speed":12,"maxHp":21,"originalHp":30,"wins":24,"classification":"rare"},"caughtBy":"jeff_irwin","fishType":"404 fish","fishId":5028,"float":"9237291280662740581"}
-{"stats":{"hp":-7,"baseDmg":11,"varDmg":6,"speed":16,"maxHp":16,"originalHp":25,"wins":19,"classification":"legendary"},"caughtBy":"BuddysPizza","fishType":"sakhalin sturgeon","fishId":5013,"float":"8266018914233892792"}
-{"stats":{"hp":-6,"baseDmg":8,"varDmg":4,"speed":14,"maxHp":8,"originalHp":31,"wins":12,"classification":"epic"},"caughtBy":"jeff_irwin","fishType":"turtle","fishId":79,"float":"5378495909874323270"}
-{"stats":{"hp":-1,"baseDmg":7,"varDmg":6,"speed":6,"maxHp":13,"originalHp":30,"wins":12,"classification":"legendary"},"caughtBy":"AugustusFox","fishType":"golden takoyaki","fishId":97,"float":"7423899332828717666"}
-{"stats":{"hp":-5,"baseDmg":7,"varDmg":6,"speed":16,"maxHp":12,"originalHp":33,"wins":18,"classification":"legendary"},"caughtBy":"Vettle","fishType":"red handfish","fishId":101,"float":"2584641650708107060"}
-{"stats":{"hp":-3,"baseDmg":4,"varDmg":4,"speed":18,"maxHp":23,"originalHp":26,"wins":14,"classification":"rare"},"caughtBy":"MathrimC","fishType":"octopus","fishId":95,"float":"17914278050815569579"}
-{"stats":{"hp":-1,"baseDmg":7,"varDmg":3,"speed":17,"maxHp":19,"originalHp":26,"wins":21,"classification":"rare"},"caughtBy":"fonoflops","fishType":"404 fish","fishId":5028,"float":"6599824394856760811"}
-{"stats":{"hp":-3,"baseDmg":4,"varDmg":4,"speed":17,"maxHp":21,"originalHp":27,"wins":10,"classification":"rare"},"caughtBy":"Vettle","fishType":"catfish","fishId":27,"float":"8944378999304258615"}
-{"stats":{"hp":-7,"baseDmg":7,"varDmg":2,"speed":9,"maxHp":22,"originalHp":29,"wins":11,"classification":"scarce"},"caughtBy":"M33pinator","fishType":"green salmon","fishId":60,"float":"3877040805286290252"}
-{"stats":{"hp":-2,"baseDmg":11,"varDmg":6,"speed":21,"maxHp":14,"originalHp":27,"wins":32,"classification":"legendary"},"caughtBy":"M33pinator","fishType":"blahaj","fishId":5010,"float":"8251542348040945449"}
-{"stats":{"hp":-2,"baseDmg":10,"varDmg":6,"speed":16,"maxHp":6,"originalHp":26,"wins":18,"classification":"legendary"},"caughtBy":"M33pinator","fishType":"golden king crab","fishId":85,"float":"4013064777503617663"}
-{"stats":{"hp":-8,"baseDmg":10,"varDmg":1,"speed":18,"maxHp":17,"originalHp":26,"wins":18,"classification":"epic"},"caughtBy":"eluminum","fishType":"turtle","fishId":79,"float":"10829425272710852318"}
-{"stats":{"hp":-1,"baseDmg":8,"varDmg":6,"speed":17,"maxHp":12,"originalHp":32,"wins":18,"classification":"legendary"},"caughtBy":"eluminum","fishType":"blahaj","fishId":5010,"float":"590336115123533877"}
-{"stats":{"hp":-6,"baseDmg":5,"varDmg":3,"speed":13,"maxHp":26,"originalHp":33,"wins":14,"classification":"scarce"},"caughtBy":"zhiayang","fishType":"green salmon","fishId":60,"float":"4299552183399854203"}
-{"stats":{"hp":-1,"baseDmg":7,"varDmg":3,"speed":11,"maxHp":18,"originalHp":34,"wins":18,"classification":"scarce"},"caughtBy":"eluminum","fishType":"barracuda","fishId":63,"float":"16292780456025455919"}
-{"stats":{"hp":-1,"baseDmg":7,"varDmg":2,"speed":11,"maxHp":14,"originalHp":28,"wins":12,"classification":"scarce"},"caughtBy":"zhiayang","fishType":"jellyfish","fishId":100,"float":"9247168861217341530"}
-{"stats":{"hp":-2,"baseDmg":6,"varDmg":4,"speed":16,"maxHp":22,"originalHp":30,"wins":15,"classification":"scarce"},"caughtBy":"AugustusFox","fishType":"snapperfish","fishId":39,"float":"16952524536681083264"}
-{"stats":{"hp":-34,"baseDmg":7,"varDmg":4,"speed":19,"maxHp":9,"originalHp":27,"wins":19,"classification":"scarce"},"caughtBy":"eluminum","fishType":"blue lobster","fishId":93,"float":"10599243362885456998"}
-{"stats":{"hp":-2,"baseDmg":10,"varDmg":6,"speed":9,"maxHp":19,"originalHp":25,"wins":13,"classification":"legendary"},"caughtBy":"Ategondev","fishType":"blahaj","fishId":5010,"float":"14608345335078183517"}
-{"stats":{"hp":-17,"baseDmg":7,"varDmg":1,"speed":11,"maxHp":25,"originalHp":30,"wins":13,"classification":"rare"},"caughtBy":"fonoflops","fishType":"catfish","fishId":27,"float":"4253618316229195909"}
-{"stats":{"hp":-4,"baseDmg":6,"varDmg":4,"speed":8,"maxHp":14,"originalHp":21,"wins":11,"classification":"uncommon"},"caughtBy":"fonoflops","fishType":"trout","fishId":19,"float":"7787899721283651987"}
-{"stats":{"hp":-19,"baseDmg":9,"varDmg":3,"speed":11,"maxHp":17,"originalHp":22,"wins":12,"classification":"epic"},"caughtBy":"JakeCreatesStuff","fishType":"axolotl","fishId":5049,"float":"4774963813234654566"}
-{"stats":{"hp":-4,"baseDmg":4,"varDmg":2,"speed":12,"maxHp":21,"originalHp":34,"wins":10,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"pufferfish","fishId":24,"float":"7838032965764317679"}
-{"stats":{"hp":-2,"baseDmg":4,"varDmg":3,"speed":20,"maxHp":24,"originalHp":31,"wins":17,"classification":"rare"},"caughtBy":"wilpeers","fishType":"catfish","fishId":27,"float":"17386628925587060271"}
-{"stats":{"hp":-2,"baseDmg":7,"varDmg":1,"speed":17,"maxHp":12,"originalHp":25,"wins":28,"classification":"scarce"},"caughtBy":"Marie_Nicole_","fishType":"mola mola fish","fishId":75,"float":"2335153688016469767"}
-{"stats":{"hp":-5,"baseDmg":6,"varDmg":4,"speed":15,"maxHp":1,"originalHp":32,"wins":12,"classification":"scarce"},"caughtBy":"Ategondev","fishType":"blue lobster","fishId":93,"float":"5843865485673386854"}
-{"stats":{"hp":-4,"baseDmg":5,"varDmg":4,"speed":14,"maxHp":18,"originalHp":24,"wins":15,"classification":"common"},"caughtBy":"fonoflops","fishType":"damsel fish","fishId":49,"float":"3571741047098454356"}
-{"stats":{"hp":-3,"baseDmg":7,"varDmg":2,"speed":7,"maxHp":18,"originalHp":32,"wins":12,"classification":"scarce"},"caughtBy":"Ategondev","fishType":"barracuda","fishId":63,"float":"16189634838528907666"}
-{"stats":{"hp":-2,"baseDmg":6,"varDmg":3,"speed":17,"maxHp":13,"originalHp":27,"wins":10,"classification":"scarce"},"caughtBy":"Marie_Nicole_","fishType":"clownfish","fishId":45,"float":"7083128846505796164"}
-{"stats":{"hp":-8,"baseDmg":7,"varDmg":1,"speed":10,"maxHp":15,"originalHp":25,"wins":16,"classification":"scarce"},"caughtBy":"M33pinator","fishType":"clownfish","fishId":45,"float":"5510510365765311569"}
-{"stats":{"hp":-2,"baseDmg":9,"varDmg":6,"speed":19,"maxHp":4,"originalHp":32,"wins":18,"classification":"legendary"},"caughtBy":"QuentMe","fishType":"golden takoyaki","fishId":97,"float":"2203093299931214453"}
+{"stats":{"hp":-2,"baseDmg":10,"varDmg":4,"speed":5,"maxHp":16,"originalHp":30,"wins":11,"classification":"epic"},"caughtBy":"chromosundrift","fishType":"octopus","fishId":96,"float":"17566211125419198294","twitchID":123404480}
+{"stats":{"hp":-2,"baseDmg":7,"varDmg":3,"speed":12,"maxHp":22,"originalHp":27,"wins":14,"classification":"scarce"},"caughtBy":"tiredbeaver","fishType":"mola mola fish","fishId":75,"float":"13642285464902710425","twitchID":626462513}
+{"stats":{"hp":-14,"baseDmg":7,"varDmg":3,"speed":15,"maxHp":16,"originalHp":30,"wins":11,"classification":"scarce"},"caughtBy":"lasuuun","fishType":"damsel fish","fishId":51,"float":"8239439705940676151","twitchID":218676842}
+{"stats":{"hp":-4,"baseDmg":6,"varDmg":3,"speed":20,"maxHp":19,"originalHp":23,"wins":11,"classification":"uncommon"},"caughtBy":"badcop_","fishType":"spearfish","fishId":55,"float":"1306468834160786771","twitchID":56931496}
+{"stats":{"hp":-7,"baseDmg":5,"varDmg":4,"speed":3,"maxHp":26,"originalHp":35,"wins":16,"classification":"scarce"},"caughtBy":"aaoa_","fishType":"great white shark","fishId":5059,"float":"11295076752403820056","twitchID":123859191}
+{"stats":{"hp":-4,"baseDmg":8,"varDmg":6,"speed":19,"maxHp":21,"originalHp":38,"wins":28,"classification":"legendary"},"caughtBy":"Vettle","fishType":"red handfish","fishId":101,"float":"17329353097036613191","twitchID":38883720}
+{"stats":{"hp":-5,"baseDmg":7,"varDmg":4,"speed":20,"maxHp":17,"originalHp":20,"wins":11,"classification":"scarce"},"caughtBy":"QuentMe","fishType":"blue lobster","fishId":93,"float":"6975416954824993363","twitchID":91312695}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":4,"speed":7,"maxHp":11,"originalHp":16,"wins":10,"classification":"fairly_common"},"caughtBy":"Colinahscopy_","fishType":"triple tail","fishId":34,"float":"15281449301076313288","twitchID":82185701}
+{"stats":{"hp":-1,"baseDmg":7,"varDmg":1,"speed":16,"maxHp":16,"originalHp":23,"wins":12,"classification":"epic"},"caughtBy":"jeff_irwin","fishType":"octopus","fishId":96,"float":"8762467823466260181","twitchID":897190750}
+{"stats":{"hp":-3,"baseDmg":7,"varDmg":4,"speed":19,"maxHp":5,"originalHp":28,"wins":11,"classification":"scarce"},"caughtBy":"dotmrjosh","fishType":"triple tail","fishId":35,"float":"10518336393605860292","twitchID":194798269}
+{"stats":{"hp":-10,"baseDmg":7,"varDmg":3,"speed":12,"maxHp":21,"originalHp":30,"wins":24,"classification":"rare"},"caughtBy":"jeff_irwin","fishType":"404 fish","fishId":5028,"float":"9237291280662740581","twitchID":897190750}
+{"stats":{"hp":-7,"baseDmg":11,"varDmg":6,"speed":16,"maxHp":16,"originalHp":25,"wins":19,"classification":"legendary"},"caughtBy":"BuddysPizza","fishType":"sakhalin sturgeon","fishId":5013,"float":"8266018914233892792","twitchID":42089909}
+{"stats":{"hp":-6,"baseDmg":8,"varDmg":4,"speed":14,"maxHp":8,"originalHp":31,"wins":12,"classification":"epic"},"caughtBy":"jeff_irwin","fishType":"turtle","fishId":79,"float":"5378495909874323270","twitchID":897190750}
+{"stats":{"hp":-1,"baseDmg":7,"varDmg":6,"speed":6,"maxHp":13,"originalHp":30,"wins":12,"classification":"legendary"},"caughtBy":"AugustusFox","fishType":"golden takoyaki","fishId":97,"float":"7423899332828717666","twitchID":468424593}
+{"stats":{"hp":-5,"baseDmg":7,"varDmg":6,"speed":16,"maxHp":12,"originalHp":33,"wins":18,"classification":"legendary"},"caughtBy":"Vettle","fishType":"red handfish","fishId":101,"float":"2584641650708107060","twitchID":38883720}
+{"stats":{"hp":-3,"baseDmg":4,"varDmg":4,"speed":18,"maxHp":23,"originalHp":26,"wins":14,"classification":"rare"},"caughtBy":"MathrimC","fishType":"octopus","fishId":95,"float":"17914278050815569579","twitchID":108201773}
+{"stats":{"hp":-1,"baseDmg":7,"varDmg":3,"speed":17,"maxHp":19,"originalHp":26,"wins":21,"classification":"rare"},"caughtBy":"fonoflops","fishType":"404 fish","fishId":5028,"float":"6599824394856760811","twitchID":42248687}
+{"stats":{"hp":-3,"baseDmg":4,"varDmg":4,"speed":17,"maxHp":21,"originalHp":27,"wins":10,"classification":"rare"},"caughtBy":"Vettle","fishType":"catfish","fishId":27,"float":"8944378999304258615","twitchID":38883720}
+{"stats":{"hp":-7,"baseDmg":7,"varDmg":2,"speed":9,"maxHp":22,"originalHp":29,"wins":11,"classification":"scarce"},"caughtBy":"M33pinator","fishType":"green salmon","fishId":60,"float":"3877040805286290252","twitchID":31775837}
+{"stats":{"hp":-2,"baseDmg":11,"varDmg":6,"speed":21,"maxHp":14,"originalHp":27,"wins":32,"classification":"legendary"},"caughtBy":"M33pinator","fishType":"blahaj","fishId":5010,"float":"8251542348040945449","twitchID":31775837}
+{"stats":{"hp":-2,"baseDmg":10,"varDmg":6,"speed":16,"maxHp":6,"originalHp":26,"wins":18,"classification":"legendary"},"caughtBy":"M33pinator","fishType":"golden king crab","fishId":85,"float":"4013064777503617663","twitchID":31775837}
+{"stats":{"hp":-8,"baseDmg":10,"varDmg":1,"speed":18,"maxHp":17,"originalHp":26,"wins":18,"classification":"epic"},"caughtBy":"eluminum","fishType":"turtle","fishId":79,"float":"10829425272710852318","twitchID":188229862}
+{"stats":{"hp":-1,"baseDmg":8,"varDmg":6,"speed":17,"maxHp":12,"originalHp":32,"wins":18,"classification":"legendary"},"caughtBy":"eluminum","fishType":"blahaj","fishId":5010,"float":"590336115123533877","twitchID":188229862}
+{"stats":{"hp":-6,"baseDmg":5,"varDmg":3,"speed":13,"maxHp":26,"originalHp":33,"wins":14,"classification":"scarce"},"caughtBy":"zhiayang","fishType":"green salmon","fishId":60,"float":"4299552183399854203","twitchID":23798302}
+{"stats":{"hp":-1,"baseDmg":7,"varDmg":3,"speed":11,"maxHp":18,"originalHp":34,"wins":18,"classification":"scarce"},"caughtBy":"eluminum","fishType":"barracuda","fishId":63,"float":"16292780456025455919","twitchID":188229862}
+{"stats":{"hp":-1,"baseDmg":7,"varDmg":2,"speed":11,"maxHp":14,"originalHp":28,"wins":12,"classification":"scarce"},"caughtBy":"zhiayang","fishType":"jellyfish","fishId":100,"float":"9247168861217341530","twitchID":23798302}
+{"stats":{"hp":-2,"baseDmg":6,"varDmg":4,"speed":16,"maxHp":22,"originalHp":30,"wins":15,"classification":"scarce"},"caughtBy":"AugustusFox","fishType":"snapperfish","fishId":39,"float":"16952524536681083264","twitchID":468424593}
+{"stats":{"hp":-34,"baseDmg":7,"varDmg":4,"speed":19,"maxHp":9,"originalHp":27,"wins":19,"classification":"scarce"},"caughtBy":"eluminum","fishType":"blue lobster","fishId":93,"float":"10599243362885456998","twitchID":188229862}
+{"stats":{"hp":-2,"baseDmg":10,"varDmg":6,"speed":9,"maxHp":19,"originalHp":25,"wins":13,"classification":"legendary"},"caughtBy":"Ategondev","fishType":"blahaj","fishId":5010,"float":"14608345335078183517","twitchID":108501499}
+{"stats":{"hp":-17,"baseDmg":7,"varDmg":1,"speed":11,"maxHp":25,"originalHp":30,"wins":13,"classification":"rare"},"caughtBy":"fonoflops","fishType":"catfish","fishId":27,"float":"4253618316229195909","twitchID":42248687}
+{"stats":{"hp":-4,"baseDmg":6,"varDmg":4,"speed":8,"maxHp":14,"originalHp":21,"wins":11,"classification":"uncommon"},"caughtBy":"fonoflops","fishType":"trout","fishId":19,"float":"7787899721283651987","twitchID":42248687}
+{"stats":{"hp":-19,"baseDmg":9,"varDmg":3,"speed":11,"maxHp":17,"originalHp":22,"wins":12,"classification":"epic"},"caughtBy":"JakeCreatesStuff","fishType":"axolotl","fishId":5049,"float":"4774963813234654566","twitchID":236908296}
+{"stats":{"hp":-4,"baseDmg":4,"varDmg":2,"speed":12,"maxHp":21,"originalHp":34,"wins":10,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"pufferfish","fishId":24,"float":"7838032965764317679","twitchID":42248687}
+{"stats":{"hp":-2,"baseDmg":4,"varDmg":3,"speed":20,"maxHp":24,"originalHp":31,"wins":17,"classification":"rare"},"caughtBy":"wilpeers","fishType":"catfish","fishId":27,"float":"17386628925587060271","twitchID":934180124}
+{"stats":{"hp":-2,"baseDmg":7,"varDmg":1,"speed":17,"maxHp":12,"originalHp":25,"wins":28,"classification":"scarce"},"caughtBy":"Marie_Nicole_","fishType":"mola mola fish","fishId":75,"float":"2335153688016469767","twitchID":654109320}
+{"stats":{"hp":-5,"baseDmg":6,"varDmg":4,"speed":15,"maxHp":1,"originalHp":32,"wins":12,"classification":"scarce"},"caughtBy":"Ategondev","fishType":"blue lobster","fishId":93,"float":"5843865485673386854","twitchID":108501499}
+{"stats":{"hp":-4,"baseDmg":5,"varDmg":4,"speed":14,"maxHp":18,"originalHp":24,"wins":15,"classification":"common"},"caughtBy":"fonoflops","fishType":"damsel fish","fishId":49,"float":"3571741047098454356","twitchID":42248687}
+{"stats":{"hp":-3,"baseDmg":7,"varDmg":2,"speed":7,"maxHp":18,"originalHp":32,"wins":12,"classification":"scarce"},"caughtBy":"Ategondev","fishType":"barracuda","fishId":63,"float":"16189634838528907666","twitchID":108501499}
+{"stats":{"hp":-2,"baseDmg":6,"varDmg":3,"speed":17,"maxHp":13,"originalHp":27,"wins":10,"classification":"scarce"},"caughtBy":"Marie_Nicole_","fishType":"clownfish","fishId":45,"float":"7083128846505796164","twitchID":654109320}
+{"stats":{"hp":-8,"baseDmg":7,"varDmg":1,"speed":10,"maxHp":15,"originalHp":25,"wins":16,"classification":"scarce"},"caughtBy":"M33pinator","fishType":"clownfish","fishId":45,"float":"5510510365765311569","twitchID":31775837}
+{"stats":{"hp":-2,"baseDmg":9,"varDmg":6,"speed":19,"maxHp":4,"originalHp":32,"wins":18,"classification":"legendary"},"caughtBy":"QuentMe","fishType":"golden takoyaki","fishId":97,"float":"2203093299931214453","twitchID":91312695}
 {"stats":{"hp":-3,"baseDmg":11,"varDmg":6,"speed":23,"maxHp":1,"originalHp":31,"wins":29,"classification":"legendary"},"caughtBy":"ShyRyan","fishType":"red handfish","fishId":101,"float":"10385596364709090282"}
-{"stats":{"hp":-2,"baseDmg":5,"varDmg":1,"speed":17,"maxHp":20,"originalHp":26,"wins":14,"classification":"fairly_common"},"caughtBy":"Ategondev","fishType":"clownfish","fishId":43,"float":"1734521930502301153"}
-{"stats":{"hp":-5,"baseDmg":6,"varDmg":4,"speed":20,"maxHp":10,"originalHp":17,"wins":14,"classification":"uncommon"},"caughtBy":"s9tpepper_","fishType":"bass","fishId":8,"float":"18228112192659538723"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":4,"speed":20,"maxHp":6,"originalHp":20,"wins":11,"classification":"common"},"caughtBy":"vim_enthusiast","fishType":"perch","fishId":4,"float":"9369825153426007511"}
-{"stats":{"hp":-8,"baseDmg":7,"varDmg":2,"speed":19,"maxHp":15,"originalHp":31,"wins":11,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"clownfish","fishId":45,"float":"18399883056324108164"}
-{"stats":{"hp":-2,"baseDmg":6,"varDmg":6,"speed":12,"maxHp":23,"originalHp":30,"wins":14,"classification":"legendary"},"caughtBy":"s9tpepper_","fishType":"rainbow trout","fishId":73,"float":"12311079588461848328"}
-{"stats":{"hp":-2,"baseDmg":7,"varDmg":2,"speed":17,"maxHp":26,"originalHp":33,"wins":19,"classification":"scarce"},"caughtBy":"wendelscardua","fishType":"spotfish","fishId":15,"float":"13327757369976834376"}
-{"stats":{"hp":-3,"baseDmg":5,"varDmg":3,"speed":19,"maxHp":19,"originalHp":35,"wins":11,"classification":"scarce"},"caughtBy":"M33pinator","fishType":"turtle","fishId":78,"float":"18147011177850306931"}
-{"stats":{"hp":-3,"baseDmg":8,"varDmg":6,"speed":9,"maxHp":17,"originalHp":30,"wins":20,"classification":"epic"},"caughtBy":"TimeEnjoyed","fishType":"octopus","fishId":96,"float":"4303163592412393310"}
-{"stats":{"hp":-1,"baseDmg":7,"varDmg":4,"speed":20,"maxHp":21,"originalHp":29,"wins":21,"classification":"scarce"},"caughtBy":"animememchik","fishType":"grouper","fishId":68,"float":"17636506619313546142"}
-{"stats":{"hp":-1,"baseDmg":10,"varDmg":6,"speed":10,"maxHp":37,"originalHp":41,"wins":10,"classification":"legendary"},"caughtBy":"Kodder","fishType":"sakhalin sturgeon","fishId":5013,"float":"10044049166540760687"}
-{"stats":{"hp":-30,"baseDmg":7,"varDmg":3,"speed":2,"maxHp":20,"originalHp":26,"wins":13,"classification":"scarce"},"caughtBy":"itsBoats","fishType":"clownfish","fishId":45,"float":"16444072521901539766"}
-{"stats":{"hp":-6,"baseDmg":9,"varDmg":6,"speed":5,"maxHp":19,"originalHp":29,"wins":16,"classification":"legendary"},"caughtBy":"nightshadedude","fishType":"rainbow trout","fishId":73,"float":"1609982217405527790"}
-{"stats":{"hp":-4,"baseDmg":6,"varDmg":4,"speed":8,"maxHp":22,"originalHp":26,"wins":11,"classification":"common"},"caughtBy":"bsquidwrd","fishType":"bluegill","fishId":52,"float":"12575635762589652014"}
-{"stats":{"hp":-3,"baseDmg":8,"varDmg":3,"speed":16,"maxHp":8,"originalHp":29,"wins":16,"classification":"epic"},"caughtBy":"M33pinator","fishType":"turtle","fishId":79,"float":"16849729512303882107"}
-{"stats":{"hp":-4,"baseDmg":7,"varDmg":4,"speed":8,"maxHp":13,"originalHp":28,"wins":19,"classification":"scarce"},"caughtBy":"shreyassanthu","fishType":"great white shark","fishId":5059,"float":"9992847935636925516"}
-{"stats":{"hp":-9,"baseDmg":6,"varDmg":3,"speed":20,"maxHp":16,"originalHp":35,"wins":46,"classification":"scarce"},"caughtBy":"Kodder","fishType":"redgill","fishId":54,"float":"12971555118815140216"}
-{"stats":{"hp":-1,"baseDmg":7,"varDmg":3,"speed":15,"maxHp":25,"originalHp":31,"wins":10,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"anglerfish","fishId":41,"float":"16256983256599469723"}
-{"stats":{"hp":-2,"baseDmg":4,"varDmg":6,"speed":22,"maxHp":21,"originalHp":37,"wins":21,"classification":"legendary"},"caughtBy":"shreyassanthu","fishType":"rainbow trout","fishId":73,"float":"12016351293349200916"}
-{"stats":{"hp":-7,"baseDmg":5,"varDmg":6,"speed":13,"maxHp":15,"originalHp":41,"wins":15,"classification":"legendary"},"caughtBy":"InfiniteCoder01","fishType":"golden takoyaki","fishId":97,"float":"373593484490607970"}
-{"stats":{"hp":-2,"baseDmg":7,"varDmg":4,"speed":9,"maxHp":13,"originalHp":30,"wins":17,"classification":"scarce"},"caughtBy":"Ategondev","fishType":"green salmon","fishId":60,"float":"12536949501381732188"}
-{"stats":{"hp":-8,"baseDmg":8,"varDmg":6,"speed":14,"maxHp":15,"originalHp":29,"wins":11,"classification":"legendary"},"caughtBy":"JessDrawsaBlank","fishType":"shrimp king","fishId":88,"float":"14319590503217581082"}
-{"stats":{"hp":-8,"baseDmg":7,"varDmg":6,"speed":21,"maxHp":11,"originalHp":25,"wins":12,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"golden king crab","fishId":85,"float":"13377812061213739909"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":6,"speed":11,"maxHp":33,"originalHp":37,"wins":12,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"golden takoyaki","fishId":97,"float":"14610287039097975510"}
-{"stats":{"hp":-10,"baseDmg":4,"varDmg":6,"speed":23,"maxHp":30,"originalHp":36,"wins":15,"classification":"legendary"},"caughtBy":"MathrimC","fishType":"blahaj","fishId":5010,"float":"16119180840757326673"}
-{"stats":{"hp":-8,"baseDmg":9,"varDmg":1,"speed":15,"maxHp":22,"originalHp":27,"wins":11,"classification":"epic"},"caughtBy":"MathrimC","fishType":"octopus","fishId":96,"float":"16733221020920620159"}
-{"stats":{"hp":-2,"baseDmg":7,"varDmg":3,"speed":11,"maxHp":10,"originalHp":24,"wins":10,"classification":"scarce"},"caughtBy":"MathrimC","fishType":"pop-eyed goldfish","fishId":5067,"float":"1534423795139105419"}
-{"stats":{"hp":-3,"baseDmg":5,"varDmg":2,"speed":21,"maxHp":16,"originalHp":25,"wins":29,"classification":"epic"},"caughtBy":"fonoflops","fishType":"axolotl","fishId":5049,"float":"13193960990453680580"}
-{"stats":{"hp":-19,"baseDmg":8,"varDmg":6,"speed":11,"maxHp":20,"originalHp":34,"wins":23,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"sakhalin sturgeon","fishId":5013,"float":"14779821238557430523"}
-{"stats":{"hp":-3,"baseDmg":6,"varDmg":4,"speed":11,"maxHp":16,"originalHp":20,"wins":11,"classification":"fairly_common"},"caughtBy":"JessDrawsaBlank","fishType":"angel fish","fishId":71,"float":"12365510724913046642"}
-{"stats":{"hp":-10,"baseDmg":5,"varDmg":4,"speed":17,"maxHp":16,"originalHp":31,"wins":14,"classification":"scarce"},"caughtBy":"JessDrawsaBlank","fishType":"shrimp","fishId":87,"float":"4178701348998095832"}
-{"stats":{"hp":-12,"baseDmg":6,"varDmg":6,"speed":21,"maxHp":23,"originalHp":27,"wins":21,"classification":"legendary"},"caughtBy":"woosaaahh","fishType":"red handfish","fishId":101,"float":"1234147194344804990"}
-{"stats":{"hp":-3,"baseDmg":7,"varDmg":4,"speed":21,"maxHp":11,"originalHp":28,"wins":13,"classification":"scarce"},"caughtBy":"M33pinator","fishType":"damsel fish","fishId":51,"float":"3483915399540024980"}
-{"stats":{"hp":-8,"baseDmg":6,"varDmg":4,"speed":17,"maxHp":20,"originalHp":28,"wins":17,"classification":"scarce"},"caughtBy":"MathrimC","fishType":"pufferfish","fishId":24,"float":"6901032842694747954"}
-{"stats":{"hp":-19,"baseDmg":7,"varDmg":4,"speed":21,"maxHp":21,"originalHp":32,"wins":23,"classification":"scarce"},"caughtBy":"DeadRobotDev","fishType":"cod","fishId":33,"float":"14680005205989111993"}
-{"stats":{"hp":-1,"baseDmg":10,"varDmg":6,"speed":20,"maxHp":19,"originalHp":37,"wins":18,"classification":"legendary"},"caughtBy":"wendelscardua","fishType":"sakhalin sturgeon","fishId":5013,"float":"16462883741297701278"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":2,"speed":17,"maxHp":16,"originalHp":24,"wins":15,"classification":"epic"},"caughtBy":"JessDrawsaBlank","fishType":"golden seahorse","fishId":91,"float":"1530401012464582429"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":1,"speed":15,"maxHp":9,"originalHp":22,"wins":14,"classification":"common"},"caughtBy":"pinkkatt_","fishType":"bass","fishId":7,"float":"13214339589173848629"}
-{"stats":{"hp":-9,"baseDmg":10,"varDmg":3,"speed":9,"maxHp":21,"originalHp":25,"wins":10,"classification":"epic"},"caughtBy":"FuzzyAlgorithm","fishType":"octopus","fishId":96,"float":"2077604351941147149"}
-{"stats":{"hp":-5,"baseDmg":8,"varDmg":6,"speed":12,"maxHp":10,"originalHp":33,"wins":14,"classification":"legendary"},"caughtBy":"shreyassanthu","fishType":"golden takoyaki","fishId":97,"float":"4246050096337777220"}
-{"stats":{"hp":-3,"baseDmg":6,"varDmg":3,"speed":20,"maxHp":13,"originalHp":30,"wins":15,"classification":"rare"},"caughtBy":"FuzzyAlgorithm","fishType":"bass","fishId":9,"float":"1811411454648653920"}
-{"stats":{"hp":-2,"baseDmg":7,"varDmg":2,"speed":5,"maxHp":22,"originalHp":26,"wins":19,"classification":"scarce"},"caughtBy":"FuzzyAlgorithm","fishType":"barracuda","fishId":63,"float":"7307857566663201205"}
-{"stats":{"hp":-2,"baseDmg":5,"varDmg":4,"speed":18,"maxHp":7,"originalHp":24,"wins":12,"classification":"scarce"},"caughtBy":"dasraizer","fishType":"clownfish","fishId":45,"float":"6314043083782850214"}
-{"stats":{"hp":-3,"baseDmg":6,"varDmg":3,"speed":15,"maxHp":21,"originalHp":24,"wins":10,"classification":"common"},"caughtBy":"khargoosh","fishType":"tilapia","fishId":1,"float":"17740038699229449933"}
-{"stats":{"hp":-2,"baseDmg":8,"varDmg":6,"speed":13,"maxHp":23,"originalHp":28,"wins":10,"classification":"legendary"},"caughtBy":"Ategondev","fishType":"rainbow trout","fishId":73,"float":"4658048404063426376"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":3,"speed":3,"maxHp":25,"originalHp":27,"wins":11,"classification":"scarce"},"caughtBy":"Ategondev","fishType":"pufferfish","fishId":24,"float":"9908015190621112181"}
-{"stats":{"hp":-32,"baseDmg":5,"varDmg":3,"speed":6,"maxHp":25,"originalHp":31,"wins":13,"classification":"scarce"},"caughtBy":"NyxKrage","fishType":"turtle","fishId":78,"float":"3350514883047750548"}
-{"stats":{"hp":-4,"baseDmg":6,"varDmg":4,"speed":11,"maxHp":19,"originalHp":24,"wins":12,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"catfish","fishId":26,"float":"6646787242190779738"}
-{"stats":{"hp":-4,"baseDmg":6,"varDmg":3,"speed":6,"maxHp":20,"originalHp":29,"wins":18,"classification":"epic"},"caughtBy":"MathrimC","fishType":"axolotl","fishId":5049,"float":"3526797251990639744"}
-{"stats":{"hp":-4,"baseDmg":7,"varDmg":4,"speed":16,"maxHp":6,"originalHp":25,"wins":19,"classification":"scarce"},"caughtBy":"MathrimC","fishType":"anglerfish","fishId":41,"float":"8869650136899516041"}
-{"stats":{"hp":-8,"baseDmg":7,"varDmg":6,"speed":9,"maxHp":12,"originalHp":30,"wins":12,"classification":"legendary"},"caughtBy":"FuzzyAlgorithm","fishType":"golden king crab","fishId":85,"float":"10220253526788747407"}
-{"stats":{"hp":-2,"baseDmg":10,"varDmg":6,"speed":12,"maxHp":5,"originalHp":31,"wins":23,"classification":"legendary"},"caughtBy":"brenno636","fishType":"golden takoyaki","fishId":97,"float":"5315630798143561367"}
-{"stats":{"hp":-3,"baseDmg":6,"varDmg":3,"speed":19,"maxHp":7,"originalHp":27,"wins":23,"classification":"scarce"},"caughtBy":"texoport","fishType":"clownfish","fishId":45,"float":"6807789606448182255"}
-{"stats":{"hp":-1,"baseDmg":8,"varDmg":1,"speed":16,"maxHp":16,"originalHp":30,"wins":18,"classification":"epic"},"caughtBy":"texoport","fishType":"golden seahorse","fishId":91,"float":"13810088913568408479"}
-{"stats":{"hp":-3,"baseDmg":6,"varDmg":2,"speed":18,"maxHp":17,"originalHp":29,"wins":23,"classification":"scarce"},"caughtBy":"RythonDev","fishType":"catfish","fishId":26,"float":"12513750221241254394"}
-{"stats":{"hp":-6,"baseDmg":4,"varDmg":4,"speed":16,"maxHp":25,"originalHp":31,"wins":15,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"green salmon","fishId":60,"float":"10052920822510022419"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":3,"speed":13,"maxHp":18,"originalHp":22,"wins":10,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"redgill","fishId":54,"float":"5812859289846498364"}
-{"stats":{"hp":-4,"baseDmg":5,"varDmg":6,"speed":12,"maxHp":8,"originalHp":29,"wins":23,"classification":"legendary"},"caughtBy":"deyloop","fishType":"rainbow trout","fishId":73,"float":"11834343168368875943"}
-{"stats":{"hp":-3,"baseDmg":7,"varDmg":5,"speed":20,"maxHp":13,"originalHp":25,"wins":12,"classification":"epic"},"caughtBy":"fonoflops","fishType":"golden seahorse","fishId":91,"float":"931957466483674080"}
-{"stats":{"hp":-2,"baseDmg":7,"varDmg":2,"speed":6,"maxHp":19,"originalHp":24,"wins":16,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"mola mola fish","fishId":75,"float":"3196046044133359043"}
-{"stats":{"hp":-10,"baseDmg":7,"varDmg":4,"speed":11,"maxHp":22,"originalHp":28,"wins":15,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"jellyfish","fishId":100,"float":"10474602489244540339"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":3,"speed":19,"maxHp":17,"originalHp":21,"wins":10,"classification":"fairly_common"},"caughtBy":"fonoflops","fishType":"herring","fishId":29,"float":"10851177798940624343"}
-{"stats":{"hp":-2,"baseDmg":10,"varDmg":6,"speed":18,"maxHp":11,"originalHp":35,"wins":37,"classification":"legendary"},"caughtBy":"taekwondork61","fishType":"sakhalin sturgeon","fishId":5013,"float":"18152927319294346729"}
-{"stats":{"hp":-9,"baseDmg":6,"varDmg":2,"speed":7,"maxHp":19,"originalHp":26,"wins":11,"classification":"rare"},"caughtBy":"CypherEnigma","fishType":"piranha","fishId":66,"float":"4672098665922714367"}
-{"stats":{"hp":-5,"baseDmg":4,"varDmg":4,"speed":19,"maxHp":8,"originalHp":23,"wins":10,"classification":"fairly_common"},"caughtBy":"UselessPrincess","fishType":"pufferfish","fishId":22,"float":"16774335245552406995"}
-{"stats":{"hp":-7,"baseDmg":5,"varDmg":3,"speed":8,"maxHp":22,"originalHp":25,"wins":10,"classification":"uncommon"},"caughtBy":"UselessPrincess","fishType":"tilpia","fishId":3,"float":"15857678079773375073"}
-{"stats":{"hp":-16,"baseDmg":7,"varDmg":3,"speed":16,"maxHp":24,"originalHp":33,"wins":16,"classification":"scarce"},"caughtBy":"nightshadedude","fishType":"jellyfish","fishId":100,"float":"4078718524921085240"}
-{"stats":{"hp":-6,"baseDmg":6,"varDmg":1,"speed":7,"maxHp":12,"originalHp":26,"wins":12,"classification":"common"},"caughtBy":"Melkey","fishType":"trout","fishId":16,"float":"3540377518933274642"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":2,"speed":14,"maxHp":23,"originalHp":29,"wins":19,"classification":"scarce"},"caughtBy":"thatguydoru","fishType":"green salmon","fishId":60,"float":"3297466241624869586"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":3,"speed":19,"maxHp":2,"originalHp":20,"wins":16,"classification":"uncommon"},"caughtBy":"JessDrawsaBlank","fishType":"tilpia","fishId":3,"float":"14439637222515677631"}
-{"stats":{"hp":-7,"baseDmg":7,"varDmg":1,"speed":14,"maxHp":17,"originalHp":22,"wins":10,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"barracuda","fishId":63,"float":"10338340572107192138"}
-{"stats":{"hp":-15,"baseDmg":7,"varDmg":1,"speed":5,"maxHp":20,"originalHp":25,"wins":14,"classification":"scarce"},"caughtBy":"FuzzyAlgorithm","fishType":"spearfish","fishId":56,"float":"8133920384581469105"}
-{"stats":{"hp":-5,"baseDmg":5,"varDmg":3,"speed":4,"maxHp":27,"originalHp":30,"wins":11,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"catfish","fishId":26,"float":"4036987686198836392"}
-{"stats":{"hp":-1,"baseDmg":8,"varDmg":6,"speed":15,"maxHp":11,"originalHp":33,"wins":13,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"golden takoyaki","fishId":97,"float":"5631687239418414785"}
-{"stats":{"hp":-4,"baseDmg":4,"varDmg":2,"speed":16,"maxHp":27,"originalHp":32,"wins":20,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"blue lobster","fishId":93,"float":"4153906090485109441"}
-{"stats":{"hp":-1,"baseDmg":4,"varDmg":1,"speed":20,"maxHp":19,"originalHp":33,"wins":14,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"great white shark","fishId":5059,"float":"6802087648933415250"}
-{"stats":{"hp":-1,"baseDmg":7,"varDmg":1,"speed":16,"maxHp":16,"originalHp":19,"wins":11,"classification":"scarce"},"caughtBy":"taekwondork61","fishType":"spearfish","fishId":56,"float":"6375849414667906671"}
-{"stats":{"hp":-8,"baseDmg":7,"varDmg":6,"speed":10,"maxHp":7,"originalHp":30,"wins":13,"classification":"legendary"},"caughtBy":"UselessPrincess","fishType":"golden king crab","fishId":85,"float":"13727845711615318692"}
-{"stats":{"hp":-9,"baseDmg":6,"varDmg":2,"speed":7,"maxHp":27,"originalHp":31,"wins":13,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"spotfish","fishId":15,"float":"8467390988421345644"}
-{"stats":{"hp":-11,"baseDmg":8,"varDmg":3,"speed":20,"maxHp":19,"originalHp":25,"wins":13,"classification":"epic"},"caughtBy":"UselessPrincess","fishType":"octopus","fishId":96,"float":"17310214814010359797"}
-{"stats":{"hp":-4,"baseDmg":6,"varDmg":4,"speed":14,"maxHp":14,"originalHp":18,"wins":10,"classification":"fairly_common"},"caughtBy":"UselessPrincess","fishType":"salmon","fishId":59,"float":"394545434855750328"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":3,"speed":21,"maxHp":20,"originalHp":27,"wins":14,"classification":"scarce"},"caughtBy":"JessDrawsaBlank","fishType":"crab","fishId":84,"float":"11572718233128199068"}
-{"stats":{"hp":-2,"baseDmg":6,"varDmg":1,"speed":13,"maxHp":24,"originalHp":30,"wins":17,"classification":"scarce"},"caughtBy":"MathrimC","fishType":"mola mola fish","fishId":75,"float":"2832134688220487148"}
-{"stats":{"hp":-6,"baseDmg":7,"varDmg":2,"speed":7,"maxHp":19,"originalHp":26,"wins":14,"classification":"scarce"},"caughtBy":"FuzzyAlgorithm","fishType":"spearfish","fishId":56,"float":"973813347195385677"}
-{"stats":{"hp":-8,"baseDmg":3,"varDmg":4,"speed":8,"maxHp":26,"originalHp":29,"wins":12,"classification":"scarce"},"caughtBy":"JessDrawsaBlank","fishType":"pop-eyed goldfish","fishId":5067,"float":"1581880212101602090"}
-{"stats":{"hp":-6,"baseDmg":7,"varDmg":4,"speed":15,"maxHp":17,"originalHp":26,"wins":16,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"trout","fishId":20,"float":"10953004475764261548"}
-{"stats":{"hp":-2,"baseDmg":5,"varDmg":3,"speed":14,"maxHp":16,"originalHp":33,"wins":30,"classification":"rare"},"caughtBy":"eluminum","fishType":"lobster","fishId":94,"float":"8346719059779694562"}
-{"stats":{"hp":-4,"baseDmg":4,"varDmg":4,"speed":12,"maxHp":17,"originalHp":26,"wins":18,"classification":"common"},"caughtBy":"FuzzyAlgorithm","fishType":"damsel fish","fishId":49,"float":"12972220112415863252"}
-{"stats":{"hp":-9,"baseDmg":6,"varDmg":4,"speed":17,"maxHp":17,"originalHp":22,"wins":14,"classification":"common"},"caughtBy":"UselessPrincess","fishType":"crab","fishId":83,"float":"178627218349074220"}
-{"stats":{"hp":-3,"baseDmg":7,"varDmg":1,"speed":16,"maxHp":21,"originalHp":31,"wins":32,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"snapperfish","fishId":39,"float":"14707553904743605354"}
-{"stats":{"hp":-9,"baseDmg":7,"varDmg":1,"speed":12,"maxHp":24,"originalHp":28,"wins":11,"classification":"rare"},"caughtBy":"badcop_","fishType":"anglerfish","fishId":42,"float":"2467012815365643080"}
-{"stats":{"hp":-1,"baseDmg":7,"varDmg":1,"speed":18,"maxHp":17,"originalHp":26,"wins":15,"classification":"scarce"},"caughtBy":"DeadRobotDev","fishType":"blue lobster","fishId":93,"float":"17092518955567904452"}
-{"stats":{"hp":-3,"baseDmg":6,"varDmg":3,"speed":4,"maxHp":9,"originalHp":25,"wins":13,"classification":"fairly_common"},"caughtBy":"Kodder","fishType":"salmon","fishId":59,"float":"4602964744643313668"}
-{"stats":{"hp":-4,"baseDmg":5,"varDmg":2,"speed":21,"maxHp":24,"originalHp":27,"wins":10,"classification":"rare"},"caughtBy":"FuzzyAlgorithm","fishType":"gamerpiejess fish","fishId":5026,"float":"18367484597352753149"}
-{"stats":{"hp":-7,"baseDmg":4,"varDmg":6,"speed":19,"maxHp":24,"originalHp":32,"wins":23,"classification":"legendary"},"caughtBy":"UselessPrincess","fishType":"rainbow trout","fishId":73,"float":"18245613740708524162"}
-{"stats":{"hp":-3,"baseDmg":7,"varDmg":6,"speed":12,"maxHp":15,"originalHp":35,"wins":42,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"red handfish","fishId":101,"float":"11031366607418569455"}
-{"stats":{"hp":-5,"baseDmg":8,"varDmg":5,"speed":15,"maxHp":9,"originalHp":25,"wins":16,"classification":"epic"},"caughtBy":"Kodder","fishType":"octopus","fishId":96,"float":"6914409109183009143"}
-{"stats":{"hp":-7,"baseDmg":9,"varDmg":5,"speed":9,"maxHp":13,"originalHp":28,"wins":15,"classification":"epic"},"caughtBy":"Blind_Kamikaze","fishType":"octopus","fishId":96,"float":"8440448146997422113"}
-{"stats":{"hp":-7,"baseDmg":9,"varDmg":1,"speed":21,"maxHp":13,"originalHp":29,"wins":28,"classification":"epic"},"caughtBy":"Kodder","fishType":"turtle","fishId":79,"float":"15034714030824493699"}
-{"stats":{"hp":-3,"baseDmg":7,"varDmg":1,"speed":6,"maxHp":10,"originalHp":27,"wins":12,"classification":"scarce"},"caughtBy":"pgorley","fishType":"seahorse","fishId":90,"float":"841397213807108818"}
-{"stats":{"hp":-3,"baseDmg":7,"varDmg":3,"speed":18,"maxHp":11,"originalHp":25,"wins":10,"classification":"scarce"},"caughtBy":"Kodder","fishType":"triple tail","fishId":35,"float":"4770915582191087671"}
-{"stats":{"hp":-3,"baseDmg":10,"varDmg":6,"speed":12,"maxHp":9,"originalHp":37,"wins":22,"classification":"legendary"},"caughtBy":"s9tpepper_","fishType":"rainbow trout","fishId":73,"float":"9641078874379526487"}
-{"stats":{"hp":-3,"baseDmg":6,"varDmg":4,"speed":20,"maxHp":5,"originalHp":18,"wins":10,"classification":"common"},"caughtBy":"vesdev","fishType":"lobster","fishId":92,"float":"9795751215348489568"}
-{"stats":{"hp":-5,"baseDmg":6,"varDmg":3,"speed":11,"maxHp":15,"originalHp":22,"wins":11,"classification":"fairly_common"},"caughtBy":"Blind_Kamikaze","fishType":"cod","fishId":31,"float":"4961213713422050541"}
-{"stats":{"hp":-5,"baseDmg":10,"varDmg":4,"speed":17,"maxHp":8,"originalHp":24,"wins":30,"classification":"epic"},"caughtBy":"eluminum","fishType":"mola mola fish","fishId":76,"float":"3438922943427901827"}
-{"stats":{"hp":-1,"baseDmg":10,"varDmg":6,"speed":21,"maxHp":5,"originalHp":32,"wins":43,"classification":"legendary"},"caughtBy":"s9tpepper_","fishType":"shrimp king","fishId":88,"float":"7745861967411596029"}
-{"stats":{"hp":-17,"baseDmg":6,"varDmg":2,"speed":18,"maxHp":18,"originalHp":23,"wins":19,"classification":"fairly_common"},"caughtBy":"scottb1969","fishType":"pufferfish","fishId":22,"float":"13828860002344683589"}
-{"stats":{"hp":-1,"baseDmg":6,"varDmg":4,"speed":20,"maxHp":11,"originalHp":24,"wins":10,"classification":"common"},"caughtBy":"mathrimc","fishType":"damsel fish","fishId":49,"float":"13055569630993757822"}
-{"stats":{"hp":-3,"baseDmg":6,"varDmg":4,"speed":9,"maxHp":23,"originalHp":27,"wins":12,"classification":"scarce"},"caughtBy":"badcop_","fishType":"damsel fish","fishId":51,"float":"1896201493617047214"}
-{"stats":{"hp":-1,"baseDmg":5,"varDmg":6,"speed":19,"maxHp":23,"originalHp":33,"wins":20,"classification":"legendary"},"caughtBy":"badcop_","fishType":"golden takoyaki","fishId":97,"float":"13640927154086428936"}
-{"stats":{"hp":-6,"baseDmg":10,"varDmg":3,"speed":22,"maxHp":11,"originalHp":19,"wins":20,"classification":"epic"},"caughtBy":"fonoflops","fishType":"mola mola fish","fishId":76,"float":"2326278195388809525"}
+{"stats":{"hp":-2,"baseDmg":5,"varDmg":1,"speed":17,"maxHp":20,"originalHp":26,"wins":14,"classification":"fairly_common"},"caughtBy":"Ategondev","fishType":"clownfish","fishId":43,"float":"1734521930502301153","twitchID":108501499}
+{"stats":{"hp":-5,"baseDmg":6,"varDmg":4,"speed":20,"maxHp":10,"originalHp":17,"wins":14,"classification":"uncommon"},"caughtBy":"s9tpepper_","fishType":"bass","fishId":8,"float":"18228112192659538723","twitchID":961536166}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":4,"speed":20,"maxHp":6,"originalHp":20,"wins":11,"classification":"common"},"caughtBy":"vim_enthusiast","fishType":"perch","fishId":4,"float":"9369825153426007511","twitchID":1003739264}
+{"stats":{"hp":-8,"baseDmg":7,"varDmg":2,"speed":19,"maxHp":15,"originalHp":31,"wins":11,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"clownfish","fishId":45,"float":"18399883056324108164","twitchID":42248687}
+{"stats":{"hp":-2,"baseDmg":6,"varDmg":6,"speed":12,"maxHp":23,"originalHp":30,"wins":14,"classification":"legendary"},"caughtBy":"s9tpepper_","fishType":"rainbow trout","fishId":73,"float":"12311079588461848328","twitchID":961536166}
+{"stats":{"hp":-2,"baseDmg":7,"varDmg":2,"speed":17,"maxHp":26,"originalHp":33,"wins":19,"classification":"scarce"},"caughtBy":"wendelscardua","fishType":"spotfish","fishId":15,"float":"13327757369976834376","twitchID":3671241}
+{"stats":{"hp":-3,"baseDmg":5,"varDmg":3,"speed":19,"maxHp":19,"originalHp":35,"wins":11,"classification":"scarce"},"caughtBy":"M33pinator","fishType":"turtle","fishId":78,"float":"18147011177850306931","twitchID":31775837}
+{"stats":{"hp":-3,"baseDmg":8,"varDmg":6,"speed":9,"maxHp":17,"originalHp":30,"wins":20,"classification":"epic"},"caughtBy":"TimeEnjoyed","fishType":"octopus","fishId":96,"float":"4303163592412393310","twitchID":410885037}
+{"stats":{"hp":-1,"baseDmg":7,"varDmg":4,"speed":20,"maxHp":21,"originalHp":29,"wins":21,"classification":"scarce"},"caughtBy":"animememchik","fishType":"grouper","fishId":68,"float":"17636506619313546142","twitchID":410393074}
+{"stats":{"hp":-1,"baseDmg":10,"varDmg":6,"speed":10,"maxHp":37,"originalHp":41,"wins":10,"classification":"legendary"},"caughtBy":"Kodder","fishType":"sakhalin sturgeon","fishId":5013,"float":"10044049166540760687","twitchID":101185038}
+{"stats":{"hp":-30,"baseDmg":7,"varDmg":3,"speed":2,"maxHp":20,"originalHp":26,"wins":13,"classification":"scarce"},"caughtBy":"itsBoats","fishType":"clownfish","fishId":45,"float":"16444072521901539766","twitchID":100806485}
+{"stats":{"hp":-6,"baseDmg":9,"varDmg":6,"speed":5,"maxHp":19,"originalHp":29,"wins":16,"classification":"legendary"},"caughtBy":"nightshadedude","fishType":"rainbow trout","fishId":73,"float":"1609982217405527790","twitchID":195271286}
+{"stats":{"hp":-4,"baseDmg":6,"varDmg":4,"speed":8,"maxHp":22,"originalHp":26,"wins":11,"classification":"common"},"caughtBy":"bsquidwrd","fishType":"bluegill","fishId":52,"float":"12575635762589652014","twitchID":22812120}
+{"stats":{"hp":-3,"baseDmg":8,"varDmg":3,"speed":16,"maxHp":8,"originalHp":29,"wins":16,"classification":"epic"},"caughtBy":"M33pinator","fishType":"turtle","fishId":79,"float":"16849729512303882107","twitchID":31775837}
+{"stats":{"hp":-4,"baseDmg":7,"varDmg":4,"speed":8,"maxHp":13,"originalHp":28,"wins":19,"classification":"scarce"},"caughtBy":"shreyassanthu","fishType":"great white shark","fishId":5059,"float":"9992847935636925516","twitchID":595308466}
+{"stats":{"hp":-9,"baseDmg":6,"varDmg":3,"speed":20,"maxHp":16,"originalHp":35,"wins":46,"classification":"scarce"},"caughtBy":"Kodder","fishType":"redgill","fishId":54,"float":"12971555118815140216","twitchID":101185038}
+{"stats":{"hp":-1,"baseDmg":7,"varDmg":3,"speed":15,"maxHp":25,"originalHp":31,"wins":10,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"anglerfish","fishId":41,"float":"16256983256599469723","twitchID":42248687}
+{"stats":{"hp":-2,"baseDmg":4,"varDmg":6,"speed":22,"maxHp":21,"originalHp":37,"wins":21,"classification":"legendary"},"caughtBy":"shreyassanthu","fishType":"rainbow trout","fishId":73,"float":"12016351293349200916","twitchID":595308466}
+{"stats":{"hp":-7,"baseDmg":5,"varDmg":6,"speed":13,"maxHp":15,"originalHp":41,"wins":15,"classification":"legendary"},"caughtBy":"InfiniteCoder01","fishType":"golden takoyaki","fishId":97,"float":"373593484490607970","twitchID":710224102}
+{"stats":{"hp":-2,"baseDmg":7,"varDmg":4,"speed":9,"maxHp":13,"originalHp":30,"wins":17,"classification":"scarce"},"caughtBy":"Ategondev","fishType":"green salmon","fishId":60,"float":"12536949501381732188","twitchID":108501499}
+{"stats":{"hp":-8,"baseDmg":8,"varDmg":6,"speed":14,"maxHp":15,"originalHp":29,"wins":11,"classification":"legendary"},"caughtBy":"JessDrawsaBlank","fishType":"shrimp king","fishId":88,"float":"14319590503217581082","twitchID":150572705}
+{"stats":{"hp":-8,"baseDmg":7,"varDmg":6,"speed":21,"maxHp":11,"originalHp":25,"wins":12,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"golden king crab","fishId":85,"float":"13377812061213739909","twitchID":42248687}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":6,"speed":11,"maxHp":33,"originalHp":37,"wins":12,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"golden takoyaki","fishId":97,"float":"14610287039097975510","twitchID":42248687}
+{"stats":{"hp":-10,"baseDmg":4,"varDmg":6,"speed":23,"maxHp":30,"originalHp":36,"wins":15,"classification":"legendary"},"caughtBy":"MathrimC","fishType":"blahaj","fishId":5010,"float":"16119180840757326673","twitchID":108201773}
+{"stats":{"hp":-8,"baseDmg":9,"varDmg":1,"speed":15,"maxHp":22,"originalHp":27,"wins":11,"classification":"epic"},"caughtBy":"MathrimC","fishType":"octopus","fishId":96,"float":"16733221020920620159","twitchID":108201773}
+{"stats":{"hp":-2,"baseDmg":7,"varDmg":3,"speed":11,"maxHp":10,"originalHp":24,"wins":10,"classification":"scarce"},"caughtBy":"MathrimC","fishType":"pop-eyed goldfish","fishId":5067,"float":"1534423795139105419","twitchID":108201773}
+{"stats":{"hp":-3,"baseDmg":5,"varDmg":2,"speed":21,"maxHp":16,"originalHp":25,"wins":29,"classification":"epic"},"caughtBy":"fonoflops","fishType":"axolotl","fishId":5049,"float":"13193960990453680580","twitchID":42248687}
+{"stats":{"hp":-19,"baseDmg":8,"varDmg":6,"speed":11,"maxHp":20,"originalHp":34,"wins":23,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"sakhalin sturgeon","fishId":5013,"float":"14779821238557430523","twitchID":42248687}
+{"stats":{"hp":-3,"baseDmg":6,"varDmg":4,"speed":11,"maxHp":16,"originalHp":20,"wins":11,"classification":"fairly_common"},"caughtBy":"JessDrawsaBlank","fishType":"angel fish","fishId":71,"float":"12365510724913046642","twitchID":150572705}
+{"stats":{"hp":-10,"baseDmg":5,"varDmg":4,"speed":17,"maxHp":16,"originalHp":31,"wins":14,"classification":"scarce"},"caughtBy":"JessDrawsaBlank","fishType":"shrimp","fishId":87,"float":"4178701348998095832","twitchID":150572705}
+{"stats":{"hp":-12,"baseDmg":6,"varDmg":6,"speed":21,"maxHp":23,"originalHp":27,"wins":21,"classification":"legendary"},"caughtBy":"woosaaahh","fishType":"red handfish","fishId":101,"float":"1234147194344804990","twitchID":811200849}
+{"stats":{"hp":-3,"baseDmg":7,"varDmg":4,"speed":21,"maxHp":11,"originalHp":28,"wins":13,"classification":"scarce"},"caughtBy":"M33pinator","fishType":"damsel fish","fishId":51,"float":"3483915399540024980","twitchID":31775837}
+{"stats":{"hp":-8,"baseDmg":6,"varDmg":4,"speed":17,"maxHp":20,"originalHp":28,"wins":17,"classification":"scarce"},"caughtBy":"MathrimC","fishType":"pufferfish","fishId":24,"float":"6901032842694747954","twitchID":108201773}
+{"stats":{"hp":-19,"baseDmg":7,"varDmg":4,"speed":21,"maxHp":21,"originalHp":32,"wins":23,"classification":"scarce"},"caughtBy":"DeadRobotDev","fishType":"cod","fishId":33,"float":"14680005205989111993","twitchID":591114979}
+{"stats":{"hp":-1,"baseDmg":10,"varDmg":6,"speed":20,"maxHp":19,"originalHp":37,"wins":18,"classification":"legendary"},"caughtBy":"wendelscardua","fishType":"sakhalin sturgeon","fishId":5013,"float":"16462883741297701278","twitchID":3671241}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":2,"speed":17,"maxHp":16,"originalHp":24,"wins":15,"classification":"epic"},"caughtBy":"JessDrawsaBlank","fishType":"golden seahorse","fishId":91,"float":"1530401012464582429","twitchID":150572705}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":1,"speed":15,"maxHp":9,"originalHp":22,"wins":14,"classification":"common"},"caughtBy":"pinkkatt_","fishType":"bass","fishId":7,"float":"13214339589173848629","twitchID":118737610}
+{"stats":{"hp":-9,"baseDmg":10,"varDmg":3,"speed":9,"maxHp":21,"originalHp":25,"wins":10,"classification":"epic"},"caughtBy":"FuzzyAlgorithm","fishType":"octopus","fishId":96,"float":"2077604351941147149","twitchID":889862941}
+{"stats":{"hp":-5,"baseDmg":8,"varDmg":6,"speed":12,"maxHp":10,"originalHp":33,"wins":14,"classification":"legendary"},"caughtBy":"shreyassanthu","fishType":"golden takoyaki","fishId":97,"float":"4246050096337777220","twitchID":595308466}
+{"stats":{"hp":-3,"baseDmg":6,"varDmg":3,"speed":20,"maxHp":13,"originalHp":30,"wins":15,"classification":"rare"},"caughtBy":"FuzzyAlgorithm","fishType":"bass","fishId":9,"float":"1811411454648653920","twitchID":889862941}
+{"stats":{"hp":-2,"baseDmg":7,"varDmg":2,"speed":5,"maxHp":22,"originalHp":26,"wins":19,"classification":"scarce"},"caughtBy":"FuzzyAlgorithm","fishType":"barracuda","fishId":63,"float":"7307857566663201205","twitchID":889862941}
+{"stats":{"hp":-2,"baseDmg":5,"varDmg":4,"speed":18,"maxHp":7,"originalHp":24,"wins":12,"classification":"scarce"},"caughtBy":"dasraizer","fishType":"clownfish","fishId":45,"float":"6314043083782850214","twitchID":70565448}
+{"stats":{"hp":-3,"baseDmg":6,"varDmg":3,"speed":15,"maxHp":21,"originalHp":24,"wins":10,"classification":"common"},"caughtBy":"khargoosh","fishType":"tilapia","fishId":1,"float":"17740038699229449933","twitchID":498901714}
+{"stats":{"hp":-2,"baseDmg":8,"varDmg":6,"speed":13,"maxHp":23,"originalHp":28,"wins":10,"classification":"legendary"},"caughtBy":"Ategondev","fishType":"rainbow trout","fishId":73,"float":"4658048404063426376","twitchID":108501499}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":3,"speed":3,"maxHp":25,"originalHp":27,"wins":11,"classification":"scarce"},"caughtBy":"Ategondev","fishType":"pufferfish","fishId":24,"float":"9908015190621112181","twitchID":108501499}
+{"stats":{"hp":-32,"baseDmg":5,"varDmg":3,"speed":6,"maxHp":25,"originalHp":31,"wins":13,"classification":"scarce"},"caughtBy":"NyxKrage","fishType":"turtle","fishId":78,"float":"3350514883047750548","twitchID":57632769}
+{"stats":{"hp":-4,"baseDmg":6,"varDmg":4,"speed":11,"maxHp":19,"originalHp":24,"wins":12,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"catfish","fishId":26,"float":"6646787242190779738","twitchID":42248687}
+{"stats":{"hp":-4,"baseDmg":6,"varDmg":3,"speed":6,"maxHp":20,"originalHp":29,"wins":18,"classification":"epic"},"caughtBy":"MathrimC","fishType":"axolotl","fishId":5049,"float":"3526797251990639744","twitchID":108201773}
+{"stats":{"hp":-4,"baseDmg":7,"varDmg":4,"speed":16,"maxHp":6,"originalHp":25,"wins":19,"classification":"scarce"},"caughtBy":"MathrimC","fishType":"anglerfish","fishId":41,"float":"8869650136899516041","twitchID":108201773}
+{"stats":{"hp":-8,"baseDmg":7,"varDmg":6,"speed":9,"maxHp":12,"originalHp":30,"wins":12,"classification":"legendary"},"caughtBy":"FuzzyAlgorithm","fishType":"golden king crab","fishId":85,"float":"10220253526788747407","twitchID":889862941}
+{"stats":{"hp":-2,"baseDmg":10,"varDmg":6,"speed":12,"maxHp":5,"originalHp":31,"wins":23,"classification":"legendary"},"caughtBy":"brenno636","fishType":"golden takoyaki","fishId":97,"float":"5315630798143561367","twitchID":131989186}
+{"stats":{"hp":-3,"baseDmg":6,"varDmg":3,"speed":19,"maxHp":7,"originalHp":27,"wins":23,"classification":"scarce"},"caughtBy":"texoport","fishType":"clownfish","fishId":45,"float":"6807789606448182255","twitchID":492456263}
+{"stats":{"hp":-1,"baseDmg":8,"varDmg":1,"speed":16,"maxHp":16,"originalHp":30,"wins":18,"classification":"epic"},"caughtBy":"texoport","fishType":"golden seahorse","fishId":91,"float":"13810088913568408479","twitchID":492456263}
+{"stats":{"hp":-3,"baseDmg":6,"varDmg":2,"speed":18,"maxHp":17,"originalHp":29,"wins":23,"classification":"scarce"},"caughtBy":"RythonDev","fishType":"catfish","fishId":26,"float":"12513750221241254394","twitchID":248474026}
+{"stats":{"hp":-6,"baseDmg":4,"varDmg":4,"speed":16,"maxHp":25,"originalHp":31,"wins":15,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"green salmon","fishId":60,"float":"10052920822510022419","twitchID":42248687}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":3,"speed":13,"maxHp":18,"originalHp":22,"wins":10,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"redgill","fishId":54,"float":"5812859289846498364","twitchID":898625339}
+{"stats":{"hp":-4,"baseDmg":5,"varDmg":6,"speed":12,"maxHp":8,"originalHp":29,"wins":23,"classification":"legendary"},"caughtBy":"deyloop","fishType":"rainbow trout","fishId":73,"float":"11834343168368875943","twitchID":531085237}
+{"stats":{"hp":-3,"baseDmg":7,"varDmg":5,"speed":20,"maxHp":13,"originalHp":25,"wins":12,"classification":"epic"},"caughtBy":"fonoflops","fishType":"golden seahorse","fishId":91,"float":"931957466483674080","twitchID":42248687}
+{"stats":{"hp":-2,"baseDmg":7,"varDmg":2,"speed":6,"maxHp":19,"originalHp":24,"wins":16,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"mola mola fish","fishId":75,"float":"3196046044133359043","twitchID":898625339}
+{"stats":{"hp":-10,"baseDmg":7,"varDmg":4,"speed":11,"maxHp":22,"originalHp":28,"wins":15,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"jellyfish","fishId":100,"float":"10474602489244540339","twitchID":42248687}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":3,"speed":19,"maxHp":17,"originalHp":21,"wins":10,"classification":"fairly_common"},"caughtBy":"fonoflops","fishType":"herring","fishId":29,"float":"10851177798940624343","twitchID":42248687}
+{"stats":{"hp":-2,"baseDmg":10,"varDmg":6,"speed":18,"maxHp":11,"originalHp":35,"wins":37,"classification":"legendary"},"caughtBy":"taekwondork61","fishType":"sakhalin sturgeon","fishId":5013,"float":"18152927319294346729","twitchID":228240554}
+{"stats":{"hp":-9,"baseDmg":6,"varDmg":2,"speed":7,"maxHp":19,"originalHp":26,"wins":11,"classification":"rare"},"caughtBy":"CypherEnigma","fishType":"piranha","fishId":66,"float":"4672098665922714367","twitchID":56960752}
+{"stats":{"hp":-5,"baseDmg":4,"varDmg":4,"speed":19,"maxHp":8,"originalHp":23,"wins":10,"classification":"fairly_common"},"caughtBy":"UselessPrincess","fishType":"pufferfish","fishId":22,"float":"16774335245552406995","twitchID":898625339}
+{"stats":{"hp":-7,"baseDmg":5,"varDmg":3,"speed":8,"maxHp":22,"originalHp":25,"wins":10,"classification":"uncommon"},"caughtBy":"UselessPrincess","fishType":"tilpia","fishId":3,"float":"15857678079773375073","twitchID":898625339}
+{"stats":{"hp":-16,"baseDmg":7,"varDmg":3,"speed":16,"maxHp":24,"originalHp":33,"wins":16,"classification":"scarce"},"caughtBy":"nightshadedude","fishType":"jellyfish","fishId":100,"float":"4078718524921085240","twitchID":195271286}
+{"stats":{"hp":-6,"baseDmg":6,"varDmg":1,"speed":7,"maxHp":12,"originalHp":26,"wins":12,"classification":"common"},"caughtBy":"Melkey","fishType":"trout","fishId":16,"float":"3540377518933274642","twitchID":509382535}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":2,"speed":14,"maxHp":23,"originalHp":29,"wins":19,"classification":"scarce"},"caughtBy":"thatguydoru","fishType":"green salmon","fishId":60,"float":"3297466241624869586","twitchID":869239385}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":3,"speed":19,"maxHp":2,"originalHp":20,"wins":16,"classification":"uncommon"},"caughtBy":"JessDrawsaBlank","fishType":"tilpia","fishId":3,"float":"14439637222515677631","twitchID":150572705}
+{"stats":{"hp":-7,"baseDmg":7,"varDmg":1,"speed":14,"maxHp":17,"originalHp":22,"wins":10,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"barracuda","fishId":63,"float":"10338340572107192138","twitchID":898625339}
+{"stats":{"hp":-15,"baseDmg":7,"varDmg":1,"speed":5,"maxHp":20,"originalHp":25,"wins":14,"classification":"scarce"},"caughtBy":"FuzzyAlgorithm","fishType":"spearfish","fishId":56,"float":"8133920384581469105","twitchID":889862941}
+{"stats":{"hp":-5,"baseDmg":5,"varDmg":3,"speed":4,"maxHp":27,"originalHp":30,"wins":11,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"catfish","fishId":26,"float":"4036987686198836392","twitchID":898625339}
+{"stats":{"hp":-1,"baseDmg":8,"varDmg":6,"speed":15,"maxHp":11,"originalHp":33,"wins":13,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"golden takoyaki","fishId":97,"float":"5631687239418414785","twitchID":42248687}
+{"stats":{"hp":-4,"baseDmg":4,"varDmg":2,"speed":16,"maxHp":27,"originalHp":32,"wins":20,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"blue lobster","fishId":93,"float":"4153906090485109441","twitchID":898625339}
+{"stats":{"hp":-1,"baseDmg":4,"varDmg":1,"speed":20,"maxHp":19,"originalHp":33,"wins":14,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"great white shark","fishId":5059,"float":"6802087648933415250","twitchID":898625339}
+{"stats":{"hp":-1,"baseDmg":7,"varDmg":1,"speed":16,"maxHp":16,"originalHp":19,"wins":11,"classification":"scarce"},"caughtBy":"taekwondork61","fishType":"spearfish","fishId":56,"float":"6375849414667906671","twitchID":228240554}
+{"stats":{"hp":-8,"baseDmg":7,"varDmg":6,"speed":10,"maxHp":7,"originalHp":30,"wins":13,"classification":"legendary"},"caughtBy":"UselessPrincess","fishType":"golden king crab","fishId":85,"float":"13727845711615318692","twitchID":898625339}
+{"stats":{"hp":-9,"baseDmg":6,"varDmg":2,"speed":7,"maxHp":27,"originalHp":31,"wins":13,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"spotfish","fishId":15,"float":"8467390988421345644","twitchID":898625339}
+{"stats":{"hp":-11,"baseDmg":8,"varDmg":3,"speed":20,"maxHp":19,"originalHp":25,"wins":13,"classification":"epic"},"caughtBy":"UselessPrincess","fishType":"octopus","fishId":96,"float":"17310214814010359797","twitchID":898625339}
+{"stats":{"hp":-4,"baseDmg":6,"varDmg":4,"speed":14,"maxHp":14,"originalHp":18,"wins":10,"classification":"fairly_common"},"caughtBy":"UselessPrincess","fishType":"salmon","fishId":59,"float":"394545434855750328","twitchID":898625339}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":3,"speed":21,"maxHp":20,"originalHp":27,"wins":14,"classification":"scarce"},"caughtBy":"JessDrawsaBlank","fishType":"crab","fishId":84,"float":"11572718233128199068","twitchID":150572705}
+{"stats":{"hp":-2,"baseDmg":6,"varDmg":1,"speed":13,"maxHp":24,"originalHp":30,"wins":17,"classification":"scarce"},"caughtBy":"MathrimC","fishType":"mola mola fish","fishId":75,"float":"2832134688220487148","twitchID":108201773}
+{"stats":{"hp":-6,"baseDmg":7,"varDmg":2,"speed":7,"maxHp":19,"originalHp":26,"wins":14,"classification":"scarce"},"caughtBy":"FuzzyAlgorithm","fishType":"spearfish","fishId":56,"float":"973813347195385677","twitchID":889862941}
+{"stats":{"hp":-8,"baseDmg":3,"varDmg":4,"speed":8,"maxHp":26,"originalHp":29,"wins":12,"classification":"scarce"},"caughtBy":"JessDrawsaBlank","fishType":"pop-eyed goldfish","fishId":5067,"float":"1581880212101602090","twitchID":150572705}
+{"stats":{"hp":-6,"baseDmg":7,"varDmg":4,"speed":15,"maxHp":17,"originalHp":26,"wins":16,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"trout","fishId":20,"float":"10953004475764261548","twitchID":898625339}
+{"stats":{"hp":-2,"baseDmg":5,"varDmg":3,"speed":14,"maxHp":16,"originalHp":33,"wins":30,"classification":"rare"},"caughtBy":"eluminum","fishType":"lobster","fishId":94,"float":"8346719059779694562","twitchID":188229862}
+{"stats":{"hp":-4,"baseDmg":4,"varDmg":4,"speed":12,"maxHp":17,"originalHp":26,"wins":18,"classification":"common"},"caughtBy":"FuzzyAlgorithm","fishType":"damsel fish","fishId":49,"float":"12972220112415863252","twitchID":889862941}
+{"stats":{"hp":-9,"baseDmg":6,"varDmg":4,"speed":17,"maxHp":17,"originalHp":22,"wins":14,"classification":"common"},"caughtBy":"UselessPrincess","fishType":"crab","fishId":83,"float":"178627218349074220","twitchID":898625339}
+{"stats":{"hp":-3,"baseDmg":7,"varDmg":1,"speed":16,"maxHp":21,"originalHp":31,"wins":32,"classification":"scarce"},"caughtBy":"UselessPrincess","fishType":"snapperfish","fishId":39,"float":"14707553904743605354","twitchID":898625339}
+{"stats":{"hp":-9,"baseDmg":7,"varDmg":1,"speed":12,"maxHp":24,"originalHp":28,"wins":11,"classification":"rare"},"caughtBy":"badcop_","fishType":"anglerfish","fishId":42,"float":"2467012815365643080","twitchID":56931496}
+{"stats":{"hp":-1,"baseDmg":7,"varDmg":1,"speed":18,"maxHp":17,"originalHp":26,"wins":15,"classification":"scarce"},"caughtBy":"DeadRobotDev","fishType":"blue lobster","fishId":93,"float":"17092518955567904452","twitchID":591114979}
+{"stats":{"hp":-3,"baseDmg":6,"varDmg":3,"speed":4,"maxHp":9,"originalHp":25,"wins":13,"classification":"fairly_common"},"caughtBy":"Kodder","fishType":"salmon","fishId":59,"float":"4602964744643313668","twitchID":101185038}
+{"stats":{"hp":-4,"baseDmg":5,"varDmg":2,"speed":21,"maxHp":24,"originalHp":27,"wins":10,"classification":"rare"},"caughtBy":"FuzzyAlgorithm","fishType":"gamerpiejess fish","fishId":5026,"float":"18367484597352753149","twitchID":889862941}
+{"stats":{"hp":-7,"baseDmg":4,"varDmg":6,"speed":19,"maxHp":24,"originalHp":32,"wins":23,"classification":"legendary"},"caughtBy":"UselessPrincess","fishType":"rainbow trout","fishId":73,"float":"18245613740708524162","twitchID":898625339}
+{"stats":{"hp":-3,"baseDmg":7,"varDmg":6,"speed":12,"maxHp":15,"originalHp":35,"wins":42,"classification":"legendary"},"caughtBy":"fonoflops","fishType":"red handfish","fishId":101,"float":"11031366607418569455","twitchID":42248687}
+{"stats":{"hp":-5,"baseDmg":8,"varDmg":5,"speed":15,"maxHp":9,"originalHp":25,"wins":16,"classification":"epic"},"caughtBy":"Kodder","fishType":"octopus","fishId":96,"float":"6914409109183009143","twitchID":101185038}
+{"stats":{"hp":-7,"baseDmg":9,"varDmg":5,"speed":9,"maxHp":13,"originalHp":28,"wins":15,"classification":"epic"},"caughtBy":"Blind_Kamikaze","fishType":"octopus","fishId":96,"float":"8440448146997422113","twitchID":852450049}
+{"stats":{"hp":-7,"baseDmg":9,"varDmg":1,"speed":21,"maxHp":13,"originalHp":29,"wins":28,"classification":"epic"},"caughtBy":"Kodder","fishType":"turtle","fishId":79,"float":"15034714030824493699","twitchID":101185038}
+{"stats":{"hp":-3,"baseDmg":7,"varDmg":1,"speed":6,"maxHp":10,"originalHp":27,"wins":12,"classification":"scarce"},"caughtBy":"pgorley","fishType":"seahorse","fishId":90,"float":"841397213807108818","twitchID":25777461}
+{"stats":{"hp":-3,"baseDmg":7,"varDmg":3,"speed":18,"maxHp":11,"originalHp":25,"wins":10,"classification":"scarce"},"caughtBy":"Kodder","fishType":"triple tail","fishId":35,"float":"4770915582191087671","twitchID":101185038}
+{"stats":{"hp":-3,"baseDmg":10,"varDmg":6,"speed":12,"maxHp":9,"originalHp":37,"wins":22,"classification":"legendary"},"caughtBy":"s9tpepper_","fishType":"rainbow trout","fishId":73,"float":"9641078874379526487","twitchID":961536166}
+{"stats":{"hp":-3,"baseDmg":6,"varDmg":4,"speed":20,"maxHp":5,"originalHp":18,"wins":10,"classification":"common"},"caughtBy":"vesdev","fishType":"lobster","fishId":92,"float":"9795751215348489568","twitchID":164774298}
+{"stats":{"hp":-5,"baseDmg":6,"varDmg":3,"speed":11,"maxHp":15,"originalHp":22,"wins":11,"classification":"fairly_common"},"caughtBy":"Blind_Kamikaze","fishType":"cod","fishId":31,"float":"4961213713422050541","twitchID":852450049}
+{"stats":{"hp":-5,"baseDmg":10,"varDmg":4,"speed":17,"maxHp":8,"originalHp":24,"wins":30,"classification":"epic"},"caughtBy":"eluminum","fishType":"mola mola fish","fishId":76,"float":"3438922943427901827","twitchID":188229862}
+{"stats":{"hp":-1,"baseDmg":10,"varDmg":6,"speed":21,"maxHp":5,"originalHp":32,"wins":43,"classification":"legendary"},"caughtBy":"s9tpepper_","fishType":"shrimp king","fishId":88,"float":"7745861967411596029","twitchID":961536166}
+{"stats":{"hp":-17,"baseDmg":6,"varDmg":2,"speed":18,"maxHp":18,"originalHp":23,"wins":19,"classification":"fairly_common"},"caughtBy":"scottb1969","fishType":"pufferfish","fishId":22,"float":"13828860002344683589","twitchID":903844085}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":4,"speed":20,"maxHp":11,"originalHp":24,"wins":10,"classification":"common"},"caughtBy":"mathrimc","fishType":"damsel fish","fishId":49,"float":"13055569630993757822","twitchID":108201773}
+{"stats":{"hp":-3,"baseDmg":6,"varDmg":4,"speed":9,"maxHp":23,"originalHp":27,"wins":12,"classification":"scarce"},"caughtBy":"badcop_","fishType":"damsel fish","fishId":51,"float":"1896201493617047214","twitchID":56931496}
+{"stats":{"hp":-1,"baseDmg":5,"varDmg":6,"speed":19,"maxHp":23,"originalHp":33,"wins":20,"classification":"legendary"},"caughtBy":"badcop_","fishType":"golden takoyaki","fishId":97,"float":"13640927154086428936","twitchID":56931496}
+{"stats":{"hp":-6,"baseDmg":10,"varDmg":3,"speed":22,"maxHp":11,"originalHp":19,"wins":20,"classification":"epic"},"caughtBy":"fonoflops","fishType":"mola mola fish","fishId":76,"float":"2326278195388809525","twitchID":42248687}
