@@ -34,18 +34,16 @@ function migrate() {
       ID="$(echo "$line2" | jq -r '.id')"
       NAME="$(echo "$line2" | jq -r '.display_name')"
       if [[ ! -z "$ID" ]]; then
-        mv $FISH_ROOT/badcop_/$NAME $FISH_ROOT/badcop_/$ID
-        mv $FISH_ROOT/badcop_/fishing-rods/$NAME $FISH_ROOT/badcop_/fishing-rods/$ID
+        echo "$ID $NAME" >> data/username_cache
+      else
+        echo "NOT FOUND"
       fi
     done <<< "$CHUNK"
   done
 }
 
-for user in $FISH_ROOT/badcop_/*; do
-  NAME="$(urlencode "$(basename $user)")"
-  echo "${NAME,,}"
-done | xargs -n 5 echo \
-  | sed 's/ /\&login=/g;s@^@https://api.twitch.tv/helix/users?login=@' \
+cat fark | xargs -n 1 echo \
+  | sed 's/ /\&id=/g;s@^@https://api.twitch.tv/helix/users?id=@' \
   | xargs -P1 -L1 curl -Ss \
   -H "Authorization: Bearer $TOKEN" \
   -H "Client-Id: $TWITCH_CLIENT_ID" \
