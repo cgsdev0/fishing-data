@@ -1,0 +1,13 @@
+Hi. I found a vulnerability in your codebase. This is actual ACE (arbitrary code execution) and if I had a static IP,
+I could get a reverse shell. Can't get flag, as docker container is pretty much unbreakable.
+But I guess, I am leaving a message here? If I get revshell working, I'll patch it, in this case
+I suggest you to NOT run a git diff, but to figure out what was wrong on stream. Hint: It's bash variable interpolation.
+There are a million places where this is exploitable (bash is one of the most exploitable languages),
+but the one I used is the easiest - just takes a query param and literally executes it.
+This took me quite a while to figure out (about 5 and a half hours), but it was fun.
+I may (or may not) have one more question in chat about it.
+InfiniteCoder(01) 2024 July 6
+
+P.S. I got a remote shell with websocat and normal socat working. Fixing the vulnerability now!
+
+P.P.S. Seems to be fixed! But be aware: There probably are similar! Ask me in chat for possible places. And this is the last time I can open this shell :(
