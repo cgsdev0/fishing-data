@@ -112,7 +112,7 @@
 {"stats":{"speed":20,"hp":-1,"baseDmg":5,"varDmg":3,"wins":17,"maxHp":21,"originalHp":28},"caughtBy":"fonoflops","fishType":"arowana","twitchID":42248687}
 {"stats":{"speed":14,"hp":-5,"baseDmg":6,"varDmg":3,"wins":12,"maxHp":2,"originalHp":19},"caughtBy":"fonoflops","fishType":"tilapia","twitchID":42248687}
 {"stats":{"speed":12,"hp":-4,"baseDmg":7,"varDmg":3,"wins":10,"maxHp":20,"originalHp":26},"caughtBy":"JDDoesDev","fishType":"tuna","twitchID":216709612}
-{"stats":{"speed":18,"hp":-3,"baseDmg":6,"varDmg":4,"wins":18,"maxHp":6,"originalHp":20},"caughtBy":"zombiechou","fishType":"squid"}
+{"stats":{"speed":18,"hp":-3,"baseDmg":6,"varDmg":4,"wins":18,"maxHp":6,"originalHp":20},"caughtBy":"zombiechou","fishType":"squid","twitchID":85901348}
 {"stats":{"speed":22,"hp":-6,"baseDmg":9,"varDmg":6,"wins":13,"maxHp":2,"originalHp":36},"caughtBy":"badcop_","fishType":"red,handfish","twitchID":56931496}
 {"stats":{"speed":21,"hp":-4,"baseDmg":7,"varDmg":6,"wins":12,"maxHp":23,"originalHp":29},"caughtBy":"fonoflops","fishType":"axolotl","twitchID":42248687}
 {"stats":{"speed":8,"hp":-4,"baseDmg":11,"varDmg":6,"wins":40,"maxHp":1,"originalHp":31},"caughtBy":"s9tpepper_","fishType":"blahaj","twitchID":961536166}
