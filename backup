@@ -2,8 +2,5 @@
 
 cd "${0%/*}"
 
-ssh-add -L
-
 git add -A
 git commit -am "$(date)"
-git push
