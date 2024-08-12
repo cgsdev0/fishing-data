@@ -1,8 +1,8 @@
 #!/bin/bash
 
-set -x 
-
 cd "${0%/*}"
+
+ssh-add -L
 
 git add -A
 git commit -am "$(date)"
