@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 cd "${0%/*}"
 
 git add -A
