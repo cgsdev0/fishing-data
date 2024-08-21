@@ -1,0 +1,27 @@
+#!/bin/bash
+
+cd "${0%/*}"
+
+function usage() {
+  echo "$0 [old_id] [new_id]"
+  exit 0
+}
+
+if [[ -z "$1" ]]; then
+  usage
+fi
+OLD_ID="$1"
+
+if [[ -z "$2" ]]; then
+  usage
+fi
+NEW_ID="$2"
+
+pushd badcop_
+find -type f | xargs sed -i 's/^'$OLD_ID',$/'$NEW_ID',/'
+popd
+
+# delete the old type of fish from existence
+pushd fish-by-rarity2
+sed -i 's/^'$OLD_ID' /'$NEW_ID' /'
+popd
