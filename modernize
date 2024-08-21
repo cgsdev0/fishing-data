@@ -18,10 +18,10 @@ fi
 NEW_ID="$2"
 
 pushd badcop_
-find -type f | xargs sed -i 's/^'$OLD_ID',$/'$NEW_ID',/'
+find -type f | xargs sed -i 's/^\([0-9]\+,\)'$OLD_ID',/\1'$NEW_ID',/'
 popd
 
 # delete the old type of fish from existence
 pushd fish-by-rarity2
-sed -i 's/^'$OLD_ID' /'$NEW_ID' /'
+sed -i 's/^'$OLD_ID' /'$NEW_ID' /' *
 popd
