@@ -538,3 +538,5 @@
 {"stats":{"hp":-13,"baseDmg":7,"varDmg":4,"speed":13,"maxHp":22,"originalHp":26,"wins":11,"classification":"scarce"},"caughtBy":"ctrl_o","fishType":"starfish","fishId":82,"float":"18016712712416942715","twitchID":121242104}
 {"stats":{"hp":-5,"baseDmg":5,"varDmg":3,"speed":3,"maxHp":20,"originalHp":35,"wins":10,"classification":"scarce"},"caughtBy":"ctrl_o","fishType":"clownfish","fishId":45,"float":"5863898959346843034","twitchID":121242104}
 {"stats":{"hp":-3,"baseDmg":5,"varDmg":4,"speed":10,"maxHp":21,"originalHp":26,"wins":14,"classification":"uncommon"},"caughtBy":"fonoflops","fishType":"clownfish","fishId":44,"float":"11660720717667282312","twitchID":42248687}
+{"stats":{"hp":-3,"baseDmg":5,"varDmg":3,"speed":15,"maxHp":14,"originalHp":21,"wins":10,"classification":"fairly_common"},"caughtBy":"UselessPrincess","fishType":"turtle","fishId":77,"float":"1599150113000004591","twitchID":898625339}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":4,"speed":21,"maxHp":20,"originalHp":27,"wins":18,"classification":"rare"},"caughtBy":"UselessPrincess","fishType":"sardine","fishId":12,"float":"6778590063046398521","twitchID":898625339}
