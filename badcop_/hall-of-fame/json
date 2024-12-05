@@ -603,3 +603,4 @@
 {"stats":{"hp":-6,"baseDmg":5,"varDmg":3,"speed":21,"maxHp":21,"originalHp":30,"wins":16,"classification":"scarce"},"caughtBy":"fonoflops","fishType":"green salmon","fishId":60,"float":"10402494837939046023","twitchID":42248687}
 {"stats":{"hp":-2,"baseDmg":5,"varDmg":4,"speed":8,"maxHp":21,"originalHp":32,"wins":19,"classification":"scarce"},"caughtBy":"Kodder","fishType":"barracuda","fishId":63,"float":"1861134509120688167","twitchID":101185038}
 {"stats":{"hp":-3,"baseDmg":5,"varDmg":4,"speed":17,"maxHp":12,"originalHp":28,"wins":14,"classification":"scarce"},"caughtBy":"Kodder","fishType":"snapperfish","fishId":39,"float":"13072068174630028770","twitchID":101185038}
+{"stats":{"hp":-1,"baseDmg":6,"varDmg":6,"speed":17,"maxHp":17,"originalHp":32,"wins":13,"classification":"legendary"},"caughtBy":"M33pinator","fishType":"shrimp king","fishId":88,"float":"17806007597254296236","twitchID":31775837}
