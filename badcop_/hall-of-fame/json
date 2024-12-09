@@ -613,3 +613,5 @@
 {"stats":{"hp":-6,"baseDmg":5,"varDmg":5,"speed":4,"maxHp":18,"originalHp":31,"wins":15,"classification":"epic"},"caughtBy":"woosaaahh","fishType":"axolotl","fishId":102,"float":"1325497833172406420","twitchID":811200849}
 {"stats":{"hp":-5,"baseDmg":7,"varDmg":4,"speed":21,"maxHp":4,"originalHp":20,"wins":14,"classification":"scarce"},"caughtBy":"MathrimC","fishType":"clownfish","fishId":45,"float":"4624129215503809384","twitchID":108201773}
 {"stats":{"hp":-19,"baseDmg":7,"varDmg":3,"speed":17,"maxHp":21,"originalHp":27,"wins":13,"classification":"rare"},"caughtBy":"M33pinator","fishType":"trout","fishId":21,"float":"5577265666737914380","twitchID":31775837}
+{"stats":{"hp":-1,"baseDmg":7,"varDmg":4,"speed":20,"maxHp":7,"originalHp":22,"wins":15,"classification":"rare"},"caughtBy":"Kodder","fishType":"cutthroat trout","fishId":5027,"float":"4367199460029588297","twitchID":101185038}
+{"stats":{"hp":-1,"baseDmg":5,"varDmg":4,"speed":21,"maxHp":23,"originalHp":29,"wins":11,"classification":"rare"},"caughtBy":"zoephyr_","fishType":"triple tail","fishId":36,"float":"5282531280079941347","twitchID":93063113}
